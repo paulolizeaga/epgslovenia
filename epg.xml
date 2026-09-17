@@ -46,8 +46,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260917120000 +0200" stop="20260917140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">12:00 Nogomet (M): Machida Zelvia - Svay Rieng FC, Azijska druga liga prvakov 2026/2027, AFC Champions League Two Grp. G</title>
-    <category lang="sl">Šport • Nogomet Azijska liga prvakov (TWO) je azijski ekvivalent naše Lige Evropa.</category>
+    <title lang="sl">Nogomet (M): Machida Zelvia - Svay Rieng FC, Azijska druga liga prvakov 2026/2027, AFC Champions League Two Grp. G</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260917140000 +0200" stop="20260917141500 +0200" channel="sk1.delo.si">
     <title lang="sl">Španska liga Stadioni: Stadion Jose Zorrilla</title>
@@ -66,7 +66,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260917174500 +0200" stop="20260917194500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Milan - Benfica, UEFA Evropska liga 2026/27</title>
+    <title lang="sl">17:45 Nogomet (M): Milan - Benfica, UEFA Evropska liga 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260917194500 +0200" stop="20260917200000 +0200" channel="sk1.delo.si">
@@ -554,7 +554,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260917130000 +0200" stop="20260917150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">13:00 Nogomet (M): Leipzig - HSV, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Leipzig - HSV, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260917150000 +0200" stop="20260917170000 +0200" channel="sporttv1.delo.si">
@@ -562,7 +562,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260917170000 +0200" stop="20260917190000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Elversberg - B. München, Bundesliga 2026/2027</title>
+    <title lang="sl">17:00 Nogomet (M): Elversberg - B. München, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260917190000 +0200" stop="20260917200000 +0200" channel="sporttv1.delo.si">
