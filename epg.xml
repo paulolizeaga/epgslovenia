@@ -54,8 +54,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260918163000 +0200" stop="20260918183000 +0200" channel="sk1.delo.si">
-    <title lang="sl">16:30 Nogomet (M): Radomlje - Bravo, EON NextGen 2026/27</title>
-    <category lang="sl">Šport • Nogomet Vabljeni k ogledu EON NextGena, mladinskega državnega prvenstva U-19. Osrednji pokrovitelj tega tekmovanja je Telemach.</category>
+    <title lang="sl">Nogomet (M): Radomlje - Bravo, EON NextGen 2026/27</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260918183000 +0200" stop="20260918202500 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): Besiktas - Marseille, UEFA Evropska liga 2026/27</title>
@@ -66,8 +66,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260918210000 +0200" stop="20260918224500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Espanyol - Elche, Španska liga 2026/2027</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">21:00 Nogomet (M): Espanyol - Elche, Španska liga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet Španska nogometna liga La Liga velja za najboljšo evropsko nogometno ligo. Ustanovljena je bila leta 1929. V ligi sodeluje 20 klubov.</category>
   </programme>
   <programme start="20260918224500 +0200" stop="20260918230000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): Levski - Salzburg, UEFA Evropska liga 2026/27</title>
@@ -546,7 +546,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260918180000 +0200" stop="20260918182500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">18:00 Idealna linija</title>
+    <title lang="sl">Idealna linija</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260918182500 +0200" stop="20260918210000 +0200" channel="sporttv1.delo.si">
@@ -554,7 +554,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20260918210000 +0200" stop="20260918230000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): B. Leverkusen - Celje, UEFA Evropska liga 2026/2027</title>
+    <title lang="sl">21:00 Nogomet (M): B. Leverkusen - Celje, UEFA Evropska liga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260918230000 +0200" stop="20260918234500 +0200" channel="sporttv1.delo.si">
