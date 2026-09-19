@@ -34,7 +34,7 @@
     <category lang="sl">Šport • Ostalo</category>
   </programme>
   <programme start="20260919113000 +0200" stop="20260919133000 +0200" channel="sk1.delo.si">
-    <title lang="sl">11:30 Košarka (M): Melbourne - 36ers, Avstralska liga 2026/27, NBL</title>
+    <title lang="sl">Košarka (M): Melbourne - 36ers, Avstralska liga 2026/27, NBL</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260919133000 +0200" stop="20260919134500 +0200" channel="sk1.delo.si">
@@ -62,7 +62,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260919173000 +0200" stop="20260919193000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Koper - Nafta , Prva liga Telemach 2026/27</title>
+    <title lang="sl">17:30 Nogomet (M): Koper - Nafta , Prva liga Telemach 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260919193000 +0200" stop="20260919210000 +0200" channel="sk1.delo.si">
@@ -526,7 +526,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20260919110000 +0200" stop="20260919125500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">11:00 Nogomet (M): B. München - Union Berlin, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): B. München - Union Berlin, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260919125500 +0200" stop="20260919150000 +0200" channel="sporttv1.delo.si">
@@ -542,7 +542,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260919155500 +0200" stop="20260919183000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Fehervar - Olimpija, ICE Hockey League 2026/2027</title>
+    <title lang="sl">15:55 Hokej (M): Fehervar - Olimpija, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20260919183000 +0200" stop="20260919190000 +0200" channel="sporttv1.delo.si">
