@@ -14,7 +14,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260919040000 +0200" stop="20260919060000 +0200" channel="sk1.delo.si">
-    <title lang="sl">04:00 Nogomet (M): Kasimpasa - Konyaspor, Turška liga 2026/27</title>
+    <title lang="sl">Nogomet (M): Kasimpasa - Konyaspor, Turška liga 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260919060000 +0200" stop="20260919074500 +0200" channel="sk1.delo.si">
@@ -34,7 +34,7 @@
     <category lang="sl">Šport • Ostalo</category>
   </programme>
   <programme start="20260919113000 +0200" stop="20260919133000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Melbourne - 36ers, Avstralska liga 2026/27, NBL</title>
+    <title lang="sl">11:30 Košarka (M): Melbourne - 36ers, Avstralska liga 2026/27, NBL</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260919133000 +0200" stop="20260919134500 +0200" channel="sk1.delo.si">
@@ -78,7 +78,7 @@
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260920010000 +0200" stop="20260920024500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: WTA 500 Guadalajara: Finale</title>
+    <title lang="sl">Tenis: WTA 500 Guadalajara: Finale: Stearns - Jovic</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260920024500 +0200" stop="20260920031500 +0200" channel="sk1.delo.si">
@@ -86,7 +86,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260920031500 +0200" stop="20260920050000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Evroliga Superpokal: Za 3. mesto, TBA</title>
+    <title lang="sl">Košarka: Evroliga Superpokal: Za 3. mesto: Fenerbahce - Dubai</title>
     <category lang="sl">Šport • Ostalo</category>
   </programme>
   <programme start="20260920050000 +0200" stop="20260920070000 +0200" channel="sk1.delo.si">
@@ -106,7 +106,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260920100000 +0200" stop="20260920114500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Evroliga Superpokal: Finale, TBA</title>
+    <title lang="sl">Košarka: Evroliga Superpokal: Finale: Olympiacos - Real Madrid</title>
     <category lang="sl">Šport • Ostalo</category>
   </programme>
   <programme start="20260920114500 +0200" stop="20260920134500 +0200" channel="sk1.delo.si">
@@ -510,7 +510,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260919050000 +0200" stop="20260919070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Nogomet (M): PSV - S. Rotterdam, Nizozemska liga 2026/2027</title>
+    <title lang="sl">Nogomet (M): PSV - S. Rotterdam, Nizozemska liga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260919070000 +0200" stop="20260919080000 +0200" channel="sporttv1.delo.si">
@@ -526,7 +526,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20260919110000 +0200" stop="20260919125500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): B. München - Union Berlin, Bundesliga 2026/2027</title>
+    <title lang="sl">11:00 Nogomet (M): B. München - Union Berlin, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260919125500 +0200" stop="20260919150000 +0200" channel="sporttv1.delo.si">
