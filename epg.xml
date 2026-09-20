@@ -42,8 +42,8 @@
     <category lang="sl">Šport • Ostalo</category>
   </programme>
   <programme start="20260920114500 +0200" stop="20260920134500 +0200" channel="sk1.delo.si">
-    <title lang="sl">11:45 Nogomet (M): Sevilla - Barcelona, Španska liga 2026/27</title>
-    <category lang="sl">Šport • Nogomet Španska nogometna liga La Liga velja za najboljšo evropsko nogometno ligo. Ustanovljena je bila leta 1929. V ligi sodeluje 20 klubov.</category>
+    <title lang="sl">Nogomet (M): Sevilla - Barcelona, Španska liga 2026/27</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260920134500 +0200" stop="20260920143000 +0200" channel="sk1.delo.si">
     <title lang="sl">TV prodaja</title>
@@ -62,7 +62,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260920173000 +0200" stop="20260920193000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Mura - Celje, Prva liga Telemach 2026/27</title>
+    <title lang="sl">17:30 Nogomet (M): Mura - Celje, Prva liga Telemach 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260920193000 +0200" stop="20260920200000 +0200" channel="sk1.delo.si">
@@ -549,7 +549,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260920110000 +0200" stop="20260920125500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">11:00 Nogomet (M): Maribor - Aluminij, Prva liga Telemach 2026/2027</title>
+    <title lang="sl">Nogomet (M): Maribor - Aluminij, Prva liga Telemach 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260920125500 +0200" stop="20260920150000 +0200" channel="sporttv1.delo.si">
@@ -565,7 +565,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260920172500 +0200" stop="20260920192500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Schalke 04 - Elversberg, Bundesliga 2026/2027</title>
+    <title lang="sl">17:25 Nogomet (M): Schalke 04 - Elversberg, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260920192500 +0200" stop="20260920213000 +0200" channel="sporttv1.delo.si">
