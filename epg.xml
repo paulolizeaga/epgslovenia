@@ -62,7 +62,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260920173000 +0200" stop="20260920193000 +0200" channel="sk1.delo.si">
-    <title lang="sl">17:30 Nogomet (M): Mura - Celje, Prva liga Telemach 2026/27</title>
+    <title lang="sl">Nogomet (M): Mura - Celje, Prva liga Telemach 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260920193000 +0200" stop="20260920200000 +0200" channel="sk1.delo.si">
@@ -78,7 +78,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260920221500 +0200" stop="20260920230000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Rokomet (M): Slovan - Celje, 1. NLB liga 2026/27, 1. Liga NLB</title>
+    <title lang="sl">22:15 Rokomet (M): Slovan - Celje, 1. NLB liga 2026/27, 1. Liga NLB</title>
     <category lang="sl">Šport • Rokomet</category>
   </programme>
   <programme start="20260920230000 +0200" stop="20260921000000 +0200" channel="sk1.delo.si">
@@ -162,7 +162,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260922010000 +0200" stop="20260922023000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: WTA 250 Sao Paulo: Finale: Quevedo - Podoroska</title>
+    <title lang="sl">Tenis (Ž): Quevedo - N. Podoroska, WTA 250 Sao Paulo</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260922023000 +0200" stop="20260922043000 +0200" channel="sk1.delo.si">
@@ -262,7 +262,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260923130000 +0200" stop="20260923150000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet: La Liga: Atletico Madrid - Real Madrid</title>
+    <title lang="sl">Nogomet: Španska liga: Atletico Madrid - Real Madrid</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260923150000 +0200" stop="20260923153000 +0200" channel="sk1.delo.si">
@@ -565,7 +565,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260920172500 +0200" stop="20260920192500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">17:25 Nogomet (M): Schalke 04 - Elversberg, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Schalke 04 - Elversberg, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260920192500 +0200" stop="20260920213000 +0200" channel="sporttv1.delo.si">
@@ -573,7 +573,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260920213000 +0200" stop="20260920224500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Twente - PSV, Nizozemska liga 2026/2027</title>
+    <title lang="sl">21:30 Nogomet (M): Twente - PSV, Nizozemska liga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260920224500 +0200" stop="20260920233000 +0200" channel="sporttv1.delo.si">
