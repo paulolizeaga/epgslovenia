@@ -50,7 +50,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260921133000 +0200" stop="20260921151500 +0200" channel="sk1.delo.si">
-    <title lang="sl">13:30 Rokomet (M): Slovan - Celje, 1. NLB liga 2026/27, 1. Liga NLB</title>
+    <title lang="sl">Rokomet (M): Slovan - Celje, 1. NLB liga 2026/27, 1. Liga NLB</title>
     <category lang="sl">Šport • Rokomet</category>
   </programme>
   <programme start="20260921151500 +0200" stop="20260921171500 +0200" channel="sk1.delo.si">
@@ -82,8 +82,8 @@
     <category lang="sl">Šport • Rokomet</category>
   </programme>
   <programme start="20260921230000 +0200" stop="20260922010000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Valencia - R, Sociedad, Španska liga 2026/27</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">23:00 Nogomet (M): Valencia - R, Sociedad, Španska liga 2026/27</title>
+    <category lang="sl">Šport • Nogomet Španska nogometna liga La Liga velja za najboljšo evropsko nogometno ligo. Ustanovljena je bila leta 1929. V ligi sodeluje 20 klubov.</category>
   </programme>
   <programme start="20260922010000 +0200" stop="20260922023000 +0200" channel="sk1.delo.si">
     <title lang="sl">Tenis (Ž): Quevedo - N. Podoroska, WTA 250 Sao Paulo</title>
@@ -554,7 +554,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20260921130000 +0200" stop="20260921150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">13:00 Nogomet (M): B. München - Union Berlin, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): B. München - Union Berlin, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260921150000 +0200" stop="20260921170000 +0200" channel="sporttv1.delo.si">
@@ -578,7 +578,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260921230000 +0200" stop="20260921233000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Celtic - Rangers FC, Škotska liga 2026/2027</title>
+    <title lang="sl">23:00 Nogomet (M): Celtic - Rangers FC, Škotska liga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260921233000 +0200" stop="20260922010000 +0200" channel="sporttv1.delo.si">
