@@ -38,8 +38,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260922120000 +0200" stop="20260922140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">12:00 Nogomet (M): Sevilla - Barcelona, Španska liga 2026/27</title>
-    <category lang="sl">Šport • Nogomet Španska nogometna liga La Liga velja za najboljšo evropsko nogometno ligo. Ustanovljena je bila leta 1929. V ligi sodeluje 20 klubov.</category>
+    <title lang="sl">Nogomet (M): Sevilla - Barcelona, Španska liga 2026/27</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260922140000 +0200" stop="20260922160000 +0200" channel="sk1.delo.si">
     <title lang="sl">Kolesarstvo (M): Dirka po Hrvaški, 1. etapa: Split - Seget Donji (167 km)</title>
@@ -54,8 +54,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260922183000 +0200" stop="20260922190000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Športne igre mladih: 7. oddaja (7/12)</title>
-    <category lang="sl">Razvedrilni program • Kviz</category>
+    <title lang="sl">18:30 Športne igre mladih: 7. oddaja (7/12)</title>
+    <category lang="sl">Razvedrilni program • Kviz Športne igre mladih, prenos odprtja iz Velike Gorice.</category>
   </programme>
   <programme start="20260922190000 +0200" stop="20260922210000 +0200" channel="sk1.delo.si">
     <title lang="sl">Košarka: Turški superpokal: Fenerbahce - Besiktas</title>
@@ -390,7 +390,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20260927123000 +0200" stop="20260927143000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Španska liga: Burgos - Baskonia</title>
+    <title lang="sl">Košarka (M): Burgos - Baskonia, Španska liga 2026/2027, Regular season</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260927143000 +0200" stop="20260927150000 +0200" channel="sk1.delo.si">
@@ -534,7 +534,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20260922130000 +0200" stop="20260922150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">13:00 Nogomet (M): Stuttgart - B Dortmund, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Stuttgart - B Dortmund, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260922150000 +0200" stop="20260922170000 +0200" channel="sporttv1.delo.si">
@@ -554,7 +554,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260922175500 +0200" stop="20260922200000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka (M): Krka - Šentjur, Liga OTP banka 2026/2027</title>
+    <title lang="sl">17:55 Košarka (M): Krka - Šentjur, Liga OTP banka 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260922200000 +0200" stop="20260922210000 +0200" channel="sporttv1.delo.si">
