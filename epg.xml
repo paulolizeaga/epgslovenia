@@ -54,8 +54,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260922183000 +0200" stop="20260922190000 +0200" channel="sk1.delo.si">
-    <title lang="sl">18:30 Športne igre mladih: 7. oddaja (7/12)</title>
-    <category lang="sl">Razvedrilni program • Kviz Športne igre mladih, prenos odprtja iz Velike Gorice.</category>
+    <title lang="sl">Športne igre mladih: 7. oddaja (7/12)</title>
+    <category lang="sl">Razvedrilni program • Kviz</category>
   </programme>
   <programme start="20260922190000 +0200" stop="20260922210000 +0200" channel="sk1.delo.si">
     <title lang="sl">Košarka: Turški superpokal: Fenerbahce - Besiktas</title>
@@ -74,7 +74,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260922224500 +0200" stop="20260922230000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Brisbane - New Zealand, Avstralska liga 2026/27, NBL</title>
+    <title lang="sl">22:45 Košarka (M): Brisbane - New Zealand, Avstralska liga 2026/27, NBL</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260922230000 +0200" stop="20260923001500 +0200" channel="sk1.delo.si">
@@ -97,12 +97,16 @@
     <title lang="sl">WRC Čile: Pregled dirke</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
-  <programme start="20260923070000 +0200" stop="20260923080000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: ATP 250 Chengdu, WTA 500 Singapore in WTA 250 Seoul: 3x</title>
+  <programme start="20260923070000 +0200" stop="20260923084500 +0200" channel="sk1.delo.si">
+    <title lang="sl">Tenis (Ž): Oliynykova - Chwalinska, WTA 500 Singapore</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
-  <programme start="20260923080000 +0200" stop="20260923123000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: ATP 250 Hangzhou, ATP 250 Chengdu, WTA 500 Singapore in WTA 250 Seoul</title>
+  <programme start="20260923084500 +0200" stop="20260923104500 +0200" channel="sk1.delo.si">
+    <title lang="sl">Tenis: WTA 500 Singapore: Mertens - Krejcikova</title>
+    <category lang="sl">Šport • Tenis</category>
+  </programme>
+  <programme start="20260923104500 +0200" stop="20260923123000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Tenis (Ž): Zidansek - K. Birrell, WTA 500 Seul</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260923123000 +0200" stop="20260923130000 +0200" channel="sk1.delo.si">
@@ -554,7 +558,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260922175500 +0200" stop="20260922200000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">17:55 Košarka (M): Krka - Šentjur, Liga OTP banka 2026/2027</title>
+    <title lang="sl">Košarka (M): Krka - Šentjur, Liga OTP banka 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260922200000 +0200" stop="20260922210000 +0200" channel="sporttv1.delo.si">
@@ -901,11 +905,19 @@
     <title lang="sl">Hokej (M): Jesenice - Asiago, Alpska liga 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
-  <programme start="20260928070000 +0200" stop="20260928090000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Schalke 04 - Elversberg, Bundesliga 2026/2027</title>
-    <category lang="sl">Šport • Nogomet</category>
+  <programme start="20260928070000 +0200" stop="20260928073000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Motokros: MXGP Magazin</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
-  <programme start="20260928090000 +0200" stop="20260928110000 +0200" channel="sporttv1.delo.si">
+  <programme start="20260928073000 +0200" stop="20260928074000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Futsal magazin</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
+  </programme>
+  <programme start="20260928074000 +0200" stop="20260928091500 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju: 2. etapa</title>
+    <category lang="sl">Šport • Kolesarstvo</category>
+  </programme>
+  <programme start="20260928091500 +0200" stop="20260928110000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Nogomet (M): E Frankfurt - Freiburg, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
@@ -925,15 +937,15 @@
     <title lang="sl">Nogomet (Ž): Mura Nona - Olimpija, 1. SŽNL 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
-  <programme start="20260928180000 +0200" stop="20260928190000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Avtomobilizem: European Le Mans Series: Vrhunci: Silverstone</title>
-    <category lang="sl">Šport • Informativna oddaja</category>
-  </programme>
-  <programme start="20260928190000 +0200" stop="20260928210000 +0200" channel="sporttv1.delo.si">
+  <programme start="20260928180000 +0200" stop="20260928200000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Nogomet (M): Maribor - Aluminij, Prva liga Telemach 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
-  <programme start="20260928210000 +0200" stop="20260928230000 +0200" channel="sporttv1.delo.si">
+  <programme start="20260928200000 +0200" stop="20260928220000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Pod prečko</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
+  </programme>
+  <programme start="20260928220000 +0200" stop="20260928230000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Hokej (M): Olimpija - VSV, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
