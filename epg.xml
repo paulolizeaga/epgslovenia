@@ -18,8 +18,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260922043000 +0200" stop="20260922063000 +0200" channel="sk1.delo.si">
-    <title lang="sl">04:30 Nogomet (M): Deportivo - Real Betis, Španska liga 2026/2027</title>
-    <category lang="sl">Šport • Nogomet Španska nogometna liga La Liga velja za najboljšo evropsko nogometno ligo. Ustanovljena je bila leta 1929. V ligi sodeluje 20 klubov.</category>
+    <title lang="sl">Nogomet (M): Deportivo - Real Betis, Španska liga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260922063000 +0200" stop="20260922083000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): Radomlje - Bravo, EON NextGen 2026/27</title>
@@ -38,8 +38,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260922120000 +0200" stop="20260922140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Sevilla - Barcelona, Španska liga 2026/27</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">12:00 Nogomet (M): Sevilla - Barcelona, Španska liga 2026/27</title>
+    <category lang="sl">Šport • Nogomet Španska nogometna liga La Liga velja za najboljšo evropsko nogometno ligo. Ustanovljena je bila leta 1929. V ligi sodeluje 20 klubov.</category>
   </programme>
   <programme start="20260922140000 +0200" stop="20260922160000 +0200" channel="sk1.delo.si">
     <title lang="sl">Kolesarstvo (M): Dirka po Hrvaški, 1. etapa: Split - Seget Donji (167 km)</title>
@@ -282,11 +282,11 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260925234500 +0200" stop="20260926013000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Partizan - O. Milano, Evroliga 2026/2027, Round</title>
+    <title lang="sl">Košarka (M): Partizan - O. Milano, Evroliga 2026/27, Round</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260926013000 +0200" stop="20260926033000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Liga narodov: Turčija - Francija</title>
+    <title lang="sl">Nogomet (M): Turčija - Francija, Liga narodov 2026/27, UEFA Nations League A Grp. 1</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260926033000 +0200" stop="20260926053000 +0200" channel="sk1.delo.si">
@@ -294,7 +294,7 @@
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20260926053000 +0200" stop="20260926070000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Turška liga: Tofas - Bandirma</title>
+    <title lang="sl">Košarka (M): Tofaš - Bandirma, Turška liga 2026/27, BSL</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260926070000 +0200" stop="20260926123000 +0200" channel="sk1.delo.si">
@@ -318,7 +318,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260926150000 +0200" stop="20260926170000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Liga narodov: Slovenija - Škotska</title>
+    <title lang="sl">Nogomet (M): Slovenija - Škotska, Liga narodov B 2026/27, UEFA Nations League B Grp. 1</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260926170000 +0200" stop="20260926180000 +0200" channel="sk1.delo.si">
@@ -326,7 +326,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260926180000 +0200" stop="20260926194500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Rokomet: Bundesliga: Kiel - Flensburg</title>
+    <title lang="sl">Rokomet (M): THW Kiel - SG Flensburg, Bundesliga 2026/27</title>
     <category lang="sl">Šport • Rokomet</category>
   </programme>
   <programme start="20260926194500 +0200" stop="20260926204500 +0200" channel="sk1.delo.si">
@@ -334,7 +334,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260926204500 +0200" stop="20260926224500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Liga narodov: Češka - Hrvaška</title>
+    <title lang="sl">Nogomet (M): Češka - Hrvaška, Liga narodov 2026/27, UEFA Nations League A Grp. 3</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260926224500 +0200" stop="20260926231500 +0200" channel="sk1.delo.si">
@@ -342,15 +342,15 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260926231500 +0200" stop="20260926234500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Liga narodov: Anglija - Španija</title>
+    <title lang="sl">Nogomet (M): Anglija - Španija, Liga narodov 2026/27, UEFA Nations League A Grp. 3</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260926234500 +0200" stop="20260927011500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Partizan - O. Milano, Evroliga 2026/2027, Round</title>
+    <title lang="sl">Košarka (M): Partizan - O. Milano, Evroliga 2026/27, Round</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260927011500 +0200" stop="20260927031500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Kolesarstvo: Dirka po Hrvaški: Etapa 5</title>
+    <title lang="sl">Kolesarstvo (M): Dirka po Hrvaški, 5. etapa: Karlovac - Sveta Nedelja (164,5 km)</title>
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20260927031500 +0200" stop="20260927044500 +0200" channel="sk1.delo.si">
@@ -358,7 +358,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260927044500 +0200" stop="20260927063000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Španska liga: Bilbao - Manresa</title>
+    <title lang="sl">Košarka (M): Bilbao - Manresa, Španska liga 2026/27, Liga Endesa</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260927063000 +0200" stop="20260927070000 +0200" channel="sk1.delo.si">
@@ -430,7 +430,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260927231500 +0200" stop="20260927234500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Liga narodov: Anglija - Španija</title>
+    <title lang="sl">Nogomet (M): Anglija - Španija, Liga narodov 2026/27, UEFA Nations League A Grp. 3</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260927234500 +0200" stop="20260928014500 +0200" channel="sk1.delo.si">
@@ -510,15 +510,15 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260922050000 +0200" stop="20260922070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Nogomet (M): HSV - Köln, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): HSV - Köln, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260922070000 +0200" stop="20260922080000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Motokros (M): MX2, 1. dirka, Velika nagrada Avstralije 2026</title>
+    <title lang="sl">Motokros: MX2, Svetovno prvenstvo: VN Avstralije, 1. dirka</title>
     <category lang="sl">Šport • Motokros</category>
   </programme>
   <programme start="20260922080000 +0200" stop="20260922090000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Motokros (M): MX2, 2. dirka, Velika nagrada Avstralije 2026</title>
+    <title lang="sl">Motokros: MX2, Svetovno prvenstvo: VN Avstralije, 2. dirka</title>
     <category lang="sl">Šport • Motokros</category>
   </programme>
   <programme start="20260922090000 +0200" stop="20260922100000 +0200" channel="sporttv1.delo.si">
@@ -534,7 +534,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20260922130000 +0200" stop="20260922150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Stuttgart - B Dortmund, Bundesliga 2026/2027</title>
+    <title lang="sl">13:00 Nogomet (M): Stuttgart - B Dortmund, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260922150000 +0200" stop="20260922170000 +0200" channel="sporttv1.delo.si">
@@ -543,10 +543,10 @@
   </programme>
   <programme start="20260922170000 +0200" stop="20260922173000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Avtomobilizem: Champions of the Future Karting Academy Program: Vrhunci</title>
-    <category lang="sl">Šport • Avto-moto športi</category>
+    <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260922173000 +0200" stop="20260922174500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet: 2. SNL: Vrhunci 7. kola</title>
+    <title lang="sl">Nogomet: 2. SNL: Vrhunci: Vrhunci 7. kola</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260922174500 +0200" stop="20260922175500 +0200" channel="sporttv1.delo.si">
@@ -558,11 +558,11 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260922200000 +0200" stop="20260922210000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Avtomobilizem: Ferrari Challenge UK: Donington, 1. dirka</title>
+    <title lang="sl">Avtomobilizem: Ferrari Challenge: UK - Donington, 1. dirka</title>
     <category lang="sl">Šport • Avto-moto športi</category>
   </programme>
   <programme start="20260922210000 +0200" stop="20260922220000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Avtomobilizem: Ferrari Challenge UK: Donington, 2. dirka</title>
+    <title lang="sl">Avtomobilizem: Ferrari Challenge: UK - Donington, 2. dirka</title>
     <category lang="sl">Šport • Avto-moto športi</category>
   </programme>
   <programme start="20260922220000 +0200" stop="20260922230000 +0200" channel="sporttv1.delo.si">
@@ -833,21 +833,21 @@
     <title lang="sl">Nogomet (M): Schalke 04 - Elversberg, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
-  <programme start="20260927070000 +0200" stop="20260927090000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Stuttgart - B Dortmund, Bundesliga 2026/2027</title>
-    <category lang="sl">Šport • Nogomet</category>
-  </programme>
-  <programme start="20260927090000 +0200" stop="20260927110000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): B. Leverkusen - Leipzig, Bundesliga 2026/2027</title>
-    <category lang="sl">Šport • Nogomet</category>
-  </programme>
-  <programme start="20260927110000 +0200" stop="20260927113000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Bundesliga: Magazin</title>
-    <category lang="sl">Šport • Informativna oddaja</category>
-  </programme>
-  <programme start="20260927113000 +0200" stop="20260927130000 +0200" channel="sporttv1.delo.si">
+  <programme start="20260927070000 +0200" stop="20260927082500 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Košarka (M): Krka - Šentjur, Liga OTP banka 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
+  </programme>
+  <programme start="20260927082500 +0200" stop="20260927100000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju: 1. etapa</title>
+    <category lang="sl">Šport • Kolesarstvo</category>
+  </programme>
+  <programme start="20260927100000 +0200" stop="20260927110000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Avtomobilizem: European Le Mans Series: Vrhunci: Silverstone</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
+  </programme>
+  <programme start="20260927110000 +0200" stop="20260927130000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Nogomet (M): B. Leverkusen - Leipzig, Bundesliga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260927130000 +0200" stop="20260927150000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Hokej (M): Olimpija - Klagenfurt, ICE Hockey League 2026/2027</title>
