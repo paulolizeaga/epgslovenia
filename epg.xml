@@ -18,7 +18,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260923041500 +0200" stop="20260923060000 +0200" channel="sk1.delo.si">
-    <title lang="sl">04:15 Rokomet (M): Eisenach - THW Kiel, Bundesliga 2026/27</title>
+    <title lang="sl">Rokomet (M): Eisenach - THW Kiel, Bundesliga 2026/27</title>
     <category lang="sl">Šport • Rokomet</category>
   </programme>
   <programme start="20260923060000 +0200" stop="20260923070000 +0200" channel="sk1.delo.si">
@@ -30,7 +30,7 @@
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260923084500 +0200" stop="20260923104500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: WTA 500 Singapore: Mertens - Krejcikova</title>
+    <title lang="sl">Tenis (Ž): E. Mertens - Krejcikova, WTA 500 Singapore</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260923104500 +0200" stop="20260923123000 +0200" channel="sk1.delo.si">
@@ -42,8 +42,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260923130000 +0200" stop="20260923150000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Atletico M. - R. Madrid, Španska liga 2026/27</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">13:00 Nogomet (M): Atletico M. - R. Madrid, Španska liga 2026/27</title>
+    <category lang="sl">Šport • Nogomet Španska nogometna liga La Liga velja za najboljšo evropsko nogometno ligo. Ustanovljena je bila leta 1929. V ligi sodeluje 20 klubov.</category>
   </programme>
   <programme start="20260923150000 +0200" stop="20260923153000 +0200" channel="sk1.delo.si">
     <title lang="sl">TV prodaja</title>
@@ -222,7 +222,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260926033000 +0200" stop="20260926053000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Kolesarstvo: Dirka po Hrvaški: Etapa 4</title>
+    <title lang="sl">Kolesarstvo (M): Dirka po Hrvaški, 4. etapa: Pula - Rijeka (160 km)</title>
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20260926053000 +0200" stop="20260926070000 +0200" channel="sk1.delo.si">
@@ -514,7 +514,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260923050000 +0200" stop="20260923070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Nogomet (M): E Frankfurt - Freiburg, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): E Frankfurt - Freiburg, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260923070000 +0200" stop="20260923090000 +0200" channel="sporttv1.delo.si">
@@ -530,11 +530,11 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260923130000 +0200" stop="20260923150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Maribor - Aluminij, Prva liga Telemach 2026/2027</title>
+    <title lang="sl">13:00 Nogomet (M): Maribor - Aluminij, Prva liga Telemach 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260923150000 +0200" stop="20260923170000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Pod prečko</title>
+    <title lang="sl">Pod prečko: Prva liga Telemach</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260923170000 +0200" stop="20260923184500 +0200" channel="sporttv1.delo.si">
@@ -770,7 +770,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260927082500 +0200" stop="20260927100000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju: 1. etapa</title>
+    <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju, 1. etapa: Shah Alam - Kampar (193 km)</title>
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20260927100000 +0200" stop="20260927110000 +0200" channel="sporttv1.delo.si">
@@ -842,7 +842,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260928074000 +0200" stop="20260928091500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju: 2. etapa</title>
+    <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju, 2. etapa: 2. etapa</title>
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20260928091500 +0200" stop="20260928110000 +0200" channel="sporttv1.delo.si">
@@ -906,7 +906,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260929072500 +0200" stop="20260929090000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju: 3. etapa</title>
+    <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju, 3. etapa: Sungai Petani - Kuala Kangsar (189,9 km)</title>
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20260929090000 +0200" stop="20260929110000 +0200" channel="sporttv1.delo.si">
