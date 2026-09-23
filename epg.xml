@@ -66,8 +66,8 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20260923180000 +0200" stop="20260923200000 +0200" channel="sk1.delo.si">
-    <title lang="sl">18:00 Košarka (M): Ilirija - Gorica, Liga OTP banka 2026/27</title>
-    <category lang="sl">Šport • Košarka Vabljeni k ogledu Slovenske košarkarske lige, najpomembnejšega klubskega tekmovanja v svetu slovenske košarke.</category>
+    <title lang="sl">Košarka (M): Ilirija - Gorica, Liga OTP banka 2026/27</title>
+    <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260923200000 +0200" stop="20260923203000 +0200" channel="sk1.delo.si">
     <title lang="sl">ATP Tour This Week</title>
@@ -78,7 +78,7 @@
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20260923223000 +0200" stop="20260923224500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Cairns - Tasmania, Avstralska liga 2026/27, NBL</title>
+    <title lang="sl">22:30 Košarka (M): Cairns - Tasmania, Avstralska liga 2026/27, NBL</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260923224500 +0200" stop="20260924001500 +0200" channel="sk1.delo.si">
@@ -101,12 +101,16 @@
     <title lang="sl">Prva liga Telemach: Pregled kroga</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
-  <programme start="20260924070000 +0200" stop="20260924073000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: ATP 250 Chengdu, WTA 500 Singapore in WTA 250 Seoul: 3x</title>
+  <programme start="20260924070000 +0200" stop="20260924084500 +0200" channel="sk1.delo.si">
+    <title lang="sl">Tenis (M): Griekspoor - D. Šapovalov, ATP 250 Chengdu</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
-  <programme start="20260924073000 +0200" stop="20260924123000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: ATP 250 Hangzhou, ATP 250 Chengdu, WTA 500 Singapore in WTA 250 Seoul</title>
+  <programme start="20260924084500 +0200" stop="20260924103000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Tenis (M): J. Shang - A. Mannarino, ATP 250 Chengdu</title>
+    <category lang="sl">Šport • Tenis</category>
+  </programme>
+  <programme start="20260924103000 +0200" stop="20260924123000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Tenis (M): Shevchenko - Hurkacz, ATP 250 Chengdu</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260924123000 +0200" stop="20260924130000 +0200" channel="sk1.delo.si">
@@ -538,7 +542,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260923170000 +0200" stop="20260923184500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">17:00 Košarka (M): Krka - Šentjur, Liga OTP banka 2026/2027</title>
+    <title lang="sl">Košarka (M): Krka - Šentjur, Liga OTP banka 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260923184500 +0200" stop="20260923191000 +0200" channel="sporttv1.delo.si">
