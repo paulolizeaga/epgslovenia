@@ -58,7 +58,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20260924180000 +0200" stop="20260924200000 +0200" channel="sk1.delo.si">
-    <title lang="sl">18:00 Košarka (M): Dubai - Real Madrid, Evroliga 2026/27, EuroLeague</title>
+    <title lang="sl">Košarka (M): Dubai - Real Madrid, Evroliga 2026/27, EuroLeague</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260924200000 +0200" stop="20260924204500 +0200" channel="sk1.delo.si">
@@ -74,7 +74,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260924224500 +0200" stop="20260925003000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Crvena zvezda - Žalgiris, Evroliga 2026/27, EuroLeague</title>
+    <title lang="sl">22:45 Košarka (M): Crvena zvezda - Žalgiris, Evroliga 2026/27, EuroLeague</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260925003000 +0200" stop="20260925023000 +0200" channel="sk1.delo.si">
@@ -98,11 +98,19 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260925070000 +0200" stop="20260925073000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: ATP 250 Chengdu, WTA 500 Singapore in WTA 250 Seoul: 1/4 finale (3x)</title>
+    <title lang="sl">ATP Tour This Week</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
+  </programme>
+  <programme start="20260925073000 +0200" stop="20260925091500 +0200" channel="sk1.delo.si">
+    <title lang="sl">Tenis (M): 1/8, Hangzhou Open</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
-  <programme start="20260925073000 +0200" stop="20260925123000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: ATP 250 Hangzhou, ATP 250 Chengdu, WTA 500 Singapore in WTA 250 Seoul: 1/4 finale</title>
+  <programme start="20260925091500 +0200" stop="20260925110000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Tenis (M): Marozsán - T. Daniel, Hangzhou Open</title>
+    <category lang="sl">Šport • Tenis</category>
+  </programme>
+  <programme start="20260925110000 +0200" stop="20260925123000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Tenis (M): Hijikata - Rublev, Hangzhou Open</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260925123000 +0200" stop="20260925130000 +0200" channel="sk1.delo.si">
@@ -550,7 +558,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260924183000 +0200" stop="20260924185500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">18:30 Motokros: MXGP Magazin</title>
+    <title lang="sl">Motokros: MXGP Magazin</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260924185500 +0200" stop="20260924213000 +0200" channel="sporttv1.delo.si">
