@@ -42,8 +42,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260924130000 +0200" stop="20260924133000 +0200" channel="sk1.delo.si">
-    <title lang="sl">13:00 TV prodaja</title>
-    <category lang="sl">Propagandni program • TV prodaja Vabljeni k nakupu kar iz naslonjača, s pomočjo televizijske prodaje na našem programu.</category>
+    <title lang="sl">TV prodaja</title>
+    <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20260924133000 +0200" stop="20260924153000 +0200" channel="sk1.delo.si">
     <title lang="sl">Pod prečko</title>
@@ -58,7 +58,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20260924180000 +0200" stop="20260924200000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Dubai - Real Madrid, Evroliga 2026/27, EuroLeague</title>
+    <title lang="sl">18:00 Košarka (M): Dubai - Real Madrid, Evroliga 2026/27, EuroLeague</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260924200000 +0200" stop="20260924204500 +0200" channel="sk1.delo.si">
@@ -530,7 +530,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260924130000 +0200" stop="20260924140000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">13:00 Nogomet: Bundesliga: Vrhunci 4. kola</title>
+    <title lang="sl">Nogomet: Bundesliga: Vrhunci 4. kola</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260924140000 +0200" stop="20260924160000 +0200" channel="sporttv1.delo.si">
@@ -550,7 +550,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260924183000 +0200" stop="20260924185500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Motokros: MXGP Magazin</title>
+    <title lang="sl">18:30 Motokros: MXGP Magazin</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260924185500 +0200" stop="20260924213000 +0200" channel="sporttv1.delo.si">
@@ -701,11 +701,11 @@
     <title lang="sl">Nogomet (M): Schalke 04 - Elversberg, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
-  <programme start="20260927070000 +0200" stop="20260927075500 +0200" channel="sporttv1.delo.si">
+  <programme start="20260927070000 +0200" stop="20260927080000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Avtomobilizem: European Le Mans Series: Vrhunci: Silverstone</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
-  <programme start="20260927075500 +0200" stop="20260927093000 +0200" channel="sporttv1.delo.si">
+  <programme start="20260927080000 +0200" stop="20260927093000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju, 1. etapa: Shah Alam - Kampar (193 km)</title>
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
@@ -769,11 +769,11 @@
     <title lang="sl">Hokej (M): Jesenice - Asiago, Alpska liga 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
-  <programme start="20260928070000 +0200" stop="20260928071500 +0200" channel="sporttv1.delo.si">
+  <programme start="20260928070000 +0200" stop="20260928072000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Futsal magazin</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
-  <programme start="20260928071500 +0200" stop="20260928084500 +0200" channel="sporttv1.delo.si">
+  <programme start="20260928072000 +0200" stop="20260928084500 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju, 2. etapa: 2. etapa</title>
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
@@ -833,11 +833,11 @@
     <title lang="sl">Avtomobilizem: Le Mans Cup: Vrhunci: Silverstone</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
-  <programme start="20260929053000 +0200" stop="20260929065500 +0200" channel="sporttv1.delo.si">
+  <programme start="20260929053000 +0200" stop="20260929070000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Košarka (M): Krka - Šentjur, Liga OTP banka 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
-  <programme start="20260929065500 +0200" stop="20260929083000 +0200" channel="sporttv1.delo.si">
+  <programme start="20260929070000 +0200" stop="20260929083000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju, 3. etapa: Sungai Petani - Kuala Kangsar (189,9 km)</title>
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
@@ -905,11 +905,15 @@
     <title lang="sl">Nogomet (M): Stuttgart - B Dortmund, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
-  <programme start="20260930050000 +0200" stop="20260930072000 +0200" channel="sporttv1.delo.si">
+  <programme start="20260930050000 +0200" stop="20260930055500 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Avtomobilizem: European Le Mans Series: Vrhunci: Silverstone</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
-  <programme start="20260930072000 +0200" stop="20260930085500 +0200" channel="sporttv1.delo.si">
+  <programme start="20260930055500 +0200" stop="20260930072500 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju, 3. etapa: Sungai Petani - Kuala Kangsar (189,9 km)</title>
+    <category lang="sl">Šport • Kolesarstvo</category>
+  </programme>
+  <programme start="20260930072500 +0200" stop="20260930085500 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju, 4. etapa: Meru Raya - Cameron Highlands (140,1 km)</title>
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
