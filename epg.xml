@@ -18,7 +18,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260924041500 +0200" stop="20260924060000 +0200" channel="sk1.delo.si">
-    <title lang="sl">04:15 Košarka (M): Olympiacos - Real Madrid, Evroliga Superpokal 2026, Final</title>
+    <title lang="sl">Košarka (M): Olympiacos - Real Madrid, Evroliga Superpokal 2026, Final</title>
     <category lang="sl">Šport • Ostalo</category>
   </programme>
   <programme start="20260924060000 +0200" stop="20260924070000 +0200" channel="sk1.delo.si">
@@ -42,8 +42,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260924130000 +0200" stop="20260924133000 +0200" channel="sk1.delo.si">
-    <title lang="sl">TV prodaja</title>
-    <category lang="sl">Propagandni program • TV prodaja</category>
+    <title lang="sl">13:00 TV prodaja</title>
+    <category lang="sl">Propagandni program • TV prodaja Vabljeni k nakupu kar iz naslonjača, s pomočjo televizijske prodaje na našem programu.</category>
   </programme>
   <programme start="20260924133000 +0200" stop="20260924153000 +0200" channel="sk1.delo.si">
     <title lang="sl">Pod prečko</title>
@@ -506,11 +506,11 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260924050000 +0200" stop="20260924060000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Motokros (M): MX2, 1. dirka, Velika nagrada Avstralije 2026</title>
+    <title lang="sl">Motokros (M): MX2, 1. dirka, Velika nagrada Avstralije 2026</title>
     <category lang="sl">Šport • Motokros</category>
   </programme>
   <programme start="20260924060000 +0200" stop="20260924070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Motokros (M): MX2, 2. dirka, Velika nagrada Avstralije 2026</title>
+    <title lang="sl">Motokros: MX2, Svetovno prvenstvo: VN Avstralije, 2. dirka</title>
     <category lang="sl">Šport • Motokros</category>
   </programme>
   <programme start="20260924070000 +0200" stop="20260924080000 +0200" channel="sporttv1.delo.si">
@@ -530,7 +530,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260924130000 +0200" stop="20260924140000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet: Bundesliga: Vrhunci 4. kola</title>
+    <title lang="sl">13:00 Nogomet: Bundesliga: Vrhunci 4. kola</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260924140000 +0200" stop="20260924160000 +0200" channel="sporttv1.delo.si">
@@ -542,7 +542,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260924180000 +0200" stop="20260924181500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet: 2. SNL: Vrhunci 7. kola</title>
+    <title lang="sl">Nogomet: 2. SNL: Vrhunci</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260924181500 +0200" stop="20260924183000 +0200" channel="sporttv1.delo.si">
