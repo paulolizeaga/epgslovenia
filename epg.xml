@@ -66,8 +66,8 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20260925180000 +0200" stop="20260925200000 +0200" channel="sk1.delo.si">
-    <title lang="sl">18:00 Nogomet (M): Gruzija - Severna Irska, Liga narodov B 2026/27, Skupina 2</title>
-    <category lang="sl">Šport • Nogomet Nogometni turnir, ki poteka vsaki dve leti, med reprezentancami, ki so članice evropske konfederacije.</category>
+    <title lang="sl">Nogomet (M): Gruzija - Severna Irska, Liga narodov B 2026/27, Skupina 2</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260925200000 +0200" stop="20260925204500 +0200" channel="sk1.delo.si">
     <title lang="sl">Liga prvakov: Magazin</title>
@@ -570,7 +570,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260925183000 +0200" stop="20260925190000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">18:30 Bundesliga: Magazin</title>
+    <title lang="sl">Bundesliga: Magazin</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260925190000 +0200" stop="20260925214500 +0200" channel="sporttv1.delo.si">
@@ -942,7 +942,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261001030000 +0200" stop="20261001050000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka: Evropokal: Lietkabelis - Bosna</title>
+    <title lang="sl">Košarka (M): Lietkabelis - Bosna S., Eurocup 2026/2027, Skupina D</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261001050000 +0200" stop="20261001063000 +0200" channel="sporttv1.delo.si">
