@@ -62,7 +62,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260926180000 +0200" stop="20260926194500 +0200" channel="sk1.delo.si">
-    <title lang="sl">18:00 Rokomet (M): THW Kiel - SG Flensburg, Bundesliga 2026/27</title>
+    <title lang="sl">Rokomet (M): THW Kiel - SG Flensburg, Bundesliga 2026/27</title>
     <category lang="sl">Šport • Rokomet</category>
   </programme>
   <programme start="20260926194500 +0200" stop="20260926204500 +0200" channel="sk1.delo.si">
@@ -74,7 +74,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260926224500 +0200" stop="20260926231500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Evroliga: Pregled 1. kroga</title>
+    <title lang="sl">22:45 Evroliga: Pregled 1. kroga</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260926231500 +0200" stop="20260926234500 +0200" channel="sk1.delo.si">
@@ -594,7 +594,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260926172500 +0200" stop="20260926193000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">17:25 Košarka (M): Domžale - Polzela, Liga OTP banka 2026/2027</title>
+    <title lang="sl">Košarka (M): Domžale - Polzela, Liga OTP banka 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260926193000 +0200" stop="20260926203000 +0200" channel="sporttv1.delo.si">
@@ -610,7 +610,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260926213000 +0200" stop="20260926230000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka (M): Krka - Šentjur, Liga OTP banka 2026/2027</title>
+    <title lang="sl">21:30 Košarka (M): Krka - Šentjur, Liga OTP banka 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260926230000 +0200" stop="20260927010000 +0200" channel="sporttv1.delo.si">
