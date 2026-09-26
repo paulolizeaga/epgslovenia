@@ -18,11 +18,23 @@
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20260926053000 +0200" stop="20260926070000 +0200" channel="sk1.delo.si">
-    <title lang="sl">05:30 Košarka (M): Tofaš - Bandirma, Turška liga 2026/27, BSL</title>
-    <category lang="sl">Šport • Košarka Vabljeni k ogledu Turške košarkarske lige, ene izmed najmočnejših v Evropi. Tekmovanje poteka pod okriljem Turške košarkarske zveze.</category>
+    <title lang="sl">Košarka (M): Tofaš - Bandirma, Turška liga 2026/27, BSL</title>
+    <category lang="sl">Šport • Košarka</category>
   </programme>
-  <programme start="20260926070000 +0200" stop="20260926123000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: ATP 250 Chengdu</title>
+  <programme start="20260926070000 +0200" stop="20260926073000 +0200" channel="sk1.delo.si">
+    <title lang="sl">ATP Tour This Week</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
+  </programme>
+  <programme start="20260926073000 +0200" stop="20260926091500 +0200" channel="sk1.delo.si">
+    <title lang="sl">Tenis: ATP 250 Hangzhou: Halys - Safiullin</title>
+    <category lang="sl">Šport • Tenis</category>
+  </programme>
+  <programme start="20260926091500 +0200" stop="20260926110000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Tenis: ATP 250 Hangzhou: Bu - Majchrzak</title>
+    <category lang="sl">Šport • Tenis</category>
+  </programme>
+  <programme start="20260926110000 +0200" stop="20260926123000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Tenis: ATP 250 Hangzhou: Medvedve - Royer</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260926123000 +0200" stop="20260926130000 +0200" channel="sk1.delo.si">
@@ -30,8 +42,8 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20260926130000 +0200" stop="20260926131500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Športne igre mladih</title>
-    <category lang="sl">Razvedrilni program • Kviz</category>
+    <title lang="sl">13:00 Športne igre mladih</title>
+    <category lang="sl">Razvedrilni program • Kviz Športne igre mladih, prenos odprtja iz Velike Gorice.</category>
   </programme>
   <programme start="20260926131500 +0200" stop="20260926140000 +0200" channel="sk1.delo.si">
     <title lang="sl">TV prodaja</title>
@@ -121,11 +133,15 @@
     <title lang="sl">TV prodaja</title>
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
-  <programme start="20260927150000 +0200" stop="20260927170500 +0200" channel="sk1.delo.si">
+  <programme start="20260927150000 +0200" stop="20260927170000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): Krško - ND Bilje, 2. SNL 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
-  <programme start="20260927170500 +0200" stop="20260927173000 +0200" channel="sk1.delo.si">
+  <programme start="20260927170000 +0200" stop="20260927171000 +0200" channel="sk1.delo.si">
+    <title lang="sl">SK Mix</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
+  </programme>
+  <programme start="20260927171000 +0200" stop="20260927173000 +0200" channel="sk1.delo.si">
     <title lang="sl">Rokomet (m): 1. SRL: Uvod v tekmo Celje P.L. - Gorenje (V)</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
@@ -550,7 +566,7 @@
     <category lang="sl">Šport • Motokros</category>
   </programme>
   <programme start="20260926060000 +0200" stop="20260926070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">06:00 Motokros (M): MX2, 2. dirka, Velika nagrada Avstralije 2026</title>
+    <title lang="sl">Motokros (M): MX2, 2. dirka, Velika nagrada Avstralije 2026</title>
     <category lang="sl">Šport • Motokros</category>
   </programme>
   <programme start="20260926070000 +0200" stop="20260926090000 +0200" channel="sporttv1.delo.si">
@@ -566,7 +582,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260926130000 +0200" stop="20260926150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Maribor - Aluminij, Prva liga Telemach 2026/2027</title>
+    <title lang="sl">13:00 Nogomet (M): Maribor - Aluminij, Prva liga Telemach 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260926150000 +0200" stop="20260926170000 +0200" channel="sporttv1.delo.si">
