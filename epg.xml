@@ -18,7 +18,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260927044500 +0200" stop="20260927063000 +0200" channel="sk1.delo.si">
-    <title lang="sl">04:45 Košarka (M): Bilbao - Manresa, Španska liga 2026/27, Liga Endesa</title>
+    <title lang="sl">Košarka (M): Bilbao - Manresa, Španska liga 2026/27, Liga Endesa</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260927063000 +0200" stop="20260927070000 +0200" channel="sk1.delo.si">
@@ -50,7 +50,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20260927123000 +0200" stop="20260927143000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Burgos - Baskonia, Španska liga 2026/2027, Regular season</title>
+    <title lang="sl">12:30 Košarka (M): Burgos - Baskonia, Španska liga 2026/2027, Regular season</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260927143000 +0200" stop="20260927150000 +0200" channel="sk1.delo.si">
@@ -102,7 +102,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260928014500 +0200" stop="20260928031500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: WTA 500 Singapore: Finale</title>
+    <title lang="sl">Tenis (Ž): Fernandez - Gibson, WTA 500 Singapore</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260928031500 +0200" stop="20260928051500 +0200" channel="sk1.delo.si">
@@ -110,7 +110,7 @@
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20260928051500 +0200" stop="20260928064500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: WTA 250 Seul: Finale</title>
+    <title lang="sl">Tenis: WTA 250 Seul: Finale: Joint - Birrell</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260928064500 +0200" stop="20260928083000 +0200" channel="sk1.delo.si">
@@ -554,7 +554,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260927050000 +0200" stop="20260927070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Nogomet (M): Schalke 04 - Elversberg, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Schalke 04 - Elversberg, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260927070000 +0200" stop="20260927080000 +0200" channel="sporttv1.delo.si">
@@ -574,7 +574,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260927130000 +0200" stop="20260927150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Olimpija - Klagenfurt, ICE Hockey League 2026/2027</title>
+    <title lang="sl">13:00 Hokej (M): Olimpija - Klagenfurt, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20260927150000 +0200" stop="20260927170000 +0200" channel="sporttv1.delo.si">
