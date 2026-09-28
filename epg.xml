@@ -18,8 +18,8 @@
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20260928051500 +0200" stop="20260928064500 +0200" channel="sk1.delo.si">
-    <title lang="sl">05:15 Tenis: WTA 250 Seul: Finale: Joint - Birrell</title>
-    <category lang="sl">Šport • Tenis Vabljeni k ogledu Odprtega prvenstva Koreje, profesionalnega teniškega turnirja za ženske, ki poteka od 9. do 15. oktobra v Seulu (Južna Koreja).</category>
+    <title lang="sl">Tenis: WTA 250 Seul: Finale: Joint - Birrell</title>
+    <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260928064500 +0200" stop="20260928083000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): Krško - ND Bilje, 2. SNL 2026/27</title>
@@ -34,11 +34,11 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20260928110000 +0200" stop="20260928130000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: ATP 250 Chengdu: 1/2 finale: Basilashvili - Davidovich Fokina</title>
+    <title lang="sl">Tenis (M): N.Basilashvili - Davidovich Fokina, ATP 250 Chengdu</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260928130000 +0200" stop="20260928143000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: ATP 250 Chengdu: 1/2 finale: Hurkacz - Šapovalov</title>
+    <title lang="sl">Tenis (M): Hurkacz - D. Šapovalov, ATP 250 Chengdu</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260928143000 +0200" stop="20260928150000 +0200" channel="sk1.delo.si">
@@ -46,8 +46,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260928150000 +0200" stop="20260928153000 +0200" channel="sk1.delo.si">
-    <title lang="sl">TV prodaja</title>
-    <category lang="sl">Propagandni program • TV prodaja</category>
+    <title lang="sl">15:00 TV prodaja</title>
+    <category lang="sl">Propagandni program • TV prodaja Vabljeni k nakupu kar iz naslonjača, s pomočjo televizijske prodaje na našem programu.</category>
   </programme>
   <programme start="20260928153000 +0200" stop="20260928173000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): Norveška - Portugalska, Liga narodov 2026/27, UEFA Nations League A Grp. 4</title>
@@ -170,7 +170,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260930061500 +0200" stop="20260930080000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Grški superpokal: Finale: TBA</title>
+    <title lang="sl">Košarka (M): Olympiacos - PAOK, Grški superpokal 2026, Finale</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260930080000 +0200" stop="20260930100000 +0200" channel="sk1.delo.si">
@@ -310,7 +310,7 @@
     <category lang="sl">Šport • Rokomet</category>
   </programme>
   <programme start="20261002003000 +0200" stop="20261002023000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Danska - Portugalska, Liga narodov 2026/2027, UEFA Nations League A Grp. 4</title>
+    <title lang="sl">Nogomet (M): Danska - Portugalska, Liga narodov 2026/27, UEFA Nations League A Grp. 4</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261002023000 +0200" stop="20261002040000 +0200" channel="sk1.delo.si">
@@ -334,7 +334,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261002084500 +0200" stop="20261002104500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Liga narodov: Grčija - Nizozemska</title>
+    <title lang="sl">Nogomet (M): Grčija - Nizozemska, Liga narodov 2026/27, Skupina 2</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261002104500 +0200" stop="20261002121500 +0200" channel="sk1.delo.si">
@@ -346,7 +346,7 @@
     <category lang="sl">Razvedrilni program • Kviz</category>
   </programme>
   <programme start="20261002123000 +0200" stop="20261002143000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Liga narodov: Nemčija - Srbija</title>
+    <title lang="sl">Nogomet (M): Nemčija - Srbija, Liga narodov 2026/27, Skupina 2</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261002143000 +0200" stop="20261002161500 +0200" channel="sk1.delo.si">
@@ -366,7 +366,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261002180000 +0200" stop="20261002195000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet: Kvalifikacije za EP U21: Slovenija - Nizozemska</title>
+    <title lang="sl">Nogomet (M): Slovenija - Nizozemska, Kvalifikacije za EP 2025, Skupina G</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261002195000 +0200" stop="20261002200500 +0200" channel="sk1.delo.si">
@@ -378,7 +378,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261002204500 +0200" stop="20261002224500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Liga narodov: BiH - Švedska</title>
+    <title lang="sl">Nogomet (M): BiH - Švedska, Liga narodov B 2026/27, Skupina 4</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261002224500 +0200" stop="20261003003000 +0200" channel="sk1.delo.si">
@@ -386,7 +386,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261003003000 +0200" stop="20261003023000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Liga narodov: Francija - Italija</title>
+    <title lang="sl">Nogomet (M): Francija - Italija, Liga narodov 2026/27, UEFA Nations League A Grp. 1</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261003023000 +0200" stop="20261003040000 +0200" channel="sk1.delo.si">
@@ -394,7 +394,7 @@
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261003040000 +0200" stop="20261003060000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Liga narodov: Ciper - Armenija</title>
+    <title lang="sl">Nogomet (M): Ciper - Armenija, Liga narodov C 2026/27, Skupina 2</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261003060000 +0200" stop="20261003080000 +0200" channel="sk1.delo.si">
@@ -542,7 +542,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260928050000 +0200" stop="20260928070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Hokej (M): Jesenice - Asiago, Alpska liga 2026/2027</title>
+    <title lang="sl">Hokej (M): Jesenice - Asiago, Alpska liga 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20260928070000 +0200" stop="20260928072000 +0200" channel="sporttv1.delo.si">
@@ -570,7 +570,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260928143000 +0200" stop="20260928155500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka (M): Domžale - Polzela, Liga OTP banka 2026/2027</title>
+    <title lang="sl">14:30 Košarka (M): Domžale - Polzela, Liga OTP banka 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260928155500 +0200" stop="20260928180000 +0200" channel="sporttv1.delo.si">
@@ -845,12 +845,9 @@
     <title lang="sl">Peta četrtina</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
-  <programme start="20261002183000 +0200" stop="20261002190000 +0200" channel="sporttv1.delo.si">
+  <programme start="20261002183000 +0200" stop="20261002194000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Bundesliga: Posebno poročilo: 2. del</title>
     <category lang="sl">Šport • Informativna oddaja</category>
-  </programme>
-  <programme start="20261002190000 +0200" stop="20261002194000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Lov se nadaljuje Dokumentarni program • Reportaža</title>
   </programme>
   <programme start="20261002194000 +0200" stop="20261002221500 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Hokej (M): Pustertal - Olimpija, ICE Hockey League 2026/2027</title>
