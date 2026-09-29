@@ -18,8 +18,8 @@
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260929060000 +0200" stop="20260929080000 +0200" channel="sk1.delo.si">
-    <title lang="sl">06:00 Nogomet (M): Švedska - Poljska, Liga narodov B 2026/27, Skupina 4</title>
-    <category lang="sl">Šport • Nogomet Nogometni turnir, ki poteka vsaki dve leti, med reprezentancami, ki so članice evropske konfederacije.</category>
+    <title lang="sl">Nogomet (M): Švedska - Poljska, Liga narodov B 2026/27, Skupina 4</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260929080000 +0200" stop="20260929083000 +0200" channel="sk1.delo.si">
     <title lang="sl">Liga prvakov: Magazin</title>
@@ -38,7 +38,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260929130000 +0200" stop="20260929150000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: ATP 250 Chengdu: Finale</title>
+    <title lang="sl">13:00 Tenis (M): Hurkacz - Davidovich Fokina, ATP 250 Chengdu</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260929150000 +0200" stop="20260929153000 +0200" channel="sk1.delo.si">
@@ -66,7 +66,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260929182000 +0200" stop="20260929194500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: ATP 250 Hangzhou: Finale</title>
+    <title lang="sl">Tenis (M): Medvedev - Rublev, ATP 250 Hangzhou</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260929194500 +0200" stop="20260929204500 +0200" channel="sk1.delo.si">
@@ -350,7 +350,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261003120000 +0200" stop="20261003140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Turška liga: Denizli - Tofas</title>
+    <title lang="sl">Košarka (M): Denizli Basket - Tofaš, Turška liga 2026/2027, BSL</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261003140000 +0200" stop="20261003143000 +0200" channel="sk1.delo.si">
@@ -402,7 +402,7 @@
     <category lang="sl">Šport • Ostalo</category>
   </programme>
   <programme start="20261004044500 +0200" stop="20261004063000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Španska liga: Manresa - Rio Breogan</title>
+    <title lang="sl">Košarka (M): Manresa - Breogan, Španska liga 2026/2027, Regular season</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261004063000 +0200" stop="20261004083000 +0200" channel="sk1.delo.si">
@@ -422,7 +422,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261004120000 +0200" stop="20261004140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Turška liga: Bandirma - Efes</title>
+    <title lang="sl">Košarka (M): Bandirma - Efes, Turška liga 2026/2027, BSL</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261004140000 +0200" stop="20261004143000 +0200" channel="sk1.delo.si">
@@ -470,7 +470,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261005044500 +0200" stop="20261005063000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Španska liga: Monbus - Real Madrid</title>
+    <title lang="sl">Košarka (M): Obradoiro CAB - Real Madrid, Španska liga 2026/2027, Regular season</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261005063000 +0200" stop="20261005064500 +0200" channel="sk1.delo.si">
@@ -478,7 +478,7 @@
     <category lang="sl">Razvedrilni program • Kviz</category>
   </programme>
   <programme start="20261005064500 +0200" stop="20261005081500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Španska liga: Murcia - Barcelona</title>
+    <title lang="sl">Košarka (M): Murcia - Barcelona, Španska liga 2026/2027, Regular season</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261005081500 +0200" stop="20261005090000 +0200" channel="sk1.delo.si">
@@ -542,7 +542,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260929053000 +0200" stop="20260929070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:30 Košarka (M): Krka - Šentjur, Liga OTP banka 2026/2027</title>
+    <title lang="sl">Košarka (M): Krka - Šentjur, Liga OTP banka 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260929070000 +0200" stop="20260929083000 +0200" channel="sporttv1.delo.si">
@@ -566,7 +566,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260929130000 +0200" stop="20260929150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (Ž): Mura Nona - Olimpija, 1. SŽNL 2026/2027</title>
+    <title lang="sl">13:00 Nogomet (Ž): Mura Nona - Olimpija, 1. SŽNL 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260929150000 +0200" stop="20260929170000 +0200" channel="sporttv1.delo.si">
@@ -758,7 +758,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261002113000 +0200" stop="20261002133000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka: Evropokal: Maxima Roma - Cluj</title>
+    <title lang="sl">Košarka (M): Skupina B, Eurocup</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261002133000 +0200" stop="20261002143000 +0200" channel="sporttv1.delo.si">
@@ -885,7 +885,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261004030000 +0200" stop="20261004050000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka: Evropokal: Klaipeda - Trento</title>
+    <title lang="sl">Košarka (M): Neptunas - Trento, Eurocup 2026/2027, Skupina C</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261004050000 +0200" stop="20261004063000 +0200" channel="sporttv1.delo.si">
