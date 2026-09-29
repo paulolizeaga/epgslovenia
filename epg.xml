@@ -10,16 +10,16 @@
     <icon src="https://upload.wikimedia.org/wikipedia/en/1/1b/%C5%A0port_TV_%28Slovenia%29.png?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=original" />
   </channel>
   <programme start="20260929010000 +0200" stop="20260929030000 +0200" channel="sk1.delo.si">
-    <title lang="sl">01:00 Nogomet (M): Belgija - Francija, Liga narodov 2026/27, UEFA Nations League A Grp. 1</title>
-    <category lang="sl">Šport • Nogomet Nogometni turnir, ki poteka vsaki dve leti, med reprezentancami, ki so članice evropske konfederacije.</category>
+    <title lang="sl">Nogomet (M): Belgija - Francija, Liga narodov 2026/27, UEFA Nations League A Grp. 1</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260929030000 +0200" stop="20260929060000 +0200" channel="sk1.delo.si">
     <title lang="sl">Tenis: ATP 250 Hangzhou: 1/2 finale (2x)</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20260929060000 +0200" stop="20260929080000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Švedska - Poljska, Liga narodov B 2026/27, Skupina 4</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">06:00 Nogomet (M): Švedska - Poljska, Liga narodov B 2026/27, Skupina 4</title>
+    <category lang="sl">Šport • Nogomet Nogometni turnir, ki poteka vsaki dve leti, med reprezentancami, ki so članice evropske konfederacije.</category>
   </programme>
   <programme start="20260929080000 +0200" stop="20260929083000 +0200" channel="sk1.delo.si">
     <title lang="sl">Liga prvakov: Magazin</title>
@@ -530,7 +530,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260929010000 +0200" stop="20260929030000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">01:00 Nogomet (M): B. Leverkusen - Leipzig, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): B. Leverkusen - Leipzig, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260929030000 +0200" stop="20260929050000 +0200" channel="sporttv1.delo.si">
@@ -542,7 +542,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260929053000 +0200" stop="20260929070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka (M): Krka - Šentjur, Liga OTP banka 2026/2027</title>
+    <title lang="sl">05:30 Košarka (M): Krka - Šentjur, Liga OTP banka 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260929070000 +0200" stop="20260929083000 +0200" channel="sporttv1.delo.si">
