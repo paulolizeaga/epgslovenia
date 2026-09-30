@@ -22,7 +22,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20260930061500 +0200" stop="20260930080000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Olympiacos - PAOK, Grški superpokal 2026, Finale</title>
+    <title lang="sl">06:15 Košarka (M): Olympiacos - PAOK, Grški superpokal 2026, Finale</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260930080000 +0200" stop="20260930100000 +0200" channel="sk1.delo.si">
@@ -82,8 +82,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260930234500 +0200" stop="20261001011500 +0200" channel="sk1.delo.si">
-    <title lang="sl">23:45 Nogomet: Liga narodov: Pregled ponedeljkovih tekem</title>
-    <category lang="sl">Šport • Informativna oddaja V našem športnem magazinu lahko prisluhnete analizam, komentarjem in intervjujem ter si ogledate najlepše poteze in gole iz Lige narodov.</category>
+    <title lang="sl">Nogomet: Liga narodov: Pregled ponedeljkovih tekem</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261001011500 +0200" stop="20261001030000 +0200" channel="sk1.delo.si">
     <title lang="sl">Tenis ATP: ATP 500 Peking in Tokio</title>
@@ -534,7 +534,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260930055500 +0200" stop="20260930072500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju, 3. etapa: Sungai Petani - Kuala Kangsar (189,9 km)</title>
+    <title lang="sl">05:55 Kolesarstvo (M): Dirka po Langkawiju, 3. etapa: Sungai Petani - Kuala Kangsar (189,9 km)</title>
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20260930072500 +0200" stop="20260930085500 +0200" channel="sporttv1.delo.si">
@@ -562,7 +562,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260930170000 +0200" stop="20260930172500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Bundesliga: Posebno poročilo: 2. del</title>
+    <title lang="sl">Bundesliga: Posebno poročilo</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20260930172500 +0200" stop="20260930193000 +0200" channel="sporttv1.delo.si">
@@ -582,7 +582,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20260930223000 +0200" stop="20260930224500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">22:30 Hokej (M): Jesenice - Salzburg Juniors, Alpska liga 2026/2027</title>
+    <title lang="sl">Hokej (M): Jesenice - Salzburg Juniors, Alpska liga 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20260930224500 +0200" stop="20260930230000 +0200" channel="sporttv1.delo.si">
