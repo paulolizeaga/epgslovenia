@@ -26,7 +26,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261002063000 +0200" stop="20261002081500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Hapoel - Real Madrid, Evroliga 2026/2027, Round</title>
+    <title lang="sl">06:30 Košarka (M): Hapoel - Real Madrid, Evroliga 2026/2027, Round</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261002081500 +0200" stop="20261002084500 +0200" channel="sk1.delo.si">
@@ -82,7 +82,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261002224500 +0200" stop="20261003003000 +0200" channel="sk1.delo.si">
-    <title lang="sl">22:45 Košarka (M): Crvena zvezda - Efes, Evroliga 2026/2027, Round</title>
+    <title lang="sl">Košarka (M): Crvena zvezda - Efes, Evroliga 2026/2027, Round</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261003003000 +0200" stop="20261003023000 +0200" channel="sk1.delo.si">
@@ -490,7 +490,7 @@
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20261002063000 +0200" stop="20261002080000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju, 5. etapa: 5. etapa</title>
+    <title lang="sl">06:30 Kolesarstvo (M): Dirka po Langkawiju, 5. etapa: 5. etapa</title>
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20261002080000 +0200" stop="20261002093000 +0200" channel="sporttv1.delo.si">
@@ -522,7 +522,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261002183000 +0200" stop="20261002190000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Bundesliga: Posebno poročilo: 2. del</title>
+    <title lang="sl">Bundesliga: Posebno poročilo</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261002190000 +0200" stop="20261002193000 +0200" channel="sporttv1.delo.si">
@@ -542,7 +542,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261002230000 +0200" stop="20261003001500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">23:00 Hokej (M): Olimpija - VSV, ICE Hockey League 2026/2027</title>
+    <title lang="sl">Hokej (M): Olimpija - VSV, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261003001500 +0200" stop="20261003003000 +0200" channel="sporttv1.delo.si">
