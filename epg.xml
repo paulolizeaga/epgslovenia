@@ -26,7 +26,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261002063000 +0200" stop="20261002081500 +0200" channel="sk1.delo.si">
-    <title lang="sl">06:30 Košarka (M): Hapoel - Real Madrid, Evroliga 2026/2027, Round</title>
+    <title lang="sl">Košarka (M): Hapoel - Real Madrid, Evroliga 2026/2027, Round</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261002081500 +0200" stop="20261002084500 +0200" channel="sk1.delo.si">
@@ -46,8 +46,8 @@
     <category lang="sl">Razvedrilni program • Kviz</category>
   </programme>
   <programme start="20261002123000 +0200" stop="20261002143000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Nemčija - Srbija, Liga narodov 2026/27, Skupina 2</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">12:30 Nogomet (M): Nemčija - Srbija, Liga narodov 2026/27, Skupina 2</title>
+    <category lang="sl">Šport • Nogomet Nogometni turnir, ki poteka vsaki dve leti, med reprezentancami, ki so članice evropske konfederacije.</category>
   </programme>
   <programme start="20261002143000 +0200" stop="20261002161500 +0200" channel="sk1.delo.si">
     <title lang="sl">Košarka (M): Crvena zvezda - Efes, Evroliga 2026/2027, Round</title>
@@ -418,11 +418,11 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261008013000 +0200" stop="20261008033000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Liga narodov: Francija - Belgija</title>
+    <title lang="sl">Nogomet (M): Francija - Belgija, Liga narodov 2026/2027, UEFA Nations League A Grp. 1</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261008033000 +0200" stop="20261008053000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Liga narodov: Italija - Turčija</title>
+    <title lang="sl">Nogomet (M): Italija - Turčija, Liga narodov 2026/2027, UEFA Nations League A Grp. 1</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261008053000 +0200" stop="20261008060000 +0200" channel="sk1.delo.si">
@@ -454,7 +454,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261008180000 +0200" stop="20261008200000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Evroliga: 4. krog: Dubai - Crvena zvezda</title>
+    <title lang="sl">Košarka (M): Dubai - Crvena zvezda, Evroliga 2026/2027, Round</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261008200000 +0200" stop="20261008204500 +0200" channel="sk1.delo.si">
@@ -462,7 +462,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261008204500 +0200" stop="20261008224500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Evroliga: 4. krog: Real Madrid - Partizan</title>
+    <title lang="sl">Košarka (M): Real Madrid - Partizan, Evroliga 2026/2027, Round</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261008224500 +0200" stop="20261008231500 +0200" channel="sk1.delo.si">
@@ -470,11 +470,11 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261008231500 +0200" stop="20261008234500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Evroliga: 4. krog: Panathinaikos - Fenerbahce</title>
+    <title lang="sl">Košarka (M): Panathinaikos - Fenerbahče, Evroliga 2026/2027, Round</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261008234500 +0200" stop="20261009014500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (Ž): WABA liga: Cinkarna Celje - Trešnjevka 2009</title>
+    <title lang="sl">Košarka (Ž): Main, WABA liga</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261002010000 +0200" stop="20261002030000 +0200" channel="sporttv1.delo.si">
@@ -490,7 +490,7 @@
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20261002063000 +0200" stop="20261002080000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">06:30 Kolesarstvo (M): Dirka po Langkawiju, 5. etapa: 5. etapa</title>
+    <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju, 5. etapa: 5. etapa</title>
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20261002080000 +0200" stop="20261002093000 +0200" channel="sporttv1.delo.si">
@@ -506,7 +506,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261002133000 +0200" stop="20261002143000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Avtomobilizem: European Le Mans Series: Vrhunci: Silverstone</title>
+    <title lang="sl">13:30 Avtomobilizem: European Le Mans Series: Vrhunci: Silverstone</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261002143000 +0200" stop="20261002160000 +0200" channel="sporttv1.delo.si">
