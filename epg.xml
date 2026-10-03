@@ -42,8 +42,8 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261003120000 +0200" stop="20261003140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">12:00 Košarka (M): Denizli Basket - Tofaš, Turška liga 2026/2027, Regular season</title>
-    <category lang="sl">Šport • Košarka Vabljeni k ogledu Turške košarkarske lige, ene izmed najmočnejših v Evropi. Tekmovanje poteka pod okriljem Turške košarkarske zveze.</category>
+    <title lang="sl">Košarka (M): Denizli Basket - Tofaš, Turška liga 2026/2027, Regular season</title>
+    <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261003140000 +0200" stop="20261003143000 +0200" channel="sk1.delo.si">
     <title lang="sl">Evroliga: Pregled 2. kroga</title>
@@ -58,8 +58,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261003170000 +0200" stop="20261003180000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet: Liga narodov: Pregled petkovih tekem</title>
-    <category lang="sl">Šport • Informativna oddaja</category>
+    <title lang="sl">17:00 Nogomet: Liga narodov: Pregled petkovih tekem</title>
+    <category lang="sl">Šport • Informativna oddaja V našem športnem magazinu lahko prisluhnete analizam, komentarjem in intervjujem ter si ogledate najlepše poteze in gole iz Lige narodov.</category>
   </programme>
   <programme start="20261003180000 +0200" stop="20261003194500 +0200" channel="sk1.delo.si">
     <title lang="sl">Rokomet (M): Krka - Slovenj Gradec, 1. NLB liga 2026/27, 1. Liga NLB</title>
@@ -562,7 +562,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261003120000 +0200" stop="20261003140000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">12:00 Hokej (M): Pustertal - Olimpija, ICE Hockey League 2026/2027</title>
+    <title lang="sl">Hokej (M): Pustertal - Olimpija, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261003140000 +0200" stop="20261003155500 +0200" channel="sporttv1.delo.si">
@@ -574,7 +574,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261003175500 +0200" stop="20261003203000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Jesenice _ KAC Future Team, Alpska liga 2026/27</title>
+    <title lang="sl">17:55 Hokej (M): Jesenice _ KAC Future Team, Alpska liga 2026/27</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261003203000 +0200" stop="20261003210000 +0200" channel="sporttv1.delo.si">
