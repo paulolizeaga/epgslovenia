@@ -22,8 +22,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261003060000 +0200" stop="20261003080000 +0200" channel="sk1.delo.si">
-    <title lang="sl">06:00 Nogomet (M): Latvija - Črna gora, Liga narodov C 2026/27, Skupina 2</title>
-    <category lang="sl">Šport • Nogomet Nogometni turnir, ki poteka vsaki dve leti, med reprezentancami, ki so članice evropske konfederacije.</category>
+    <title lang="sl">Nogomet (M): Latvija - Črna gora, Liga narodov C 2026/27, Skupina 2</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261003080000 +0200" stop="20261003090000 +0200" channel="sk1.delo.si">
     <title lang="sl">Reli (M): WRC Italija, , Etapa, 2026</title>
@@ -42,8 +42,8 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261003120000 +0200" stop="20261003140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Denizli Basket - Tofaš, Turška liga 2026/2027, Regular season</title>
-    <category lang="sl">Šport • Košarka</category>
+    <title lang="sl">12:00 Košarka (M): Denizli Basket - Tofaš, Turška liga 2026/2027, Regular season</title>
+    <category lang="sl">Šport • Košarka Vabljeni k ogledu Turške košarkarske lige, ene izmed najmočnejših v Evropi. Tekmovanje poteka pod okriljem Turške košarkarske zveze.</category>
   </programme>
   <programme start="20261003140000 +0200" stop="20261003143000 +0200" channel="sk1.delo.si">
     <title lang="sl">Evroliga: Pregled 2. kroga</title>
@@ -546,7 +546,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261003053000 +0200" stop="20261003070500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:30 Kolesarstvo (M): Dirka po Langkawiju, 6. etapa: Pandan - Rembau (121,3 km)</title>
+    <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju, 6. etapa: Pandan - Rembau (121,3 km)</title>
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20261003070500 +0200" stop="20261003083000 +0200" channel="sporttv1.delo.si">
@@ -562,7 +562,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261003120000 +0200" stop="20261003140000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Pustertal - Olimpija, ICE Hockey League 2026/2027</title>
+    <title lang="sl">12:00 Hokej (M): Pustertal - Olimpija, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261003140000 +0200" stop="20261003155500 +0200" channel="sporttv1.delo.si">
