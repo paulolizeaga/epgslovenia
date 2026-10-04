@@ -26,8 +26,8 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261004063000 +0200" stop="20261004083000 +0200" channel="sk1.delo.si">
-    <title lang="sl">06:30 Nogomet (M): Španija - Češka, Liga narodov 2026/27, Skupina 3</title>
-    <category lang="sl">Šport • Nogomet Nogometni turnir, ki poteka vsaki dve leti, med reprezentancami, ki so članice evropske konfederacije.</category>
+    <title lang="sl">Nogomet (M): Španija - Češka, Liga narodov 2026/27, Skupina 3</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261004083000 +0200" stop="20261004100000 +0200" channel="sk1.delo.si">
     <title lang="sl">Rokomet (M): Krka - Slovenj Gradec, 1. NLB liga 2026/27, 1. Liga NLB</title>
@@ -42,8 +42,8 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261004120000 +0200" stop="20261004140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Cayirova - Bahcesehir, Turška liga 2026/27, Regular season</title>
-    <category lang="sl">Šport • Košarka</category>
+    <title lang="sl">12:00 Košarka (M): Cayirova - Bahcesehir, Turška liga 2026/27, Regular season</title>
+    <category lang="sl">Šport • Košarka Vabljeni k ogledu Turške košarkarske lige, ene izmed najmočnejših v Evropi. Tekmovanje poteka pod okriljem Turške košarkarske zveze.</category>
   </programme>
   <programme start="20261004140000 +0200" stop="20261004143000 +0200" channel="sk1.delo.si">
     <title lang="sl">Liga prvakov: Magazin</title>
@@ -558,7 +558,7 @@
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20261004063000 +0200" stop="20261004080000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">06:30 Kolesarstvo (M): Dirka po Langkawiju, 7. etapa: Melaka - Batu Pahat</title>
+    <title lang="sl">Kolesarstvo (M): Dirka po Langkawiju, 7. etapa: Melaka - Batu Pahat</title>
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20261004080000 +0200" stop="20261004093000 +0200" channel="sporttv1.delo.si">
@@ -578,7 +578,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261004130000 +0200" stop="20261004140000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Motokros (M): 1. dirka, Pokal narodov 2026</title>
+    <title lang="sl">13:00 Motokros (M): 1. dirka, Pokal narodov 2026</title>
     <category lang="sl">Šport • Avto-moto športi</category>
   </programme>
   <programme start="20261004140000 +0200" stop="20261004143000 +0200" channel="sporttv1.delo.si">
