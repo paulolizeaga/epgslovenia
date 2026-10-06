@@ -10,8 +10,8 @@
     <icon src="https://upload.wikimedia.org/wikipedia/en/1/1b/%C5%A0port_TV_%28Slovenia%29.png?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=original" />
   </channel>
   <programme start="20261006011500 +0200" stop="20261006031500 +0200" channel="sk1.delo.si">
-    <title lang="sl">01:15 Nogomet (M): Črna gora - Armenija, Liga narodov C 2026/27, Skupina 2</title>
-    <category lang="sl">Šport • Nogomet Nogometni turnir, ki poteka vsaki dve leti, med reprezentancami, ki so članice evropske konfederacije.</category>
+    <title lang="sl">Nogomet (M): Črna gora - Armenija, Liga narodov C 2026/27, Skupina 2</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261006031500 +0200" stop="20261006044500 +0200" channel="sk1.delo.si">
     <title lang="sl">Tenis: ATP 500 Peking: 1/2 finale (boljši dvoboj)</title>
@@ -22,8 +22,8 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261006063000 +0200" stop="20261006083000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Ukrajina - Madžarska, Liga narodov B 2026/27, Skupina 2</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">06:30 Nogomet (M): Ukrajina - Madžarska, Liga narodov B 2026/27, Skupina 2</title>
+    <category lang="sl">Šport • Nogomet Nogometni turnir, ki poteka vsaki dve leti, med reprezentancami, ki so članice evropske konfederacije.</category>
   </programme>
   <programme start="20261006083000 +0200" stop="20261006090000 +0200" channel="sk1.delo.si">
     <title lang="sl">TV prodaja</title>
@@ -550,7 +550,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261006010000 +0200" stop="20261006030000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">01:00 Nogomet (Ž): Radomlje - Mura Nona, 1. SŽNL 2026/2027</title>
+    <title lang="sl">Nogomet (Ž): Radomlje - Mura Nona, 1. SŽNL 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261006030000 +0200" stop="20261006050000 +0200" channel="sporttv1.delo.si">
@@ -566,7 +566,7 @@
     <category lang="sl">Šport • Kolesarstvo</category>
   </programme>
   <programme start="20261006070000 +0200" stop="20261006090000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka (M): Burgos - Cedevita, Eurocup 2026/2027, Skupina A</title>
+    <title lang="sl">07:00 Košarka (M): Burgos - Cedevita, Eurocup 2026/2027, Skupina A</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261006090000 +0200" stop="20261006110000 +0200" channel="sporttv1.delo.si">
@@ -574,15 +574,15 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261006110000 +0200" stop="20261006120000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Motokros (M): 1. dirka, Pokal narodov 2026</title>
+    <title lang="sl">Motokros: Pokal narodov: 1. dirka</title>
     <category lang="sl">Šport • Avto-moto športi</category>
   </programme>
   <programme start="20261006120000 +0200" stop="20261006130000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Motokros (M): 2. dirka, Pokal narodov 2026</title>
+    <title lang="sl">Motokros: Pokal narodov: 2. dirka</title>
     <category lang="sl">Šport • Avto-moto športi</category>
   </programme>
   <programme start="20261006130000 +0200" stop="20261006140000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Motokros (M): 3. dirka, Pokal narodov 2026</title>
+    <title lang="sl">Motokros: Pokal narodov: 3. dirka</title>
     <category lang="sl">Šport • Avto-moto športi</category>
   </programme>
   <programme start="20261006140000 +0200" stop="20261006155500 +0200" channel="sporttv1.delo.si">
@@ -610,7 +610,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261006210000 +0200" stop="20261006211500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet: 2. SNL: Vrhunci 9. kola</title>
+    <title lang="sl">Nogomet: 2. SNL: Vrhunci</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261006211500 +0200" stop="20261006220000 +0200" channel="sporttv1.delo.si">
