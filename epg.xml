@@ -22,7 +22,7 @@
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261007051500 +0200" stop="20261007070000 +0200" channel="sk1.delo.si">
-    <title lang="sl">05:15 Košarka (M): Holon - Cholet, FIBA Liga prvakov 2026/27, CL Grp. F</title>
+    <title lang="sl">Košarka (M): Holon - Cholet, FIBA Liga prvakov 2026/27, CL Grp. F</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261007070000 +0200" stop="20261007071500 +0200" channel="sk1.delo.si">
@@ -46,11 +46,11 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261007120000 +0200" stop="20261007140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">ATP 1000 Šanghaj: Wu - Zheng</title>
+    <title lang="sl">Tenis (M): 1/64, ATP 1000 Šanghaj</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261007140000 +0200" stop="20261007153000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis (M): Fery - M. Čilić, ATP 1000 Šanghaj</title>
+    <title lang="sl">14:00 Tenis (M): Fery - M. Čilić, ATP 1000 Šanghaj</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261007153000 +0200" stop="20261007160000 +0200" channel="sk1.delo.si">
@@ -570,7 +570,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261007053000 +0200" stop="20261007070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:30 Košarka (M): Gorica - Domžale, Liga OTP banka 2026/2027</title>
+    <title lang="sl">Košarka (M): Gorica - Domžale, Liga OTP banka 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261007070000 +0200" stop="20261007090000 +0200" channel="sporttv1.delo.si">
@@ -590,7 +590,7 @@
     <category lang="sl">Šport • Avto-moto športi</category>
   </programme>
   <programme start="20261007130000 +0200" stop="20261007150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka (M): Bosna S. - PAOK, Eurocup 2026/2027, Skupina D</title>
+    <title lang="sl">13:00 Košarka (M): Bosna S. - PAOK, Eurocup 2026/2027, Skupina D</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261007150000 +0200" stop="20261007170000 +0200" channel="sporttv1.delo.si">
