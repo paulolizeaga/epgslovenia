@@ -22,7 +22,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261008070000 +0200" stop="20261008073000 +0200" channel="sk1.delo.si">
-    <title lang="sl">F1: GP Confidential</title>
+    <title lang="sl">07:00 F1: GP Confidential</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261008073000 +0200" stop="20261008080000 +0200" channel="sk1.delo.si">
@@ -90,7 +90,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261008234500 +0200" stop="20261009010000 +0200" channel="sk1.delo.si">
-    <title lang="sl">23:45 Košarka (Ž): WABA liga, Cinkarna Celje -Trešnjevka 2009</title>
+    <title lang="sl">Košarka (Ž): WABA liga, Cinkarna Celje -Trešnjevka 2009</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261009010000 +0200" stop="20261009024500 +0200" channel="sk1.delo.si">
@@ -572,7 +572,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261008070000 +0200" stop="20261008080000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Motokros (M): 1. dirka, Pokal narodov 2026</title>
+    <title lang="sl">07:00 Motokros (M): 1. dirka, Pokal narodov 2026</title>
     <category lang="sl">Šport • Avto-moto športi</category>
   </programme>
   <programme start="20261008080000 +0200" stop="20261008090000 +0200" channel="sporttv1.delo.si">
@@ -600,7 +600,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261008171500 +0200" stop="20261008181500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Kolesarstvo: Cro Race: Vrhunci: Vrhunci</title>
+    <title lang="sl">Kolesarstvo: Cro Race: Vrhunci</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261008181500 +0200" stop="20261008183000 +0200" channel="sporttv1.delo.si">
@@ -620,7 +620,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261008230000 +0200" stop="20261009010000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">23:00 Košarka (M): Roma B. - Lietkabelis, Eurocup 2026/2027, Skupina D</title>
+    <title lang="sl">Košarka (M): Roma B. - Lietkabelis, Eurocup 2026/2027, Skupina D</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261009010000 +0200" stop="20261009030000 +0200" channel="sporttv1.delo.si">
