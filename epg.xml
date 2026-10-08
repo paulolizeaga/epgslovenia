@@ -22,7 +22,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261008070000 +0200" stop="20261008073000 +0200" channel="sk1.delo.si">
-    <title lang="sl">07:00 F1: GP Confidential</title>
+    <title lang="sl">F1: GP Confidential</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261008073000 +0200" stop="20261008080000 +0200" channel="sk1.delo.si">
@@ -46,7 +46,7 @@
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261008140000 +0200" stop="20261008153000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis (M): Norrie - D. Svrcina, ATP 1000 Šanghaj</title>
+    <title lang="sl">14:00 Tenis (M): Norrie - D. Svrcina, ATP 1000 Šanghaj</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261008153000 +0200" stop="20261008160000 +0200" channel="sk1.delo.si">
@@ -226,7 +226,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261010173000 +0200" stop="20261010193000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Celje - Aluminij, Prva liga Telemach 2026/2027</title>
+    <title lang="sl">Nogomet (M): Aluminij - Celje, Prva liga Telemach 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261010193000 +0200" stop="20261010194500 +0200" channel="sk1.delo.si">
@@ -282,7 +282,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261011100000 +0200" stop="20261011120000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Celje - Aluminij, Prva liga Telemach 2026/2027</title>
+    <title lang="sl">Nogomet (M): Aluminij - Celje, Prva liga Telemach 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261011120000 +0200" stop="20261011140000 +0200" channel="sk1.delo.si">
@@ -298,7 +298,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261011150000 +0200" stop="20261011170000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Nafta - Bravo, Prva liga Telemach 2026/2027</title>
+    <title lang="sl">Nogomet (M): Bravo - Nafta , Prva liga Telemach 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261011170000 +0200" stop="20261011173000 +0200" channel="sk1.delo.si">
@@ -378,7 +378,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261012180000 +0200" stop="20261012194500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Rokomet: Liga NLB: Trimo Trebnje - Grosist Slovan</title>
+    <title lang="sl">Rokomet (M): T. Trebnje - Slovan, 1. NLB liga 2026/27, 1. Liga NLB</title>
     <category lang="sl">Šport • Rokomet</category>
   </programme>
   <programme start="20261012194500 +0200" stop="20261012200000 +0200" channel="sk1.delo.si">
@@ -401,7 +401,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261013024500 +0200" stop="20261013043000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Grška A1 liga: Olympiacos - Kolossos</title>
+    <title lang="sl">Košarka (M): Olympiacos - Kolossos, Grška A1 liga 2026/27, Greek Basket League</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261013043000 +0200" stop="20261013063000 +0200" channel="sk1.delo.si">
@@ -572,7 +572,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261008070000 +0200" stop="20261008080000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">07:00 Motokros (M): 1. dirka, Pokal narodov 2026</title>
+    <title lang="sl">Motokros (M): 1. dirka, Pokal narodov 2026</title>
     <category lang="sl">Šport • Avto-moto športi</category>
   </programme>
   <programme start="20261008080000 +0200" stop="20261008090000 +0200" channel="sporttv1.delo.si">
@@ -592,7 +592,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261008150000 +0200" stop="20261008170000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Kvalifikacije za Futsal EP, ženske: Italija - Slovenija</title>
+    <title lang="sl">15:00 Kvalifikacije za Futsal EP, ženske: Italija - Slovenija</title>
     <category lang="sl">Šport • Ostalo</category>
   </programme>
   <programme start="20261008170000 +0200" stop="20261008171500 +0200" channel="sporttv1.delo.si">
@@ -791,7 +791,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261011154500 +0200" stop="20261011183000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Olimpija - FTC, ICE Hockey League 2026/2027</title>
+    <title lang="sl">Hokej (M): FTC - Olimpija, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261011183000 +0200" stop="20261011203000 +0200" channel="sporttv1.delo.si">
