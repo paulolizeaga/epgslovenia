@@ -10,7 +10,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/en/1/1b/%C5%A0port_TV_%28Slovenia%29.png?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=original" />
   </channel>
   <programme start="20261009010000 +0200" stop="20261009024500 +0200" channel="sk1.delo.si">
-    <title lang="sl">01:00 Košarka (M): Valencia - Hapoel, Evroliga 2026/27, Round</title>
+    <title lang="sl">Košarka (M): Valencia - Hapoel, Evroliga 2026/27, Round</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261009024500 +0200" stop="20261009041500 +0200" channel="sk1.delo.si">
@@ -26,8 +26,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261009063000 +0200" stop="20261009073000 +0200" channel="sk1.delo.si">
-    <title lang="sl">WRC: Sardinija - pregled dirke</title>
-    <category lang="sl">Šport • Informativna oddaja</category>
+    <title lang="sl">06:30 WRC: Sardinija - pregled dirke</title>
+    <category lang="sl">Šport • Informativna oddaja Prinašamo vam posnetke najboljših trenutkov s Svetovnega prvenstva v reliju FIA, preglede dirk in intervjuje s tekmovalci.</category>
   </programme>
   <programme start="20261009073000 +0200" stop="20261009093000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): S. Arabija - ZAE, Zalivski pokal narodov 2026, Finale</title>
@@ -548,7 +548,7 @@
     <category lang="sl">Šport • Rokomet</category>
   </programme>
   <programme start="20261009010000 +0200" stop="20261009030000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">01:00 Košarka (M): Bosna S. - PAOK, Eurocup 2026/2027, Skupina D</title>
+    <title lang="sl">Košarka (M): Bosna S. - PAOK, Eurocup 2026/2027, Skupina D</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261009030000 +0200" stop="20261009043000 +0200" channel="sporttv1.delo.si">
@@ -568,7 +568,7 @@
     <category lang="sl">Šport • Avto-moto športi</category>
   </programme>
   <programme start="20261009070000 +0200" stop="20261009080000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Motokros (M): 3. dirka, Pokal narodov 2026</title>
+    <title lang="sl">07:00 Motokros (M): 3. dirka, Pokal narodov 2026</title>
     <category lang="sl">Šport • Avto-moto športi</category>
   </programme>
   <programme start="20261009080000 +0200" stop="20261009090000 +0200" channel="sporttv1.delo.si">
