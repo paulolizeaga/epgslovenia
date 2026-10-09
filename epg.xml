@@ -26,8 +26,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261009063000 +0200" stop="20261009073000 +0200" channel="sk1.delo.si">
-    <title lang="sl">06:30 WRC: Sardinija - pregled dirke</title>
-    <category lang="sl">Šport • Informativna oddaja Prinašamo vam posnetke najboljših trenutkov s Svetovnega prvenstva v reliju FIA, preglede dirk in intervjuje s tekmovalci.</category>
+    <title lang="sl">WRC: Sardinija - pregled dirke</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261009073000 +0200" stop="20261009093000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): S. Arabija - ZAE, Zalivski pokal narodov 2026, Finale</title>
@@ -46,7 +46,7 @@
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261009140000 +0200" stop="20261009153000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis (M): 1/32, ATP 1000 Šanghaj</title>
+    <title lang="sl">14:00 Tenis (M): 1/32, ATP 1000 Šanghaj</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261009153000 +0200" stop="20261009154500 +0200" channel="sk1.delo.si">
@@ -460,7 +460,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261014184500 +0200" stop="20261014204500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): LASK - Liverpool, UEFA Liga prvakov 2026/2027, Champions League - League Phase</title>
+    <title lang="sl">Nogomet (M): LASK - Liverpool, UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261014204500 +0200" stop="20261014210000 +0200" channel="sk1.delo.si">
@@ -468,7 +468,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261014210000 +0200" stop="20261014230000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Roma - R. Madrid, UEFA Liga prvakov 2026/2027, Champions League - League Phase</title>
+    <title lang="sl">Nogomet (M): Roma - R. Madrid, UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261014230000 +0200" stop="20261014231500 +0200" channel="sk1.delo.si">
@@ -484,11 +484,11 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261015020000 +0200" stop="20261015040000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Real Betis - Porto, UEFA Liga prvakov 2026/2027, Champions League - League Phase</title>
+    <title lang="sl">Nogomet (M): Real Betis - Porto, UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261015040000 +0200" stop="20261015060000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Kashiwa Reysol - Port, Azijska liga prvakov 2026/2027, AFC Champions League Elite East</title>
+    <title lang="sl">Nogomet (M): Kashiwa Reysol - Port, Azijska liga prvakov 2026/27, AFC Champions League Elite East</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261015060000 +0200" stop="20261015074500 +0200" channel="sk1.delo.si">
@@ -496,11 +496,11 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261015074500 +0200" stop="20261015094500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Aston Villa - Fenerbahče, UEFA Liga prvakov 2026/2027, Champions League - League Phase</title>
+    <title lang="sl">Nogomet (M): Aston Villa - Fenerbahče, UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261015094500 +0200" stop="20261015111500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Rokomet: Liga NLB: Gorenje (V) - Trimo Trebnje</title>
+    <title lang="sl">Rokomet (M): Velenje - T. Trebnje, 1. NLB liga 2026/27, 1. Liga NLB</title>
     <category lang="sl">Šport • Rokomet</category>
   </programme>
   <programme start="20261015111500 +0200" stop="20261015120000 +0200" channel="sk1.delo.si">
@@ -508,7 +508,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261015120000 +0200" stop="20261015140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Gangwon FC - Phnom Penh Crown, Azijska druga liga prvakov 2026/2027, AFC Champions League Two Grp. H</title>
+    <title lang="sl">Nogomet (M): Gangwon FC - Phnom Penh Crown, Azijska druga liga prvakov 2026/27, AFC Champions League Two Grp. H</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261015140000 +0200" stop="20261015141500 +0200" channel="sk1.delo.si">
@@ -516,7 +516,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261015141500 +0200" stop="20261015161500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Tampines Rovers - Machida Zelvia, Azijska druga liga prvakov 2026/2027, AFC Champions League Two Grp. G</title>
+    <title lang="sl">Nogomet (M): Tampines Rovers - Machida Zelvia, Azijska druga liga prvakov 2026/27, AFC Champions League Two Grp. G</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261015161500 +0200" stop="20261015174500 +0200" channel="sk1.delo.si">
@@ -532,7 +532,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261015184500 +0200" stop="20261015204500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Hajduk S. - Ajax, Konferenčna liga 2026/2027, Conference League</title>
+    <title lang="sl">Nogomet (M): Hajduk S. - Ajax, Konferenčna liga 2026/27, Conference League</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261015204500 +0200" stop="20261015210000 +0200" channel="sk1.delo.si">
@@ -540,7 +540,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261015210000 +0200" stop="20261015230000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Dinamo Z. - Anderlecht, UEFA Evropska liga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Dinamo Z. - Anderlecht, UEFA Evropska liga 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261015230000 +0200" stop="20261016010000 +0200" channel="sk1.delo.si">
@@ -568,7 +568,7 @@
     <category lang="sl">Šport • Avto-moto športi</category>
   </programme>
   <programme start="20261009070000 +0200" stop="20261009080000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">07:00 Motokros (M): 3. dirka, Pokal narodov 2026</title>
+    <title lang="sl">Motokros (M): 3. dirka, Pokal narodov 2026</title>
     <category lang="sl">Šport • Avto-moto športi</category>
   </programme>
   <programme start="20261009080000 +0200" stop="20261009090000 +0200" channel="sporttv1.delo.si">
@@ -584,7 +584,7 @@
     <category lang="sl">Šport • Ostalo</category>
   </programme>
   <programme start="20261009130000 +0200" stop="20261009150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): India - Urugvaj, Nacionalne prijateljske tekme 2026, Prijateljska tekma</title>
+    <title lang="sl">13:00 Nogomet (M): India - Urugvaj, Nacionalne prijateljske tekme 2026, Prijateljska tekma</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261009150000 +0200" stop="20261009170000 +0200" channel="sporttv1.delo.si">
@@ -715,7 +715,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261011154500 +0200" stop="20261011183000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): FTC - Olimpija, ICE Hockey League 2026/2027</title>
+    <title lang="sl">Hokej (M): Olimpija - FTC, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261011183000 +0200" stop="20261011203000 +0200" channel="sporttv1.delo.si">
