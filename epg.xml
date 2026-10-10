@@ -22,7 +22,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261010061500 +0200" stop="20261010081500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Tabor - Rudar (V), 2. SNL 2026/27</title>
+    <title lang="sl">06:15 Nogomet (M): Tabor - Rudar (V), 2. SNL 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261010081500 +0200" stop="20261010091500 +0200" channel="sk1.delo.si">
@@ -90,7 +90,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261010231500 +0200" stop="20261011010000 +0200" channel="sk1.delo.si">
-    <title lang="sl">23:15 Košarka (M): Olympiacos - Efes, Evroliga 2026/27, Round</title>
+    <title lang="sl">Košarka (M): Olympiacos - Efes, Evroliga 2026/27, Round</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261011010000 +0200" stop="20261011030000 +0200" channel="sk1.delo.si">
@@ -548,7 +548,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261010050000 +0200" stop="20261010070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka (M): Cedevita - Jerusalem, Eurocup 2026/2027, Skupina A</title>
+    <title lang="sl">05:00 Košarka (M): Cedevita - Jerusalem, Eurocup 2026/2027, Skupina A</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261010070000 +0200" stop="20261010073000 +0200" channel="sporttv1.delo.si">
@@ -600,7 +600,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261010230000 +0200" stop="20261011004500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">23:00 Nogomet (M): B Dortmund - Werder B., Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): B Dortmund - Werder B., Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261011004500 +0200" stop="20261011024500 +0200" channel="sporttv1.delo.si">
