@@ -22,7 +22,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261010061500 +0200" stop="20261010081500 +0200" channel="sk1.delo.si">
-    <title lang="sl">06:15 Nogomet (M): Tabor - Rudar (V), 2. SNL 2026/27</title>
+    <title lang="sl">Nogomet (M): Tabor - Rudar (V), 2. SNL 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261010081500 +0200" stop="20261010091500 +0200" channel="sk1.delo.si">
@@ -46,8 +46,8 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261010140000 +0200" stop="20261010144500 +0200" channel="sk1.delo.si">
-    <title lang="sl">TV prodaja</title>
-    <category lang="sl">Propagandni program • TV prodaja</category>
+    <title lang="sl">14:00 TV prodaja</title>
+    <category lang="sl">Propagandni program • TV prodaja Vabljeni k nakupu kar iz naslonjača, s pomočjo televizijske prodaje na našem programu.</category>
   </programme>
   <programme start="20261010144500 +0200" stop="20261010150000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet: Prva Liga Telemach: Uvod v tekmo: Radomlje - Koper</title>
@@ -548,7 +548,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261010050000 +0200" stop="20261010070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Košarka (M): Cedevita - Jerusalem, Eurocup 2026/2027, Skupina A</title>
+    <title lang="sl">Košarka (M): Cedevita - Jerusalem, Eurocup 2026/2027, Skupina A</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261010070000 +0200" stop="20261010073000 +0200" channel="sporttv1.delo.si">
@@ -568,7 +568,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261010125500 +0200" stop="20261010150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Magdeburg - Hannover 96, 2. Bundesliga 2026/2027</title>
+    <title lang="sl">12:55 Nogomet (M): Magdeburg - Hannover 96, 2. Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261010150000 +0200" stop="20261010152500 +0200" channel="sporttv1.delo.si">
@@ -1000,7 +1000,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261016230000 +0200" stop="20261016231500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Lov se nadaljuje Dokumentarni program • Reportaža</title>
+    <title lang="sl">Hokej na ledu: Dokumentarec: Lov se nadaljuje Dokumentarni program • Reportaža</title>
   </programme>
   <programme start="20261016231500 +0200" stop="20261017011500 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Nogomet (M): E Frankfurt - Köln, Bundesliga 2026/2027</title>
