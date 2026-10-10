@@ -46,8 +46,8 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261010140000 +0200" stop="20261010144500 +0200" channel="sk1.delo.si">
-    <title lang="sl">14:00 TV prodaja</title>
-    <category lang="sl">Propagandni program • TV prodaja Vabljeni k nakupu kar iz naslonjača, s pomočjo televizijske prodaje na našem programu.</category>
+    <title lang="sl">TV prodaja</title>
+    <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261010144500 +0200" stop="20261010150000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet: Prva Liga Telemach: Uvod v tekmo: Radomlje - Koper</title>
@@ -86,8 +86,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261010230000 +0200" stop="20261010231500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Barcelona - Getafe, Španska liga 2026/2027</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">23:00 Nogomet (M): Barcelona - Getafe, Španska liga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet Španska nogometna liga La Liga velja za najboljšo evropsko nogometno ligo. Ustanovljena je bila leta 1929. V ligi sodeluje 20 klubov.</category>
   </programme>
   <programme start="20261010231500 +0200" stop="20261011010000 +0200" channel="sk1.delo.si">
     <title lang="sl">Košarka (M): Olympiacos - Efes, Evroliga 2026/27, Round</title>
@@ -568,7 +568,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261010125500 +0200" stop="20261010150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">12:55 Nogomet (M): Magdeburg - Hannover 96, 2. Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Magdeburg - Hannover 96, 2. Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261010150000 +0200" stop="20261010152500 +0200" channel="sporttv1.delo.si">
@@ -596,7 +596,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261010224500 +0200" stop="20261010230000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Leipzig - E Frankfurt, Bundesliga 2026/2027</title>
+    <title lang="sl">22:45 Nogomet (M): Leipzig - E Frankfurt, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261010230000 +0200" stop="20261011004500 +0200" channel="sporttv1.delo.si">
