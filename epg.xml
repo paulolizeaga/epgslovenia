@@ -22,8 +22,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261011063000 +0200" stop="20261011070000 +0200" channel="sk1.delo.si">
-    <title lang="sl">06:30 Liga prvakov: Magazin</title>
-    <category lang="sl">Šport • Informativna oddaja Vsi najlepši in najpomembnejši trenutki kroga v najmočnejšem nogometnem klubskem tekmovanju zbrani na enem mestu.</category>
+    <title lang="sl">Liga prvakov: Magazin</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261011070000 +0200" stop="20261011073000 +0200" channel="sk1.delo.si">
     <title lang="sl">Evroliga: Pregled 4. kroga</title>
@@ -46,8 +46,8 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261011140000 +0200" stop="20261011144500 +0200" channel="sk1.delo.si">
-    <title lang="sl">TV prodaja</title>
-    <category lang="sl">Propagandni program • TV prodaja</category>
+    <title lang="sl">14:00 TV prodaja</title>
+    <category lang="sl">Propagandni program • TV prodaja Vabljeni k nakupu kar iz naslonjača, s pomočjo televizijske prodaje na našem programu.</category>
   </programme>
   <programme start="20261011144500 +0200" stop="20261011150000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet: Prva Liga Telemach: Uvod v tekmo: Nafta - Bravo</title>
@@ -86,7 +86,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261012023000 +0200" stop="20261012040000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: WTA 1000 Peking: Finale</title>
+    <title lang="sl">Tenis (Ž): Z. Qinwen - Andreeva, WTA 1000 Peking</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261012040000 +0200" stop="20261012060000 +0200" channel="sk1.delo.si">
@@ -548,7 +548,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261011050000 +0200" stop="20261011070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Nogomet (M): Paderborn - Stuttgart, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Paderborn - Stuttgart, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261011070000 +0200" stop="20261011090000 +0200" channel="sporttv1.delo.si">
@@ -564,7 +564,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261011125500 +0200" stop="20261011150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Motherwell - Celtic, Škotska liga 2026/2027</title>
+    <title lang="sl">12:55 Nogomet (M): Motherwell - Celtic, Škotska liga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261011150000 +0200" stop="20261011153000 +0200" channel="sporttv1.delo.si">
