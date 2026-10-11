@@ -46,8 +46,8 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261011140000 +0200" stop="20261011144500 +0200" channel="sk1.delo.si">
-    <title lang="sl">14:00 TV prodaja</title>
-    <category lang="sl">Propagandni program • TV prodaja Vabljeni k nakupu kar iz naslonjača, s pomočjo televizijske prodaje na našem programu.</category>
+    <title lang="sl">TV prodaja</title>
+    <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261011144500 +0200" stop="20261011150000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet: Prva Liga Telemach: Uvod v tekmo: Nafta - Bravo</title>
@@ -564,7 +564,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261011125500 +0200" stop="20261011150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">12:55 Nogomet (M): Motherwell - Celtic, Škotska liga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Motherwell - Celtic, Škotska liga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261011150000 +0200" stop="20261011153000 +0200" channel="sporttv1.delo.si">
@@ -588,7 +588,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261011223000 +0200" stop="20261011224500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Freiburg - Schalke 04, Bundesliga 2026/2027</title>
+    <title lang="sl">22:30 Nogomet (M): Freiburg - Schalke 04, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261011224500 +0200" stop="20261012003000 +0200" channel="sporttv1.delo.si">
