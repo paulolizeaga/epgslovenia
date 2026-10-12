@@ -22,8 +22,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261012060000 +0200" stop="20261012073000 +0200" channel="sk1.delo.si">
-    <title lang="sl">06:00 Košarka (M): Turk Telekom - Bešiktaš, Turška liga 2026/2027, Regular season</title>
-    <category lang="sl">Šport • Košarka Vabljeni k ogledu Turške košarkarske lige, ene izmed najmočnejših v Evropi. Tekmovanje poteka pod okriljem Turške košarkarske zveze.</category>
+    <title lang="sl">Košarka (M): Turk Telekom - Bešiktaš, Turška liga 2026/2027, Regular season</title>
+    <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261012073000 +0200" stop="20261012093000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): Nafta - Bravo, Prva liga Telemach 2026/2027</title>
@@ -58,8 +58,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261012160000 +0200" stop="20261012180000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): NŠ Mura - Koper, EON NextGen 2026/27</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">16:00 Nogomet (M): NŠ Mura - Koper, EON NextGen 2026/27</title>
+    <category lang="sl">Šport • Nogomet Vabljeni k ogledu EON NextGena, mladinskega državnega prvenstva U-19. Osrednji pokrovitelj tega tekmovanja je Telemach.</category>
   </programme>
   <programme start="20261012180000 +0200" stop="20261012194500 +0200" channel="sk1.delo.si">
     <title lang="sl">Rokomet (M): T. Trebnje - Slovan, 1. NLB liga 2026/27, 1. Liga NLB</title>
@@ -548,7 +548,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261012070000 +0200" stop="20261012090000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">07:00 Hokej (M): Jesenice - Cortina , Alpska liga 2026/2027</title>
+    <title lang="sl">Hokej (M): Jesenice - Cortina , Alpska liga 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261012090000 +0200" stop="20261012110000 +0200" channel="sporttv1.delo.si">
@@ -564,7 +564,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261012150000 +0200" stop="20261012170000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Olimpija - Mura, Prva liga Telemach 2026/2027</title>
+    <title lang="sl">15:00 Nogomet (M): Olimpija - Mura, Prva liga Telemach 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261012170000 +0200" stop="20261012171500 +0200" channel="sporttv1.delo.si">
