@@ -10,8 +10,8 @@
     <icon src="https://upload.wikimedia.org/wikipedia/en/1/1b/%C5%A0port_TV_%28Slovenia%29.png?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=original" />
   </channel>
   <programme start="20261013004500 +0200" stop="20261013024500 +0200" channel="sk1.delo.si">
-    <title lang="sl">00:45 Nogomet (M): Levante - Sevilla, Španska liga 2026/2027</title>
-    <category lang="sl">Šport • Nogomet Španska nogometna liga La Liga velja za najboljšo evropsko nogometno ligo. Ustanovljena je bila leta 1929. V ligi sodeluje 20 klubov.</category>
+    <title lang="sl">Nogomet (M): Levante - Sevilla, Španska liga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261013024500 +0200" stop="20261013043000 +0200" channel="sk1.delo.si">
     <title lang="sl">Košarka (M): Olympiacos - Kolossos, Grška A1 liga 2026/27, Greek Basket League</title>
@@ -53,8 +53,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261013140000 +0200" stop="20261013160000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Pod prečko</title>
-    <category lang="sl">Šport • Informativna oddaja</category>
+    <title lang="sl">14:00 Pod prečko</title>
+    <category lang="sl">Šport • Informativna oddaja Edina nogometna oddaja v Sloveniji Pod prečko tudi tokrat zaključuje ponedeljkov športni program.</category>
   </programme>
   <programme start="20261013160000 +0200" stop="20261013180000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): Villarreal - Napoli, Mladinska liga prvakov 2026/27, Champions League Path</title>
@@ -521,7 +521,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261013010000 +0200" stop="20261013030000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">01:00 Nogomet (M): Mainz - B. Leverkusen, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Mainz - B. Leverkusen, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261013030000 +0200" stop="20261013050000 +0200" channel="sporttv1.delo.si">
@@ -553,7 +553,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261013143000 +0200" stop="20261013163000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Pod prečko</title>
+    <title lang="sl">14:30 Pod prečko</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261013163000 +0200" stop="20261013173000 +0200" channel="sporttv1.delo.si">
