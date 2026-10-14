@@ -22,8 +22,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261014060000 +0200" stop="20261014063000 +0200" channel="sk1.delo.si">
-    <title lang="sl">06:00 Fast Zone</title>
-    <category lang="sl">Šport • Informativna oddaja Oglejte si, kaj se dogaja v serijah, katerih Sport Klub ne prenaša. Tudi tukaj lahko najdemo kvalitetne voznike, ki se želijo prebiti do vrha.</category>
+    <title lang="sl">Fast Zone</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261014063000 +0200" stop="20261014083000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): Galatasaray - Barcelona, UEFA Liga prvakov 2026/2027, Champions League - League Phase</title>
@@ -46,7 +46,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261014120000 +0200" stop="20261014140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Vissel Kobe - Jeonbuk, Azijska liga prvakov 2026/2027, AFC Champions League Elite East</title>
+    <title lang="sl">12:00 Nogomet (M): Vissel Kobe - Jeonbuk, Azijska liga prvakov 2026/2027, AFC Champions League Elite East</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261014140000 +0200" stop="20261014150000 +0200" channel="sk1.delo.si">
@@ -530,7 +530,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261014050000 +0200" stop="20261014070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Nogomet (M): Köln - Borussia M., Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Köln - Borussia M., Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261014070000 +0200" stop="20261014090000 +0200" channel="sporttv1.delo.si">
@@ -546,7 +546,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261014130000 +0200" stop="20261014150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Olimpija - Mura, Prva liga Telemach 2026/2027</title>
+    <title lang="sl">13:00 Nogomet (M): Olimpija - Mura, Prva liga Telemach 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261014150000 +0200" stop="20261014151500 +0200" channel="sporttv1.delo.si">
@@ -582,7 +582,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261014223000 +0200" stop="20261014230000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Bundesliga: Posebno poročilo</title>
+    <title lang="sl">Idealna linija</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261014230000 +0200" stop="20261015010000 +0200" channel="sporttv1.delo.si">
@@ -630,7 +630,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261015170000 +0200" stop="20261015173000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Bundesliga: Posebno poročilo</title>
+    <title lang="sl">Motokros: MXGP Magazin</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261015173000 +0200" stop="20261015174500 +0200" channel="sporttv1.delo.si">
@@ -682,7 +682,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261016090000 +0200" stop="20261016093000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Bundesliga: Posebno poročilo</title>
+    <title lang="sl">Idealna linija</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261016093000 +0200" stop="20261016110000 +0200" channel="sporttv1.delo.si">
@@ -769,7 +769,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261017180000 +0200" stop="20261017182500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Bundesliga: Posebno poročilo</title>
+    <title lang="sl">Motokros: MXGP Magazin</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261017182500 +0200" stop="20261017203000 +0200" channel="sporttv1.delo.si">
@@ -869,7 +869,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261019070000 +0200" stop="20261019073000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Bundesliga: Posebno poročilo</title>
+    <title lang="sl">Idealna linija</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261019073000 +0200" stop="20261019090000 +0200" channel="sporttv1.delo.si">
