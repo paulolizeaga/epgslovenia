@@ -74,8 +74,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261014184500 +0200" stop="20261014204500 +0200" channel="sk1.delo.si">
-    <title lang="sl">18:45 Nogomet (M): LASK - Liverpool, UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
-    <category lang="sl">Šport • Nogomet Za veliki pokal se borijo najboljši evropski klubi in najboljši nogometaši na svetu.</category>
+    <title lang="sl">Nogomet (M): LASK - Liverpool, UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261014204500 +0200" stop="20261014210000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet: Liga prvakov: Uvod v tekmo, 2. krog: Roma - Real Madrid</title>
@@ -86,7 +86,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261014230000 +0200" stop="20261014231500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Rokomet (M): Velenje - T. Trebnje, 1. NLB liga 2026/27, 1. Liga NLB</title>
+    <title lang="sl">23:00 Rokomet (M): Velenje - T. Trebnje, 1. NLB liga 2026/27, 1. Liga NLB</title>
     <category lang="sl">Šport • Rokomet</category>
   </programme>
   <programme start="20261014231500 +0200" stop="20261015003000 +0200" channel="sk1.delo.si">
@@ -566,7 +566,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261014180000 +0200" stop="20261014200000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">18:00 Košarka (M): Rigas Z. - Cedevita, Eurocup 2026/2027, Skupina A</title>
+    <title lang="sl">Košarka (M): Rigas Z. - Cedevita, Eurocup 2026/2027, Skupina A</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261014200000 +0200" stop="20261014201500 +0200" channel="sporttv1.delo.si">
