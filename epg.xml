@@ -38,8 +38,8 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261015120000 +0200" stop="20261015140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">12:00 Nogomet (M): Gangwon FC - Phnom Penh Crown, Azijska druga liga prvakov 2026/27, AFC Champions League Two Grp. H</title>
-    <category lang="sl">Šport • Nogomet Azijska liga prvakov (TWO) je azijski ekvivalent naše Lige Evropa.</category>
+    <title lang="sl">Nogomet (M): Gangwon FC - Phnom Penh Crown, Azijska druga liga prvakov 2026/27, AFC Champions League Two Grp. H</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261015140000 +0200" stop="20261015141500 +0200" channel="sk1.delo.si">
     <title lang="sl">Španska liga Stadioni: Alfonso Perez</title>
@@ -58,7 +58,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261015183000 +0200" stop="20261015184500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet: Konferenčna liga: Uvod v tekmo, 1. krog: Hajduk - Ajax</title>
+    <title lang="sl">18:30 Nogomet: Konferenčna liga: Uvod v tekmo, 1. krog: Hajduk - Ajax</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261015184500 +0200" stop="20261015204500 +0200" channel="sk1.delo.si">
@@ -538,7 +538,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261015130000 +0200" stop="20261015150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">13:00 Nogomet (M): Olimpija - Mura, Prva liga Telemach 2026/2027</title>
+    <title lang="sl">Nogomet (M): Olimpija - Mura, Prva liga Telemach 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261015150000 +0200" stop="20261015170000 +0200" channel="sporttv1.delo.si">
@@ -554,7 +554,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261015174500 +0200" stop="20261015184500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet: Evropska liga: Studio pred Celje - Omonia</title>
+    <title lang="sl">17:45 Nogomet: Evropska liga: Studio pred Celje - Omonia</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261015184500 +0200" stop="20261015204500 +0200" channel="sporttv1.delo.si">
