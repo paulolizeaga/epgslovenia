@@ -18,11 +18,11 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261015040000 +0200" stop="20261015060000 +0200" channel="sk1.delo.si">
-    <title lang="sl">04:00 Nogomet (M): Kashiwa Reysol - Port, Azijska liga prvakov 2026/27, AFC Champions League Elite East</title>
+    <title lang="sl">Nogomet (M): Kashiwa Reysol - Port, Azijska liga prvakov 2026/27, AFC Champions League Elite East</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261015060000 +0200" stop="20261015074500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Asvel - Crvena zvezda, Evroliga 2026/2027, Round</title>
+    <title lang="sl">Košarka (M): Asvel - Crvena zvezda, Evroliga 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261015074500 +0200" stop="20261015094500 +0200" channel="sk1.delo.si">
@@ -38,8 +38,8 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261015120000 +0200" stop="20261015140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Gangwon FC - Phnom Penh Crown, Azijska druga liga prvakov 2026/27, AFC Champions League Two Grp. H</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">12:00 Nogomet (M): Gangwon FC - Phnom Penh Crown, Azijska druga liga prvakov 2026/27, AFC Champions League Two Grp. H</title>
+    <category lang="sl">Šport • Nogomet Azijska liga prvakov (TWO) je azijski ekvivalent naše Lige Evropa.</category>
   </programme>
   <programme start="20261015140000 +0200" stop="20261015141500 +0200" channel="sk1.delo.si">
     <title lang="sl">Španska liga Stadioni: Alfonso Perez</title>
@@ -186,7 +186,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261017120000 +0200" stop="20261017140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Bandirma - Turk Telekom, Turška liga 2026/2027, Regular season</title>
+    <title lang="sl">Košarka (M): Bandirma - Turk Telekom, Turška liga 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261017140000 +0200" stop="20261017144500 +0200" channel="sk1.delo.si">
@@ -298,7 +298,7 @@
     <category lang="sl">Šport • Odbojka</category>
   </programme>
   <programme start="20261019004500 +0200" stop="20261019023000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Real Madrid - Bilbao, Španska liga 2026/2027, Regular season</title>
+    <title lang="sl">Košarka (M): Real Madrid - Bilbao, Španska liga 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261019023000 +0200" stop="20261019043000 +0200" channel="sk1.delo.si">
@@ -442,11 +442,11 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261021010000 +0200" stop="20261021033000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): NY Knicks - Philadelphia, NBA 2026/2027, NBA</title>
+    <title lang="sl">Košarka (M): NY Knicks - Philadelphia, NBA 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261021033000 +0200" stop="20261021060000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Spurs - Oklahoma, NBA 2026/2027, NBA</title>
+    <title lang="sl">Košarka (M): Spurs - Oklahoma, NBA 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261021060000 +0200" stop="20261021080000 +0200" channel="sk1.delo.si">
@@ -466,7 +466,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261021113000 +0200" stop="20261021131500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Pistons - Celtics, NBA 2026/2027, NBA</title>
+    <title lang="sl">Košarka (M): Pistons - Celtics, NBA 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261021131500 +0200" stop="20261021151500 +0200" channel="sk1.delo.si">
@@ -477,13 +477,9 @@
     <title lang="sl">TV prodaja</title>
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
-  <programme start="20261021160000 +0200" stop="20261021180000 +0200" channel="sk1.delo.si">
+  <programme start="20261021160000 +0200" stop="20261021183000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): Inter - Shakhtar, Mladinska liga prvakov 2026/27, Champions League Path</title>
     <category lang="sl">Šport • Nogomet</category>
-  </programme>
-  <programme start="20261021180000 +0200" stop="20261021183000 +0200" channel="sk1.delo.si">
-    <title lang="sl">2. SNL: Pregled 11. kroga</title>
-    <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261021183000 +0200" stop="20261021184500 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet: Liga prvakov: Uvod v tekmo, 3. krog: Como - Manchester United</title>
@@ -518,7 +514,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261015050000 +0200" stop="20261015070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Nogomet (M): Mainz - B. Leverkusen, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Mainz - B. Leverkusen, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261015070000 +0200" stop="20261015090000 +0200" channel="sporttv1.delo.si">
@@ -542,7 +538,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261015130000 +0200" stop="20261015150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Olimpija - Mura, Prva liga Telemach 2026/2027</title>
+    <title lang="sl">13:00 Nogomet (M): Olimpija - Mura, Prva liga Telemach 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261015150000 +0200" stop="20261015170000 +0200" channel="sporttv1.delo.si">
