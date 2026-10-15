@@ -58,7 +58,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261015183000 +0200" stop="20261015184500 +0200" channel="sk1.delo.si">
-    <title lang="sl">18:30 Nogomet: Konferenčna liga: Uvod v tekmo, 1. krog: Hajduk - Ajax</title>
+    <title lang="sl">Nogomet: Konferenčna liga: Uvod v tekmo, 1. krog: Hajduk - Ajax</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261015184500 +0200" stop="20261015204500 +0200" channel="sk1.delo.si">
@@ -313,13 +313,21 @@
     <title lang="sl">Odbojka: Slovenski superpokal (Ž): OTP Banka Branik - GEN-I Volley</title>
     <category lang="sl">Šport • Odbojka</category>
   </programme>
-  <programme start="20261019074500 +0200" stop="20261019083000 +0200" channel="sk1.delo.si">
+  <programme start="20261019074500 +0200" stop="20261019081500 +0200" channel="sk1.delo.si">
     <title lang="sl">TV prodaja</title>
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
-  <programme start="20261019083000 +0200" stop="20261019140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: ATP 250 Almaty</title>
-    <category lang="sl">Šport • Tenis</category>
+  <programme start="20261019081500 +0200" stop="20261019100000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Nogomet: 2. SNL: Brežice - Krško</title>
+    <category lang="sl">Šport • Nogomet</category>
+  </programme>
+  <programme start="20261019100000 +0200" stop="20261019120000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Nogomet: Prva liga Telemach: Koper - Brinje</title>
+    <category lang="sl">Šport • Nogomet</category>
+  </programme>
+  <programme start="20261019120000 +0200" stop="20261019140000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Nogomet: Prva liga Telemach: Mura - Nafta</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261019140000 +0200" stop="20261019143000 +0200" channel="sk1.delo.si">
     <title lang="sl">Peta četrtina</title>
@@ -554,7 +562,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261015174500 +0200" stop="20261015184500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">17:45 Nogomet: Evropska liga: Studio pred Celje - Omonia</title>
+    <title lang="sl">Nogomet: Evropska liga: Studio pred Celje - Omonia</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261015184500 +0200" stop="20261015204500 +0200" channel="sporttv1.delo.si">
