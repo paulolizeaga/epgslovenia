@@ -62,7 +62,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261017170000 +0200" stop="20261017173000 +0200" channel="sk1.delo.si">
-    <title lang="sl">17:00 Nogomet: Prva liga Telemach: Studio pred tekmo Mura - Nafta</title>
+    <title lang="sl">Nogomet: Prva liga Telemach: Studio pred tekmo Mura - Nafta</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261017173000 +0200" stop="20261017193000 +0200" channel="sk1.delo.si">
@@ -78,8 +78,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261017210000 +0200" stop="20261017223000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Valencia - Athletic B., Španska liga 2026/27</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">21:00 Nogomet (M): Valencia - Athletic B., Španska liga 2026/27</title>
+    <category lang="sl">Šport • Nogomet Španska nogometna liga La Liga velja za najboljšo evropsko nogometno ligo. Ustanovljena je bila leta 1929. V ligi sodeluje 20 klubov.</category>
   </programme>
   <programme start="20261017223000 +0200" stop="20261017230000 +0200" channel="sk1.delo.si">
     <title lang="sl">Košarka (M): Žalgiris - Efes, Evroliga 2026/27, Round</title>
@@ -554,7 +554,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261017152500 +0200" stop="20261017173000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">15:25 Nogomet (M): Union Berlin - B Dortmund, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Union Berlin - B Dortmund, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261017173000 +0200" stop="20261017180000 +0200" channel="sporttv1.delo.si">
@@ -574,7 +574,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261017205500 +0200" stop="20261017230000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Dundee - Rangers FC, Škotska liga 2026/2027</title>
+    <title lang="sl">20:55 Nogomet (M): Dundee - Rangers FC, Škotska liga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261017230000 +0200" stop="20261017231500 +0200" channel="sporttv1.delo.si">
