@@ -46,8 +46,8 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261017120000 +0200" stop="20261017140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">12:00 Košarka (M): Bandirma - Turk Telekom, Turška liga 2026/2027</title>
-    <category lang="sl">Šport • Košarka Vabljeni k ogledu Turške košarkarske lige, ene izmed najmočnejših v Evropi. Tekmovanje poteka pod okriljem Turške košarkarske zveze.</category>
+    <title lang="sl">Košarka (M): Bandirma - Turk Telekom, Turška liga 2026/2027</title>
+    <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261017140000 +0200" stop="20261017144500 +0200" channel="sk1.delo.si">
     <title lang="sl">Peta četrtina 2026/2027</title>
@@ -62,7 +62,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261017170000 +0200" stop="20261017173000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet: Prva liga Telemach: Studio pred tekmo Mura - Nafta</title>
+    <title lang="sl">17:00 Nogomet: Prva liga Telemach: Studio pred tekmo Mura - Nafta</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261017173000 +0200" stop="20261017193000 +0200" channel="sk1.delo.si">
@@ -542,7 +542,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261017110000 +0200" stop="20261017125500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">11:00 Nogomet (M): Celje - Omonia Nikosia, UEFA Evropska liga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Celje - Omonia Nikosia, UEFA Evropska liga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261017125500 +0200" stop="20261017150000 +0200" channel="sporttv1.delo.si">
@@ -554,7 +554,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261017152500 +0200" stop="20261017173000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Union Berlin - B Dortmund, Bundesliga 2026/2027</title>
+    <title lang="sl">15:25 Nogomet (M): Union Berlin - B Dortmund, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261017173000 +0200" stop="20261017180000 +0200" channel="sporttv1.delo.si">
