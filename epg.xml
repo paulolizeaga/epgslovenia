@@ -18,7 +18,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261018043000 +0200" stop="20261018061500 +0200" channel="sk1.delo.si">
-    <title lang="sl">04:30 Košarka (M): Burgos - Obradoiro CAB, Španska liga 2026/27, Regular season</title>
+    <title lang="sl">Košarka (M): Burgos - Obradoiro CAB, Španska liga 2026/27, Regular season</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261018061500 +0200" stop="20261018081500 +0200" channel="sk1.delo.si">
@@ -42,7 +42,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261018120000 +0200" stop="20261018140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Vikos Falcons - Olympiacos, Grška A1 liga 2026/27, Regular season</title>
+    <title lang="sl">12:00 Košarka (M): Vikos Falcons - Olympiacos, Grška A1 liga 2026/27, Regular season</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261018140000 +0200" stop="20261018144500 +0200" channel="sk1.delo.si">
@@ -66,7 +66,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261018193000 +0200" stop="20261018210000 +0200" channel="sk1.delo.si">
-    <title lang="sl">ATP 1000 Šanghaj: Finale</title>
+    <title lang="sl">Tenis (M): Davidovich Fokina - R. Jodar, ATP 1000 Šanghaj</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261018210000 +0200" stop="20261018230000 +0200" channel="sk1.delo.si">
@@ -86,7 +86,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261019043000 +0200" stop="20261019060000 +0200" channel="sk1.delo.si">
-    <title lang="sl">WTA 1000 Wuhan: Finale</title>
+    <title lang="sl">Tenis (Ž): 1/1, WTA 1000 Wuhan</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261019060000 +0200" stop="20261019074500 +0200" channel="sk1.delo.si">
@@ -522,7 +522,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261018050000 +0200" stop="20261018070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Nogomet (M): Schalke 04 - Mainz, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Schalke 04 - Mainz, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261018070000 +0200" stop="20261018090000 +0200" channel="sporttv1.delo.si">
@@ -534,7 +534,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261018105500 +0200" stop="20261018130000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (Ž): Cerklje - Olimpija, 1. SŽNL 2026/2027</title>
+    <title lang="sl">10:55 Nogomet (Ž): Cerklje - Olimpija, 1. SŽNL 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261018130000 +0200" stop="20261018132500 +0200" channel="sporttv1.delo.si">
