@@ -18,8 +18,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261019043000 +0200" stop="20261019060000 +0200" channel="sk1.delo.si">
-    <title lang="sl">04:30 Tenis (Ž): 1/1, WTA 1000 Wuhan</title>
-    <category lang="sl">Šport • Tenis Na Kitajskem se bodo v provinci Hubei na trdi podlagi na zunanjih igriščih pomerile nekatere najboljših svetovnih tenisačic.</category>
+    <title lang="sl">Tenis (Ž): 1/1, WTA 1000 Wuhan</title>
+    <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261019060000 +0200" stop="20261019074500 +0200" channel="sk1.delo.si">
     <title lang="sl">Odbojka: Slovenski superpokal (Ž): OTP Banka Branik - GEN-I Volley</title>
@@ -30,7 +30,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261019081500 +0200" stop="20261019100000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet: 2. SNL: Brežice - Krško</title>
+    <title lang="sl">Nogomet (M): Brežice - Krško, 2. SNL 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261019100000 +0200" stop="20261019120000 +0200" channel="sk1.delo.si">
@@ -46,7 +46,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261019143000 +0200" stop="20261019163000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Ragbi Europe Conference: Hrvaška - Slovenija</title>
+    <title lang="sl">14:30 Ragbi Europe Conference: Hrvaška - Slovenija</title>
     <category lang="sl">Šport • Ragbi</category>
   </programme>
   <programme start="20261019163000 +0200" stop="20261019171500 +0200" channel="sk1.delo.si">
@@ -534,7 +534,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261019050000 +0200" stop="20261019070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Nogomet (M): E Frankfurt - Köln, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): E Frankfurt - Köln, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261019070000 +0200" stop="20261019073000 +0200" channel="sporttv1.delo.si">
@@ -554,7 +554,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261019130000 +0200" stop="20261019150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): B. München - Leipzig, Bundesliga 2026/2027</title>
+    <title lang="sl">13:00 Nogomet (M): B. München - Leipzig, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261019150000 +0200" stop="20261019170000 +0200" channel="sporttv1.delo.si">
