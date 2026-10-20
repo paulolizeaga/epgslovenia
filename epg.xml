@@ -10,8 +10,8 @@
     <icon src="https://upload.wikimedia.org/wikipedia/en/1/1b/%C5%A0port_TV_%28Slovenia%29.png?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=original" />
   </channel>
   <programme start="20261020000000 +0200" stop="20261020020000 +0200" channel="sk1.delo.si">
-    <title lang="sl">00:00 Nogomet (M): Getafe - Rayo V., Španska liga 2026/27</title>
-    <category lang="sl">Šport • Nogomet Španska nogometna liga La Liga velja za najboljšo evropsko nogometno ligo. Ustanovljena je bila leta 1929. V ligi sodeluje 20 klubov.</category>
+    <title lang="sl">Nogomet (M): Getafe - Rayo V., Španska liga 2026/27</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261020020000 +0200" stop="20261020033000 +0200" channel="sk1.delo.si">
     <title lang="sl">Rokomet (M): Balingen - Hannover, Bundesliga 2026/27</title>
@@ -22,8 +22,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261020053000 +0200" stop="20261020071500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Erokspor - Efes, Turška liga 2026/27, Regular season</title>
-    <category lang="sl">Šport • Košarka</category>
+    <title lang="sl">05:30 Košarka (M): Erokspor - Efes, Turška liga 2026/27, Regular season</title>
+    <category lang="sl">Šport • Košarka Vabljeni k ogledu Turške košarkarske lige, ene izmed najmočnejših v Evropi. Tekmovanje poteka pod okriljem Turške košarkarske zveze.</category>
   </programme>
   <programme start="20261020071500 +0200" stop="20261020073000 +0200" channel="sk1.delo.si">
     <title lang="sl">Športne igre mladih</title>
@@ -522,7 +522,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261020050000 +0200" stop="20261020070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): B. Leverkusen - Freiburg, Bundesliga 2026/2027</title>
+    <title lang="sl">05:00 Nogomet (M): B. Leverkusen - Freiburg, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261020070000 +0200" stop="20261020090000 +0200" channel="sporttv1.delo.si">
@@ -566,7 +566,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261020230000 +0200" stop="20261021010000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">23:00 Nogomet (M): Union Berlin - B Dortmund, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Union Berlin - B Dortmund, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261021010000 +0200" stop="20261021030000 +0200" channel="sporttv1.delo.si">
