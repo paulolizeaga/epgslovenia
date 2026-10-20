@@ -22,8 +22,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261020053000 +0200" stop="20261020071500 +0200" channel="sk1.delo.si">
-    <title lang="sl">05:30 Košarka (M): Erokspor - Efes, Turška liga 2026/27, Regular season</title>
-    <category lang="sl">Šport • Košarka Vabljeni k ogledu Turške košarkarske lige, ene izmed najmočnejših v Evropi. Tekmovanje poteka pod okriljem Turške košarkarske zveze.</category>
+    <title lang="sl">Košarka (M): Erokspor - Efes, Turška liga 2026/27, Regular season</title>
+    <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261020071500 +0200" stop="20261020073000 +0200" channel="sk1.delo.si">
     <title lang="sl">Športne igre mladih</title>
@@ -46,8 +46,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261020130000 +0200" stop="20261020131500 +0200" channel="sk1.delo.si">
-    <title lang="sl">2. SNL: Pregled 11. kroga</title>
-    <category lang="sl">Šport • Informativna oddaja</category>
+    <title lang="sl">13:00 2. SNL: Pregled 11. kroga</title>
+    <category lang="sl">Šport • Informativna oddaja 2. SNL – najboljši zadetki in ključni trenutki preteklih tekem!</category>
   </programme>
   <programme start="20261020131500 +0200" stop="20261020140000 +0200" channel="sk1.delo.si">
     <title lang="sl">TV prodaja</title>
@@ -226,7 +226,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261022230000 +0200" stop="20261022233000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Rokomet: 1. SRL (m): Grosist Slovan - Gorenje Velenje</title>
+    <title lang="sl">Rokomet (M): Slovan - Velenje, 1. NLB liga 2026/27, 1. Liga NLB</title>
     <category lang="sl">Šport • Rokomet</category>
   </programme>
   <programme start="20261022233000 +0200" stop="20261023010000 +0200" channel="sk1.delo.si">
@@ -522,7 +522,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261020050000 +0200" stop="20261020070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Nogomet (M): B. Leverkusen - Freiburg, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): B. Leverkusen - Freiburg, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261020070000 +0200" stop="20261020090000 +0200" channel="sporttv1.delo.si">
@@ -538,7 +538,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261020130000 +0200" stop="20261020150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Maribor - Celje, Prva liga Telemach 2026/2027</title>
+    <title lang="sl">13:00 Nogomet (M): Maribor - Celje, Prva liga Telemach 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261020150000 +0200" stop="20261020165500 +0200" channel="sporttv1.delo.si">
@@ -558,7 +558,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261020214500 +0200" stop="20261020220000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet: 2. SNL: Vrhunci 11. kola</title>
+    <title lang="sl">Nogomet: 2. SNL: Vrhunci: Vrhunci 11. kola</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261020220000 +0200" stop="20261020230000 +0200" channel="sporttv1.delo.si">
