@@ -62,8 +62,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261021184500 +0200" stop="20261021204500 +0200" channel="sk1.delo.si">
-    <title lang="sl">18:45 Nogomet (M): Como - Man Utd, UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
-    <category lang="sl">Šport • Nogomet Za veliki pokal se borijo najboljši evropski klubi in najboljši nogometaši na svetu.</category>
+    <title lang="sl">Nogomet (M): Como - Man Utd, UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261021204500 +0200" stop="20261021210000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet: Liga prvakov: Uvod v tekmo, 3. krog: Real Madrid - RB Leipzig</title>
@@ -565,7 +565,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261021183000 +0200" stop="20261021203000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">18:30 Košarka (M): Cedevita - Le Mans , Eurocup 2026/2027, Skupina A</title>
+    <title lang="sl">Košarka (M): Cedevita - Le Mans , Eurocup 2026/2027, Skupina A</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261021203000 +0200" stop="20261021204500 +0200" channel="sporttv1.delo.si">
@@ -577,7 +577,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261021224500 +0200" stop="20261021230000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Salzburg - Olimpija, ICE Hockey League 2026/2027</title>
+    <title lang="sl">22:45 Hokej (M): Salzburg - Olimpija, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261021230000 +0200" stop="20261022004500 +0200" channel="sporttv1.delo.si">
