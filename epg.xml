@@ -18,8 +18,8 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261021033000 +0200" stop="20261021060000 +0200" channel="sk1.delo.si">
-    <title lang="sl">03:30 Košarka (M): Spurs - Oklahoma, NBA 2026/2027</title>
-    <category lang="sl">Šport • Košarka NBA je najpomembnejša liga profesionalne košarke v ZDA in znana kot najmočnejša košarkarska liga na svetu.</category>
+    <title lang="sl">Košarka (M): Spurs - Oklahoma, NBA 2026/2027</title>
+    <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261021060000 +0200" stop="20261021080000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): Fenerbahče - Slavia Prague, UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
@@ -42,8 +42,8 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261021131500 +0200" stop="20261021151500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Stuttgart - Atletico M., UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">13:15 Nogomet (M): Stuttgart - Atletico M., UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
+    <category lang="sl">Šport • Nogomet Za veliki pokal se borijo najboljši evropski klubi in najboljši nogometaši na svetu.</category>
   </programme>
   <programme start="20261021151500 +0200" stop="20261021160000 +0200" channel="sk1.delo.si">
     <title lang="sl">TV prodaja</title>
@@ -106,7 +106,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261022091500 +0200" stop="20261022104500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Rokomet: 1. SRL (m): Grosist Slovan - Gorenje Velenje</title>
+    <title lang="sl">Rokomet (M): Slovan - Velenje, 1. NLB liga 2026/27, 1. Liga NLB</title>
     <category lang="sl">Šport • Rokomet</category>
   </programme>
   <programme start="20261022104500 +0200" stop="20261022124500 +0200" channel="sk1.delo.si">
@@ -525,7 +525,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261021050000 +0200" stop="20261021060000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Nogomet: Bundesliga: Vrhunci 6. kola</title>
+    <title lang="sl">Nogomet: Bundesliga: Vrhunci 6. kola</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261021060000 +0200" stop="20261021070000 +0200" channel="sporttv1.delo.si">
@@ -545,7 +545,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261021130000 +0200" stop="20261021150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka (M): Budućnost - Neptunas, Eurocup 2026/2027, Skupina C</title>
+    <title lang="sl">13:00 Košarka (M): Budućnost - Neptunas, Eurocup 2026/2027, Skupina C</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261021150000 +0200" stop="20261021164500 +0200" channel="sporttv1.delo.si">
@@ -557,8 +557,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261021171500 +0200" stop="20261021174500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Ekstremni športi: Roc dAzur: Vrhunci</title>
-    <category lang="sl">Šport • Ekstremni športi</category>
+    <title lang="sl">Ekstremni športi: Roc d'Azur: vrhunci</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261021174500 +0200" stop="20261021183000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Košarka: Evropokal: Studio pred Cedevita Olimpija - Le Mans</title>
@@ -585,7 +585,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261022004500 +0200" stop="20261022010000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet: 2. SNL: Vrhunci 11. kola</title>
+    <title lang="sl">Nogomet: 2. SNL: Vrhunci</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261022010000 +0200" stop="20261022030000 +0200" channel="sporttv1.delo.si">
