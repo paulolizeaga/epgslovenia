@@ -42,8 +42,8 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261021131500 +0200" stop="20261021151500 +0200" channel="sk1.delo.si">
-    <title lang="sl">13:15 Nogomet (M): Stuttgart - Atletico M., UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
-    <category lang="sl">Šport • Nogomet Za veliki pokal se borijo najboljši evropski klubi in najboljši nogometaši na svetu.</category>
+    <title lang="sl">Nogomet (M): Stuttgart - Atletico M., UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261021151500 +0200" stop="20261021160000 +0200" channel="sk1.delo.si">
     <title lang="sl">TV prodaja</title>
@@ -62,8 +62,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261021184500 +0200" stop="20261021204500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Como - Man Utd, UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">18:45 Nogomet (M): Como - Man Utd, UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
+    <category lang="sl">Šport • Nogomet Za veliki pokal se borijo najboljši evropski klubi in najboljši nogometaši na svetu.</category>
   </programme>
   <programme start="20261021204500 +0200" stop="20261021210000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet: Liga prvakov: Uvod v tekmo, 3. krog: Real Madrid - RB Leipzig</title>
@@ -545,7 +545,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261021130000 +0200" stop="20261021150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">13:00 Košarka (M): Budućnost - Neptunas, Eurocup 2026/2027, Skupina C</title>
+    <title lang="sl">Košarka (M): Budućnost - Neptunas, Eurocup 2026/2027, Skupina C</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261021150000 +0200" stop="20261021164500 +0200" channel="sporttv1.delo.si">
@@ -565,7 +565,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261021183000 +0200" stop="20261021203000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka (M): Cedevita - Le Mans , Eurocup 2026/2027, Skupina A</title>
+    <title lang="sl">18:30 Košarka (M): Cedevita - Le Mans , Eurocup 2026/2027, Skupina A</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261021203000 +0200" stop="20261021204500 +0200" channel="sporttv1.delo.si">
