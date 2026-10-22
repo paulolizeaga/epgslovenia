@@ -66,8 +66,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261022184500 +0200" stop="20261022204500 +0200" channel="sk1.delo.si">
-    <title lang="sl">18:45 Nogomet (M): Crvena z. - Copenhagen, Konferenčna liga 2026/2027</title>
-    <category lang="sl">Šport • Nogomet Od leta 2021 nogometni navdušenci uživajo v Konferenčni ligi, katero organizira UEFA. Zmagovalec lige se v naslednji sezoni uvrsti v Evropsko ligo.</category>
+    <title lang="sl">Nogomet (M): Crvena z. - Copenhagen, Konferenčna liga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261022204500 +0200" stop="20261022210000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet: Konferenčna liga: Uvod v tekmo, 2. krog: Thun - Hajduk</title>
@@ -577,7 +577,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261022180000 +0200" stop="20261022194500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">18:00 Košarka (M): Cedevita - Le Mans , Eurocup 2026/2027, Skupina A</title>
+    <title lang="sl">Košarka (M): Cedevita - Le Mans , Eurocup 2026/2027, Skupina A</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261022194500 +0200" stop="20261022200000 +0200" channel="sporttv1.delo.si">
@@ -597,7 +597,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261022230000 +0200" stop="20261022233000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet: Evropska liga: Studio po Celje - Salzburg</title>
+    <title lang="sl">23:00 Nogomet: Evropska liga: Studio po Celje - Salzburg</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261022233000 +0200" stop="20261023003000 +0200" channel="sporttv1.delo.si">
