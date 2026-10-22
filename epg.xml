@@ -46,8 +46,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261022124500 +0200" stop="20261022141500 +0200" channel="sk1.delo.si">
-    <title lang="sl">12:45 Košarka (M): Ilirija - Šentjur, Liga OTP banka 2026/2027</title>
-    <category lang="sl">Šport • Košarka Vabljeni k ogledu Slovenske košarkarske lige, najpomembnejšega klubskega tekmovanja v svetu slovenske košarke.</category>
+    <title lang="sl">Košarka (M): Ilirija - Šentjur, Liga OTP banka 2026/2027</title>
+    <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261022141500 +0200" stop="20261022161500 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): R. Madrid - Leipzig, UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
@@ -66,8 +66,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261022184500 +0200" stop="20261022204500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Crvena z. - Copenhagen, Konferenčna liga 2026/2027</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">18:45 Nogomet (M): Crvena z. - Copenhagen, Konferenčna liga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet Od leta 2021 nogometni navdušenci uživajo v Konferenčni ligi, katero organizira UEFA. Zmagovalec lige se v naslednji sezoni uvrsti v Evropsko ligo.</category>
   </programme>
   <programme start="20261022204500 +0200" stop="20261022210000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet: Konferenčna liga: Uvod v tekmo, 2. krog: Thun - Hajduk</title>
@@ -561,7 +561,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261022130000 +0200" stop="20261022145500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">13:00 Košarka (M): Bosna S. - Bahcesehir, Eurocup 2026/2027, Skupina D</title>
+    <title lang="sl">Košarka (M): Bosna S. - Bahcesehir, Eurocup 2026/2027, Skupina D</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261022145500 +0200" stop="20261022170000 +0200" channel="sporttv1.delo.si">
@@ -577,7 +577,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261022180000 +0200" stop="20261022194500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka (M): Cedevita - Le Mans , Eurocup 2026/2027, Skupina A</title>
+    <title lang="sl">18:00 Košarka (M): Cedevita - Le Mans , Eurocup 2026/2027, Skupina A</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261022194500 +0200" stop="20261022200000 +0200" channel="sporttv1.delo.si">
@@ -910,7 +910,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261027214500 +0200" stop="20261027220000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet: 2. SNL: Vrhunci 12. kola</title>
+    <title lang="sl">Ženski nogometni magazin</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261027220000 +0200" stop="20261027230000 +0200" channel="sporttv1.delo.si">
@@ -949,21 +949,21 @@
     <title lang="sl">Nogomet (M): Freiburg - B. München, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
-  <programme start="20261028130000 +0200" stop="20261028150000 +0200" channel="sporttv1.delo.si">
+  <programme start="20261028130000 +0200" stop="20261028144500 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Košarka (M): Trento - Budućnost, Eurocup 2026/2027, Skupina C</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
-  <programme start="20261028150000 +0200" stop="20261028153000 +0200" channel="sporttv1.delo.si">
+  <programme start="20261028144500 +0200" stop="20261028151500 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Ekstremni športi: Pure Action</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
-  <programme start="20261028153000 +0200" stop="20261028154500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Futsal magazin</title>
-    <category lang="sl">Šport • Informativna oddaja</category>
-  </programme>
-  <programme start="20261028154500 +0200" stop="20261028174500 +0200" channel="sporttv1.delo.si">
+  <programme start="20261028151500 +0200" stop="20261028171500 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Nogomet (M): Koper - Maribor, Prva liga Telemach 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
+  </programme>
+  <programme start="20261028171500 +0200" stop="20261028174500 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Bundesliga: Posebno poročilo</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261028174500 +0200" stop="20261028183000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Košarka: Evropokal: Studio pred Aris - Cedevita Olimpija</title>
@@ -978,7 +978,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261028204500 +0200" stop="20261028205500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet: 2. SNL: Vrhunci 12. kola</title>
+    <title lang="sl">Futsal magazin</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261028205500 +0200" stop="20261028220000 +0200" channel="sporttv1.delo.si">
