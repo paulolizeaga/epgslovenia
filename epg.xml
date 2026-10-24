@@ -58,7 +58,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261024170000 +0200" stop="20261024183000 +0200" channel="sk1.delo.si">
-    <title lang="sl">17:00 Rokomet (M): Slovan - Velenje, 1. NLB liga 2026/27, 1. Liga NLB</title>
+    <title lang="sl">Rokomet (M): Slovan - Velenje, 1. NLB liga 2026/27, 1. Liga NLB</title>
     <category lang="sl">Šport • Rokomet</category>
   </programme>
   <programme start="20261024183000 +0200" stop="20261024203000 +0200" channel="sk1.delo.si">
@@ -70,8 +70,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261024210000 +0200" stop="20261024230000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Atletico M. - Deportivo, Španska liga 2026/2027</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">21:00 Nogomet (M): Atletico M. - Deportivo, Španska liga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet Španska nogometna liga La Liga velja za najboljšo evropsko nogometno ligo. Ustanovljena je bila leta 1929. V ligi sodeluje 20 klubov.</category>
   </programme>
   <programme start="20261024230000 +0200" stop="20261024233000 +0200" channel="sk1.delo.si">
     <title lang="sl">Košarka (M): Olympiacos - Fenerbahče, Evroliga 2026/2027</title>
@@ -589,7 +589,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261024173000 +0200" stop="20261024182500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">17:30 Avtomobilizem: European Le Mans Series: Vrhunci: Portimao</title>
+    <title lang="sl">Avtomobilizem: European Le Mans Series: Vrhunci: Portimao</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261024182500 +0200" stop="20261024202500 +0200" channel="sporttv1.delo.si">
@@ -597,7 +597,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261024202500 +0200" stop="20261024223000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Nürnberg - K'lautern, 2. Bundesliga 2026/2027</title>
+    <title lang="sl">20:25 Nogomet (M): Nürnberg - K'lautern, 2. Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261024223000 +0200" stop="20261024230000 +0200" channel="sporttv1.delo.si">
