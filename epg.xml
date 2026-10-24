@@ -18,8 +18,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261024044500 +0200" stop="20261024063000 +0200" channel="sk1.delo.si">
-    <title lang="sl">04:45 Košarka (M): Philadelphia - Cavaliers, NBA 2026/2027</title>
-    <category lang="sl">Šport • Košarka NBA je najpomembnejša liga profesionalne košarke v ZDA in znana kot najmočnejša košarkarska liga na svetu.</category>
+    <title lang="sl">Košarka (M): Philadelphia - Cavaliers, NBA 2026/2027</title>
+    <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261024063000 +0200" stop="20261024081500 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): D. Alaves - Malaga, Španska liga 2026/2027</title>
@@ -42,8 +42,8 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261024120000 +0200" stop="20261024140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Trabzonspor - Erokspor, Turška liga 2026/2027</title>
-    <category lang="sl">Šport • Košarka</category>
+    <title lang="sl">12:00 Košarka (M): Trabzonspor - Erokspor, Turška liga 2026/2027</title>
+    <category lang="sl">Šport • Košarka Vabljeni k ogledu Turške košarkarske lige, ene izmed najmočnejših v Evropi. Tekmovanje poteka pod okriljem Turške košarkarske zveze.</category>
   </programme>
   <programme start="20261024140000 +0200" stop="20261024144500 +0200" channel="sk1.delo.si">
     <title lang="sl">TV prodaja</title>
@@ -561,7 +561,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261024050000 +0200" stop="20261024070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Košarka (M): Cedevita - Le Mans , Eurocup 2026/2027, Skupina A</title>
+    <title lang="sl">Košarka (M): Cedevita - Le Mans , Eurocup 2026/2027, Skupina A</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261024070000 +0200" stop="20261024090000 +0200" channel="sporttv1.delo.si">
@@ -573,7 +573,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261024110000 +0200" stop="20261024125500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Olimpija - Fehervar, ICE Hockey League 2026/2027</title>
+    <title lang="sl">11:00 Hokej (M): Olimpija - Fehervar, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261024125500 +0200" stop="20261024150000 +0200" channel="sporttv1.delo.si">
@@ -617,7 +617,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261025020000 +0200" stop="20261025030000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">The Ocean Race Atlantic Dokumentarni program • Reportaža</title>
+    <title lang="sl">Jadranje: The Ocean Race Atlantic 2026: Dokumentarec Dokumentarni program • Reportaža</title>
   </programme>
   <programme start="20261025030000 +0200" stop="20261025050000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Nogomet (M): Mainz - Werder B., Bundesliga 2026/2027</title>
@@ -656,7 +656,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261025183000 +0200" stop="20261025193000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">The Ocean Race Atlantic Dokumentarni program • Reportaža</title>
+    <title lang="sl">Jadranje: The Ocean Race Atlantic 2026: Dokumentarec Dokumentarni program • Reportaža</title>
   </programme>
   <programme start="20261025193000 +0200" stop="20261025195500 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Ekstremni športi: Pure Action</title>
@@ -759,7 +759,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261027110000 +0200" stop="20261027120000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">The Ocean Race Atlantic Dokumentarni program • Reportaža</title>
+    <title lang="sl">Jadranje: The Ocean Race Atlantic 2026: Dokumentarec Dokumentarni program • Reportaža</title>
   </programme>
   <programme start="20261027120000 +0200" stop="20261027123000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Ekstremni športi: Pure Action</title>
