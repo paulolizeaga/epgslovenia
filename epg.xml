@@ -22,7 +22,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261025044500 +0200" stop="20261025063000 +0200" channel="sk1.delo.si">
-    <title lang="sl">04:45 Košarka (M): Barcelona - Zaragoza, Španska liga 2026/2027</title>
+    <title lang="sl">Košarka (M): Barcelona - Zaragoza, Španska liga 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261025063000 +0200" stop="20261025081500 +0200" channel="sk1.delo.si">
@@ -34,8 +34,8 @@
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261025111500 +0200" stop="20261025120000 +0200" channel="sk1.delo.si">
-    <title lang="sl">TV prodaja</title>
-    <category lang="sl">Propagandni program • TV prodaja</category>
+    <title lang="sl">11:15 TV prodaja</title>
+    <category lang="sl">Propagandni program • TV prodaja Vabljeni k nakupu kar iz naslonjača, s pomočjo televizijske prodaje na našem programu.</category>
   </programme>
   <programme start="20261025120000 +0200" stop="20261025140000 +0200" channel="sk1.delo.si">
     <title lang="sl">Košarka (M): Girona - Joventut, Španska liga 2026/2027</title>
@@ -153,9 +153,13 @@
     <title lang="sl">Nogomet (M): Sevilla - Osasuna, Španska liga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
-  <programme start="20261027043000 +0200" stop="20261027061500 +0200" channel="sk1.delo.si">
+  <programme start="20261027043000 +0200" stop="20261027044500 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): Al Nassr - Al Wasl , Azijska liga prvakov 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
+  </programme>
+  <programme start="20261027044500 +0200" stop="20261027061500 +0200" channel="sk1.delo.si">
+    <title lang="sl">Tenis (M): Musetti - T. Fritz, ATP 250 Lyon</title>
+    <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261027061500 +0200" stop="20261027063000 +0200" channel="sk1.delo.si">
     <title lang="sl">Odbojka: Prva odbojkarska liga (M): I-Vent Maribor - ACH Volley</title>
@@ -572,7 +576,7 @@
     <title lang="sl">Jadranje: The Ocean Race Atlantic 2026: Dokumentarec Dokumentarni program • Reportaža</title>
   </programme>
   <programme start="20261025030000 +0200" stop="20261025050000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">03:00 Nogomet (M): Mainz - Werder B., Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Mainz - Werder B., Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261025050000 +0200" stop="20261025070000 +0200" channel="sporttv1.delo.si">
@@ -588,7 +592,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261025105500 +0200" stop="20261025125500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (Ž): Mura Nona - Ljubljana, 1. SŽNL 2026/2027</title>
+    <title lang="sl">10:55 Nogomet (Ž): Mura Nona - Ljubljana, 1. SŽNL 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261025125500 +0200" stop="20261025150000 +0200" channel="sporttv1.delo.si">
