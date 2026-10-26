@@ -22,8 +22,8 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261026120000 +0200" stop="20261026140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Barcelona - R. Madrid, Španska liga 2026/2027</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">12:00 Nogomet (M): Barcelona - R. Madrid, Španska liga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet Španska nogometna liga La Liga velja za najboljšo evropsko nogometno ligo. Ustanovljena je bila leta 1929. V ligi sodeluje 20 klubov.</category>
   </programme>
   <programme start="20261026140000 +0200" stop="20261026144500 +0200" channel="sk1.delo.si">
     <title lang="sl">TV prodaja</title>
@@ -58,7 +58,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261026230000 +0200" stop="20261026233000 +0200" channel="sk1.delo.si">
-    <title lang="sl">23:00 Nogomet (M): Barcelona - R. Madrid, Španska liga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Barcelona - R. Madrid, Španska liga 2026/2027</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261026233000 +0200" stop="20261027000000 +0200" channel="sk1.delo.si">
@@ -572,7 +572,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261026030000 +0200" stop="20261026050000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">03:00 Nogomet (M): Hoffenheim - B. Leverkusen, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Hoffenheim - B. Leverkusen, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261026050000 +0200" stop="20261026070000 +0200" channel="sporttv1.delo.si">
@@ -592,7 +592,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261026125000 +0200" stop="20261026144500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka (M): Cedevita - Le Mans , Eurocup 2026/2027, Skupina A</title>
+    <title lang="sl">12:50 Košarka (M): Cedevita - Le Mans , Eurocup 2026/2027, Skupina A</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261026144500 +0200" stop="20261026164500 +0200" channel="sporttv1.delo.si">
