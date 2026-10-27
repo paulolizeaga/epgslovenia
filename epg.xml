@@ -73,7 +73,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261027170000 +0200" stop="20261027190000 +0200" channel="sk1.delo.si">
-    <title lang="sl">17:00 Nogomet (M): Radomlje - Mura, Prva liga Telemach 2026/27</title>
+    <title lang="sl">Nogomet (M): Radomlje - Mura, Prva liga Telemach 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261027190000 +0200" stop="20261027191500 +0200" channel="sk1.delo.si">
@@ -93,7 +93,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261027223000 +0200" stop="20261027233000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Dubai - Paris, Evroliga 2026/2027</title>
+    <title lang="sl">22:30 Košarka (M): Dubai - Paris, Evroliga 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261027233000 +0200" stop="20261028001500 +0200" channel="sk1.delo.si">
@@ -149,7 +149,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261028170000 +0200" stop="20261028190000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Nafta - Aluminij, Prva liga Telemach 2026/27</title>
+    <title lang="sl">Nogomet: Prva liga Telemach: Nafta - Aluminij</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261028190000 +0200" stop="20261028193000 +0200" channel="sk1.delo.si">
@@ -185,7 +185,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261029033000 +0200" stop="20261029060000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): L.A. Clippers - Lakers, NBA 2024/2025, Redna sezona</title>
+    <title lang="sl">Košarka: NBA: Los Angeles Clippers - Los Angeles Lakers</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261029060000 +0200" stop="20261029080000 +0200" channel="sk1.delo.si">
@@ -615,7 +615,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261027181500 +0200" stop="20261027190000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">18:15 Prva liga Telemach: Studio pred Koper - Maribor</title>
+    <title lang="sl">Prva liga Telemach: Studio pred Koper - Maribor</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261027190000 +0200" stop="20261027210000 +0200" channel="sporttv1.delo.si">
@@ -635,7 +635,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261027220000 +0200" stop="20261027230000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka (M): Trento - Budućnost, Eurocup 2026/2027, Skupina C</title>
+    <title lang="sl">22:00 Košarka (M): Trento - Budućnost, Eurocup 2026/2027, Skupina C</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261027230000 +0200" stop="20261028000000 +0200" channel="sporttv1.delo.si">
