@@ -18,8 +18,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261029033000 +0200" stop="20261029060000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): L.A. Clippers - Lakers, NBA 2026/27</title>
-    <category lang="sl">Šport • Košarka</category>
+    <title lang="sl">03:30 Košarka (M): L.A. Clippers - Lakers, NBA 2026/27</title>
+    <category lang="sl">Šport • Košarka NBA je najpomembnejša liga profesionalne košarke v ZDA in znana kot najmočnejša košarkarska liga na svetu.</category>
   </programme>
   <programme start="20261029060000 +0200" stop="20261029080000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): Olimpija - Celje, Prva liga Telemach 2026/27</title>
@@ -576,7 +576,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261029050000 +0200" stop="20261029070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Mainz - Werder B., Bundesliga 2026/2027</title>
+    <title lang="sl">05:00 Nogomet (M): Mainz - Werder B., Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261029070000 +0200" stop="20261029090000 +0200" channel="sporttv1.delo.si">
