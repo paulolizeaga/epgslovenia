@@ -66,7 +66,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261031174500 +0200" stop="20261031180000 +0200" channel="sk1.delo.si">
-    <title lang="sl">17:45 Nogomet: Prva Liga Telemach: Uvod v tekmo: Aluminij - Radomlje</title>
+    <title lang="sl">Nogomet: Prva Liga Telemach: Uvod v tekmo: Aluminij - Radomlje</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261031180000 +0200" stop="20261031200000 +0200" channel="sk1.delo.si">
@@ -74,8 +74,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261031200000 +0200" stop="20261031223000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Jazz - Blazers, NBA 2026/27</title>
-    <category lang="sl">Šport • Košarka</category>
+    <title lang="sl">20:00 Košarka (M): Jazz - Blazers, NBA 2026/27</title>
+    <category lang="sl">Šport • Košarka NBA je najpomembnejša liga profesionalne košarke v ZDA in znana kot najmočnejša košarkarska liga na svetu.</category>
   </programme>
   <programme start="20261031223000 +0200" stop="20261031230000 +0200" channel="sk1.delo.si">
     <title lang="sl">NBA Action 2026/2027</title>
@@ -149,7 +149,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261101200000 +0200" stop="20261101213000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: ATP 500 Dunaj</title>
+    <title lang="sl">Tenis: ATP 500 Dunaj: Finale: Alcaraz - Zverev ali De Minaur</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261101213000 +0200" stop="20261101233000 +0200" channel="sk1.delo.si">
@@ -161,7 +161,7 @@
     <category lang="sl">Šport • Odbojka</category>
   </programme>
   <programme start="20261102000000 +0200" stop="20261102013000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: ATP 500 Basel: Finale</title>
+    <title lang="sl">Tenis: ATP 500 Basel: Finale: Vacherot - Lehecka ali Struff</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261102013000 +0200" stop="20261102030000 +0200" channel="sk1.delo.si">
@@ -600,7 +600,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261031160000 +0200" stop="20261031180000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">16:00 Nogomet (M): Maribor - Olimpija, Prva liga Telemach 2026/2027</title>
+    <title lang="sl">Nogomet (M): Maribor - Olimpija, Prva liga Telemach 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261031180000 +0200" stop="20261031182500 +0200" channel="sporttv1.delo.si">
@@ -616,7 +616,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261031205500 +0200" stop="20261031230000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Ajax - AZ Alkmaar, Nizozemska liga 2026/2027</title>
+    <title lang="sl">20:55 Nogomet (M): Ajax - AZ Alkmaar, Nizozemska liga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261031230000 +0200" stop="20261031234500 +0200" channel="sporttv1.delo.si">
