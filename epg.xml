@@ -37,7 +37,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261101120000 +0200" stop="20261101140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">12:00 Košarka (M): Joventut - Bilbao, Španska liga 2026/2027</title>
+    <title lang="sl">Košarka (M): Joventut - Bilbao, Španska liga 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261101140000 +0200" stop="20261101144500 +0200" channel="sk1.delo.si">
@@ -73,8 +73,8 @@
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261101213000 +0200" stop="20261101233000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Magic - Celtics, NBA 2026/27</title>
-    <category lang="sl">Šport • Košarka</category>
+    <title lang="sl">21:30 Košarka (M): Magic - Celtics, NBA 2026/27</title>
+    <category lang="sl">Šport • Košarka NBA je najpomembnejša liga profesionalne košarke v ZDA in znana kot najmočnejša košarkarska liga na svetu.</category>
   </programme>
   <programme start="20261101233000 +0200" stop="20261102000000 +0200" channel="sk1.delo.si">
     <title lang="sl">Odbojka (M): Calcit Volley - Salonit Ahnovo, Prva odbojkarska liga 2026/27, 1. DOL</title>
@@ -587,7 +587,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261101120000 +0200" stop="20261101135500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">12:00 Nogomet (M): B. München - B Dortmund, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): B. München - B Dortmund, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261101135500 +0200" stop="20261101160000 +0200" channel="sporttv1.delo.si">
@@ -611,7 +611,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261101213000 +0200" stop="20261101230000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): E Frankfurt - HSV, Bundesliga 2026/2027</title>
+    <title lang="sl">21:30 Nogomet (M): E Frankfurt - HSV, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261101230000 +0200" stop="20261101233000 +0200" channel="sporttv1.delo.si">
