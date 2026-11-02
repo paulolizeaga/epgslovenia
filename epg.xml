@@ -22,8 +22,8 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261102053000 +0200" stop="20261102073000 +0200" channel="sk1.delo.si">
-    <title lang="sl">05:30 Nogomet (M): Athletic B. - R, Sociedad, Španska liga 2026/2027</title>
-    <category lang="sl">Šport • Nogomet Španska nogometna liga La Liga velja za najboljšo evropsko nogometno ligo. Ustanovljena je bila leta 1929. V ligi sodeluje 20 klubov.</category>
+    <title lang="sl">Nogomet (M): Athletic B. - R, Sociedad, Španska liga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261102073000 +0200" stop="20261102074500 +0200" channel="sk1.delo.si">
     <title lang="sl">TV prodaja</title>
@@ -54,8 +54,8 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261102144500 +0200" stop="20261102163000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Lakers - Raptors, NBA 2026/2027</title>
-    <category lang="sl">Šport • Košarka</category>
+    <title lang="sl">14:45 Košarka (M): Lakers - Raptors, NBA 2026/2027</title>
+    <category lang="sl">Šport • Košarka NBA je najpomembnejša liga profesionalne košarke v ZDA in znana kot najmočnejša košarkarska liga na svetu.</category>
   </programme>
   <programme start="20261102163000 +0200" stop="20261102170000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet: Prva liga Telemach: Studio pred tekmo Bravo - Koper</title>
@@ -417,7 +417,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261107023000 +0200" stop="20261107043000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Sevilla - D. Alaves, Španska liga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Sevilla - D. Alaves, Španska liga 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261107043000 +0200" stop="20261107061500 +0200" channel="sk1.delo.si">
@@ -425,7 +425,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261107061500 +0200" stop="20261107080000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): 1. SKL: Rogaška - Perspektiva Ilirija</title>
+    <title lang="sl">Košarka (M): Rogaška - Ilirija, Liga OTP banka 2026/27</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261107080000 +0200" stop="20261107083000 +0200" channel="sk1.delo.si">
@@ -433,7 +433,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261107083000 +0200" stop="20261107103000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet: Prva liga Telemach: Nafta - Olimpija</title>
+    <title lang="sl">Nogomet (M): Nafta - Olimpija, Prva liga Telemach 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261107103000 +0200" stop="20261107110000 +0200" channel="sk1.delo.si">
@@ -441,7 +441,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261107110000 +0200" stop="20261107130000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Turška liga: Cayirova - Bandirma</title>
+    <title lang="sl">Košarka (M): Cayirova - Bandirma, Turška liga 2026/27</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261107130000 +0200" stop="20261107133000 +0200" channel="sk1.delo.si">
@@ -461,7 +461,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261107150000 +0200" stop="20261107170000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet: Prva liga Telemach: Koper - Mura</title>
+    <title lang="sl">Nogomet (M): Koper - Mura, Prva liga Telemach 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261107170000 +0200" stop="20261107171500 +0200" channel="sk1.delo.si">
@@ -473,7 +473,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261107180000 +0200" stop="20261107194500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Odbojka: Sportklub Superliga (ž): SIP Šempeter - GEN-I Volley</title>
+    <title lang="sl">Odbojka (Ž): Šempeter - GEN-I Volley, 1. DOL 2026/27, 1. DOL</title>
     <category lang="sl">Šport • Odbojka</category>
   </programme>
   <programme start="20261107194500 +0200" stop="20261107201500 +0200" channel="sk1.delo.si">
@@ -485,7 +485,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261107210000 +0200" stop="20261107230000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet: Španska liga: Valencia - Real Madrid</title>
+    <title lang="sl">Nogomet (M): Valencia - R. Madrid, Španska liga 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261107230000 +0200" stop="20261108013000 +0200" channel="sk1.delo.si">
@@ -493,15 +493,15 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261108013000 +0200" stop="20261108033000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet: Španska liga: Espanyol - Deportivo</title>
+    <title lang="sl">Nogomet (M): Espanyol - Deportivo, Španska liga 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261108033000 +0200" stop="20261108051500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Španska liga: Lleida - Baskonia</title>
+    <title lang="sl">Košarka (M): Lleida - Baskonia, Španska liga 2026/27</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261108051500 +0200" stop="20261108071500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet: Španska liga: Osasuna - Athletic Bilbao</title>
+    <title lang="sl">Nogomet (M): Osasuna - Athletic B., Španska liga 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261108071500 +0200" stop="20261108074500 +0200" channel="sk1.delo.si">
@@ -521,7 +521,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261108120000 +0200" stop="20261108140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Španska liga: Barcelona - Rio Breogan</title>
+    <title lang="sl">Košarka (M): Barcelona - Breogan, Španska liga 2026/27</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261108140000 +0200" stop="20261108144500 +0200" channel="sk1.delo.si">
@@ -533,7 +533,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261108150000 +0200" stop="20261108170000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet: Prva liga Telemach: Brinje - Aluminij</title>
+    <title lang="sl">Nogomet (M): Brinje - Aluminij, Prva liga Telemach 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261108170000 +0200" stop="20261108171500 +0200" channel="sk1.delo.si">
@@ -545,7 +545,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261108173000 +0200" stop="20261108193000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet: Prva liga Telemach: Radomlje - Celje</title>
+    <title lang="sl">Nogomet (M): Radomlje - Celje, Prva liga Telemach 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261108193000 +0200" stop="20261108194500 +0200" channel="sk1.delo.si">
@@ -561,11 +561,11 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261108210000 +0200" stop="20261108230000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet: Španska liga: Atletico Madrid - Barcelona</title>
+    <title lang="sl">Nogomet (M): Atletico M. - Barcelona, Španska liga 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261108230000 +0200" stop="20261108233000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: NBA: Indiana Pacers - Denver Nuggets</title>
+    <title lang="sl">Košarka (M): I. Pacers - D. Nuggets, NBA 2026/27</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261108233000 +0200" stop="20261109013000 +0200" channel="sk1.delo.si">
@@ -581,7 +581,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261102050000 +0200" stop="20261102070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Nogomet (M): Elversberg - Mainz, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Elversberg - Mainz, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261102070000 +0200" stop="20261102090000 +0200" channel="sporttv1.delo.si">
@@ -593,7 +593,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261102110000 +0200" stop="20261102130000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Falkirk - Celtic, Škotska liga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Falkirk - Celtic, Škotska liga 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261102130000 +0200" stop="20261102150000 +0200" channel="sporttv1.delo.si">
@@ -601,7 +601,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261102150000 +0200" stop="20261102170000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Maribor - Olimpija, Prva liga Telemach 2026/2027</title>
+    <title lang="sl">15:00 Nogomet (M): Maribor - Olimpija, Prva liga Telemach 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261102170000 +0200" stop="20261102171500 +0200" channel="sporttv1.delo.si">
