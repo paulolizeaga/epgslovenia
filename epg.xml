@@ -22,8 +22,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261104060000 +0200" stop="20261104074500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Lakers - Heat, NBA 2026/27</title>
-    <category lang="sl">Šport • Košarka</category>
+    <title lang="sl">06:00 Košarka (M): Lakers - Heat, NBA 2026/27</title>
+    <category lang="sl">Šport • Košarka NBA je najpomembnejša liga profesionalne košarke v ZDA in znana kot najmočnejša košarkarska liga na svetu.</category>
   </programme>
   <programme start="20261104074500 +0200" stop="20261104084500 +0200" channel="sk1.delo.si">
     <title lang="sl">TV prodaja</title>
@@ -82,7 +82,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261104231500 +0200" stop="20261104233000 +0200" channel="sk1.delo.si">
-    <title lang="sl">23:15 Prva liga Telemach: Pregled kroga</title>
+    <title lang="sl">Prva liga Telemach: Pregled kroga</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261104233000 +0200" stop="20261105010000 +0200" channel="sk1.delo.si">
@@ -558,7 +558,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261104050000 +0200" stop="20261104070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): E Frankfurt - HSV, Bundesliga 2026/2027</title>
+    <title lang="sl">05:00 Nogomet (M): E Frankfurt - HSV, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261104070000 +0200" stop="20261104090000 +0200" channel="sporttv1.delo.si">
@@ -582,7 +582,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261104170000 +0200" stop="20261104171500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet: 2. SNL: Vrhunci 13. kola</title>
+    <title lang="sl">Nogomet: 2. SNL: Vrhunci: Vrhunci 13. kola</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261104171500 +0200" stop="20261104174500 +0200" channel="sporttv1.delo.si">
@@ -602,7 +602,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261104204500 +0200" stop="20261104211500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Jadranje: Route du Rhum: Magazin</title>
+    <title lang="sl">Magazin: Jadranje: Route du Rhum</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261104211500 +0200" stop="20261104221500 +0200" channel="sporttv1.delo.si">
@@ -618,7 +618,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261104233000 +0200" stop="20261105011000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">23:30 Nogomet: UEFA Magazin</title>
+    <title lang="sl">Nogomet: UEFA Magazin</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261105011000 +0200" stop="20261105030500 +0200" channel="sporttv1.delo.si">
@@ -726,11 +726,11 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261106170000 +0200" stop="20261106173000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet: Bundesliga: Najboljše v oktobru</title>
+    <title lang="sl">Idealna linija</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261106173000 +0200" stop="20261106175500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Idealna linija</title>
+    <title lang="sl">Peta četrtina</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261106175500 +0200" stop="20261106195500 +0200" channel="sporttv1.delo.si">
@@ -842,7 +842,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261108080000 +0200" stop="20261108083000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Games of the Future Dokumentarni program • Reportaža</title>
+    <title lang="sl">Peta četrtina</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261108083000 +0200" stop="20261108113000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Marathon Malaga</title>
@@ -904,7 +905,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261109090000 +0200" stop="20261109093000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet: Bundesliga: Najboljše v oktobru</title>
+    <title lang="sl">Peta četrtina</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261109093000 +0200" stop="20261109100000 +0200" channel="sporttv1.delo.si">
