@@ -26,8 +26,8 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261105063000 +0200" stop="20261105064500 +0200" channel="sk1.delo.si">
-    <title lang="sl">2. SNL: Pregled 13. kroga</title>
-    <category lang="sl">Šport • Informativna oddaja</category>
+    <title lang="sl">06:30 2. SNL: Pregled 13. kroga</title>
+    <category lang="sl">Šport • Informativna oddaja 2. SNL – najboljši zadetki in ključni trenutki preteklih tekem!</category>
   </programme>
   <programme start="20261105064500 +0200" stop="20261105084500 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): B Dortmund - Real Betis, UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
@@ -86,8 +86,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261105233000 +0200" stop="20261106011500 +0200" channel="sk1.delo.si">
-    <title lang="sl">23:30 Košarka (M): Rogaška - Ilirija, Liga OTP banka 2026/27</title>
-    <category lang="sl">Šport • Košarka Vabljeni k ogledu Slovenske košarkarske lige, najpomembnejšega klubskega tekmovanja v svetu slovenske košarke.</category>
+    <title lang="sl">Košarka (M): Rogaška - Ilirija, Liga OTP banka 2026/27</title>
+    <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261106011500 +0200" stop="20261106031500 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): Lincoln Red I. - Hajduk S., Konferenčna liga 2026/27</title>
@@ -542,7 +542,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261105050000 +0200" stop="20261105070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Augsburg - Freiburg, Bundesliga 2026/2027</title>
+    <title lang="sl">05:00 Nogomet (M): Augsburg - Freiburg, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261105070000 +0200" stop="20261105090000 +0200" channel="sporttv1.delo.si">
@@ -594,7 +594,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261105231500 +0200" stop="20261105233000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">23:15 Nogomet (M): B. München - B Dortmund, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): B. München - B Dortmund, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261105233000 +0200" stop="20261106003000 +0200" channel="sporttv1.delo.si">
