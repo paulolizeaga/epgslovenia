@@ -18,8 +18,8 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261106050000 +0200" stop="20261106070000 +0200" channel="sk1.delo.si">
-    <title lang="sl">05:00 Nogomet (M): Feyenoord - Inter, UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
-    <category lang="sl">Šport • Nogomet Za veliki pokal se borijo najboljši evropski klubi in najboljši nogometaši na svetu.</category>
+    <title lang="sl">Nogomet (M): Feyenoord - Inter, UEFA Liga prvakov 2026/27, Champions League - League Phase</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261106070000 +0200" stop="20261106071500 +0200" channel="sk1.delo.si">
     <title lang="sl">Športne igre mladih</title>
@@ -50,8 +50,8 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261106141500 +0200" stop="20261106161500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Mjaellby - Borac B.L., Konferenčna liga 2026/27</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">14:15 Nogomet (M): Mjaellby - Borac B.L., Konferenčna liga 2026/27</title>
+    <category lang="sl">Šport • Nogomet Od leta 2021 nogometni navdušenci uživajo v Konferenčni ligi, katero organizira UEFA. Zmagovalec lige se v naslednji sezoni uvrsti v Evropsko ligo.</category>
   </programme>
   <programme start="20261106161500 +0200" stop="20261106170000 +0200" channel="sk1.delo.si">
     <title lang="sl">TV prodaja</title>
@@ -314,7 +314,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261110053000 +0200" stop="20261110070000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Grška A1 liga: AEK - Panathinaikos</title>
+    <title lang="sl">Košarka (M): AEK - Panathinaikos, Grška A1 liga 2026/27, Regular season</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261110070000 +0200" stop="20261110073000 +0200" channel="sk1.delo.si">
@@ -398,7 +398,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261111083000 +0200" stop="20261111100000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Liga prvakov: 6. krog: Hapoel Holon - Vechta</title>
+    <title lang="sl">Košarka (M): Holon - Vechta, FIBA Liga prvakov 2026/27, Skupina F</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261111100000 +0200" stop="20261111114500 +0200" channel="sk1.delo.si">
@@ -438,7 +438,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261111183000 +0200" stop="20261111204500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Liga prvakov: 6. krog: Rytas - Nanterre</title>
+    <title lang="sl">Košarka (M): Rytas - Nanterre, FIBA Liga prvakov 2026/27, Skupina A</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261111204500 +0200" stop="20261111224500 +0200" channel="sk1.delo.si">
@@ -482,7 +482,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261112111500 +0200" stop="20261112124500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Liga prvakov: 6. krog: Spartak - Cholet</title>
+    <title lang="sl">Košarka (M): Spartak - Cholet, FIBA Liga prvakov 2026/27, Skupina F</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261112124500 +0200" stop="20261112131500 +0200" channel="sk1.delo.si">
@@ -506,7 +506,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261112180000 +0200" stop="20261112200000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Liga narodov: Turčija - Belgija</title>
+    <title lang="sl">Nogomet (M): Turčija - Belgija, Liga narodov 2026/27, UEFA Nations League A Grp. 1</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261112200000 +0200" stop="20261112204500 +0200" channel="sk1.delo.si">
@@ -514,7 +514,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261112204500 +0200" stop="20261112224500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Liga narodov: Anglija - Hrvaška</title>
+    <title lang="sl">Nogomet (M): Anglija - Hrvaška, Liga narodov 2026/27, Skupina 3</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261112224500 +0200" stop="20261112231500 +0200" channel="sk1.delo.si">
@@ -538,7 +538,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261106050000 +0200" stop="20261106070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Hokej (M): Milano - Olimpija, ICE Hockey League 2026/2027</title>
+    <title lang="sl">Hokej (M): Milano - Olimpija, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261106070000 +0200" stop="20261106090000 +0200" channel="sporttv1.delo.si">
@@ -554,7 +554,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261106130000 +0200" stop="20261106150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): B. München - B Dortmund, Bundesliga 2026/2027</title>
+    <title lang="sl">13:00 Nogomet (M): B. München - B Dortmund, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261106150000 +0200" stop="20261106170000 +0200" channel="sporttv1.delo.si">
