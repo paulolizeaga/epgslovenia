@@ -18,7 +18,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261107043000 +0200" stop="20261107061500 +0200" channel="sk1.delo.si">
-    <title lang="sl">04:30 Košarka (M): Bešiktaš - Žalgiris, Evroliga 2026/27</title>
+    <title lang="sl">Košarka (M): Bešiktaš - Žalgiris, Evroliga 2026/27</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261107061500 +0200" stop="20261107080000 +0200" channel="sk1.delo.si">
@@ -46,7 +46,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261107133000 +0200" stop="20261107140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">NBA on Fire 2026/2027</title>
+    <title lang="sl">13:30 NBA on Fire 2026/2027</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261107140000 +0200" stop="20261107144500 +0200" channel="sk1.delo.si">
@@ -534,7 +534,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261107050000 +0200" stop="20261107070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Košarka (M): Cedevita - Tortona, Eurocup 2026/2027, Skupina A</title>
+    <title lang="sl">Košarka (M): Cedevita - Tortona, Eurocup 2026/2027, Skupina A</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261107070000 +0200" stop="20261107090000 +0200" channel="sporttv1.delo.si">
@@ -550,7 +550,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261107125500 +0200" stop="20261107150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): H. Kiel - A Bielefeld, 2. Bundesliga 2026/2027</title>
+    <title lang="sl">12:55 Nogomet (M): H. Kiel - A Bielefeld, 2. Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261107150000 +0200" stop="20261107152500 +0200" channel="sporttv1.delo.si">
@@ -654,7 +654,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261109020000 +0200" stop="20261109023000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Games of the Future Dokumentarni program • Reportaža</title>
+    <title lang="sl">Games of the Future: Games of the Future Dokumentarni program • Reportaža</title>
   </programme>
   <programme start="20261109023000 +0200" stop="20261109030000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Idealna linija</title>
@@ -857,7 +857,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261112004500 +0200" stop="20261112011500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Games of the Future Dokumentarni program • Reportaža</title>
+    <title lang="sl">Games of the Future: Games of the Future Dokumentarni program • Reportaža</title>
   </programme>
   <programme start="20261112011500 +0200" stop="20261112031500 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Nogomet (M): B Dortmund - Elversberg, Bundesliga 2026/2027</title>
