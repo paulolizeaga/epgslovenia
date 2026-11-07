@@ -46,7 +46,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261107133000 +0200" stop="20261107140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">13:30 NBA on Fire 2026/2027</title>
+    <title lang="sl">NBA on Fire 2026/2027</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261107140000 +0200" stop="20261107144500 +0200" channel="sk1.delo.si">
@@ -82,8 +82,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261107210000 +0200" stop="20261107230000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Valencia - R. Madrid, Španska liga 2026/27</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">21:00 Nogomet (M): Valencia - R. Madrid, Španska liga 2026/27</title>
+    <category lang="sl">Šport • Nogomet Najbolj spektakularno prvenstvo na svetu ponuja obračun, ki ga ne smete zamuditi.</category>
   </programme>
   <programme start="20261107230000 +0200" stop="20261108013000 +0200" channel="sk1.delo.si">
     <title lang="sl">Košarka (M): Olympiacos - Crvena zvezda, Evroliga 2026/27</title>
@@ -146,7 +146,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261108193000 +0200" stop="20261108210000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Tenis: ATP 1000 Pariz: Finale</title>
+    <title lang="sl">Tenis: ATP 1000 Pariz: Finale: Shelton - Alcaraz</title>
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261108210000 +0200" stop="20261108230000 +0200" channel="sk1.delo.si">
@@ -550,7 +550,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261107125500 +0200" stop="20261107150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">12:55 Nogomet (M): H. Kiel - A Bielefeld, 2. Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): H. Kiel - A Bielefeld, 2. Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261107150000 +0200" stop="20261107152500 +0200" channel="sporttv1.delo.si">
@@ -578,7 +578,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261107205500 +0200" stop="20261107223000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): St. Mirren - Rangers FC, Škotska liga 2026/2027</title>
+    <title lang="sl">20:55 Nogomet (M): St. Mirren - Rangers FC, Škotska liga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261107223000 +0200" stop="20261107230000 +0200" channel="sporttv1.delo.si">
