@@ -38,7 +38,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261108120000 +0200" stop="20261108140000 +0200" channel="sk1.delo.si">
-    <title lang="sl">12:00 Košarka (M): Barcelona - Breogan, Španska liga 2026/27</title>
+    <title lang="sl">Košarka (M): Barcelona - Breogan, Španska liga 2026/27</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261108140000 +0200" stop="20261108144500 +0200" channel="sk1.delo.si">
@@ -70,8 +70,8 @@
     <category lang="sl">Šport • Tenis</category>
   </programme>
   <programme start="20261108210000 +0200" stop="20261108230000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Atletico M. - Barcelona, Španska liga 2026/27</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">21:00 Nogomet (M): Atletico M. - Barcelona, Španska liga 2026/27</title>
+    <category lang="sl">Šport • Nogomet Najbolj spektakularno prvenstvo na svetu ponuja obračun, ki ga ne smete zamuditi.</category>
   </programme>
   <programme start="20261108230000 +0200" stop="20261108233000 +0200" channel="sk1.delo.si">
     <title lang="sl">Košarka (M): I. Pacers - D. Nuggets, NBA 2026/27</title>
@@ -554,7 +554,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261108132500 +0200" stop="20261108152500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">13:25 Nogomet (Ž): Olimpija - Radomlje, 1. SŽNL 2026/2027</title>
+    <title lang="sl">Nogomet (Ž): Olimpija - Radomlje, 1. SŽNL 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261108152500 +0200" stop="20261108172500 +0200" channel="sporttv1.delo.si">
@@ -570,7 +570,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261108213000 +0200" stop="20261108230000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Bravo - Maribor, Prva liga Telemach 2026/2027</title>
+    <title lang="sl">21:30 Nogomet (M): Bravo - Maribor, Prva liga Telemach 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261108230000 +0200" stop="20261108233000 +0200" channel="sporttv1.delo.si">
