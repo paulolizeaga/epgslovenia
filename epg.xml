@@ -10,8 +10,8 @@
     <icon src="https://upload.wikimedia.org/wikipedia/en/1/1b/%C5%A0port_TV_%28Slovenia%29.png?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=original" />
   </channel>
   <programme start="20261110010000 +0200" stop="20261110033000 +0200" channel="sk1.delo.si">
-    <title lang="sl">01:00 Košarka (M): Hawks - Lakers, NBA 2025/26, Regularna sezona</title>
-    <category lang="sl">Šport • Košarka NBA je najpomembnejša liga profesionalne košarke v ZDA in znana kot najmočnejša košarkarska liga na svetu.</category>
+    <title lang="sl">Košarka (M): Hawks - Lakers, NBA 2025/26, Regularna sezona</title>
+    <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261110033000 +0200" stop="20261110053000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): R, Sociedad - Rayo V., Španska liga 2025/2026</title>
@@ -50,8 +50,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261110153000 +0200" stop="20261110171500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Hawks - Lakers, NBA 2026/2027</title>
-    <category lang="sl">Šport • Košarka</category>
+    <title lang="sl">15:30 Košarka (M): Hawks - Lakers, NBA 2026/2027</title>
+    <category lang="sl">Šport • Košarka NBA je najpomembnejša liga profesionalne košarke v ZDA in znana kot najmočnejša košarkarska liga na svetu.</category>
   </programme>
   <programme start="20261110171500 +0200" stop="20261110180000 +0200" channel="sk1.delo.si">
     <title lang="sl">TV prodaja</title>
@@ -166,7 +166,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261112020000 +0200" stop="20261112043000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Bucks - Lakers, NBA 2026/2027</title>
+    <title lang="sl">Košarka (M): Bucks - Lakers, NBA 2026/27</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261112043000 +0200" stop="20261112064500 +0200" channel="sk1.delo.si">
@@ -202,7 +202,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261112153000 +0200" stop="20261112171500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Bucks - Lakers, NBA 2026/2027</title>
+    <title lang="sl">Košarka (M): Bucks - Lakers, NBA 2026/27</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261112171500 +0200" stop="20261112180000 +0200" channel="sk1.delo.si">
@@ -422,7 +422,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261115133000 +0200" stop="20261115153000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: Turška liga: Denizli - Cayirova</title>
+    <title lang="sl">Košarka (M): Denizli Basket - Cayirova, Turška liga 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261115153000 +0200" stop="20261115163000 +0200" channel="sk1.delo.si">
@@ -438,7 +438,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261115190000 +0200" stop="20261115213000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: NBA: Philadelphia 76ers - Indiana Pacers</title>
+    <title lang="sl">Košarka (M): Philadelphia - I. Pacers, NBA 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261115213000 +0200" stop="20261115220000 +0200" channel="sk1.delo.si">
@@ -446,7 +446,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261115220000 +0200" stop="20261115233000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: NBA: Phoenix Suns - Los Angeles Lakers</title>
+    <title lang="sl">Košarka (M): Suns - Lakers, NBA 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261115233000 +0200" stop="20261116003000 +0200" channel="sk1.delo.si">
@@ -462,7 +462,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261116033000 +0200" stop="20261116051500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Rokomet: Bundesliga: Magdeburg - Flensburg</title>
+    <title lang="sl">Rokomet (M): Magdeburg - SG Flensburg, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Rokomet</category>
   </programme>
   <programme start="20261116051500 +0200" stop="20261116071500 +0200" channel="sk1.delo.si">
@@ -510,7 +510,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261116220000 +0200" stop="20261116224500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka: NBA: Phoenix Suns - Los Angeles Lakers</title>
+    <title lang="sl">Košarka (M): Suns - Lakers, NBA 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261116224500 +0200" stop="20261116234500 +0200" channel="sk1.delo.si">
@@ -522,7 +522,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261110010000 +0200" stop="20261110030000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">01:00 Nogomet (M): Köln - B. Leverkusen, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Köln - B. Leverkusen, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261110030000 +0200" stop="20261110050000 +0200" channel="sporttv1.delo.si">
@@ -549,12 +549,12 @@
     <title lang="sl">Futsal: Kvalifikacije za FIFA Futsal World Cup 2028: Slovenija - Norveška</title>
     <category lang="sl">Šport • Ostalo</category>
   </programme>
-  <programme start="20261110130000 +0200" stop="20261110150000 +0200" channel="sporttv1.delo.si">
+  <programme start="20261110130000 +0200" stop="20261110145500 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Nogomet (M): Bravo - Maribor, Prva liga Telemach 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
-  <programme start="20261110150000 +0200" stop="20261110170000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Pod prečko</title>
+  <programme start="20261110145500 +0200" stop="20261110170000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">14:55 Pod prečko</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261110170000 +0200" stop="20261110171500 +0200" channel="sporttv1.delo.si">
@@ -638,7 +638,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261111194000 +0200" stop="20261111221500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Pustertal - Olimpija, ICE Hockey League 2026/2027</title>
+    <title lang="sl">Hokej na ledu (M): Pustertal - Olimpija, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261111221500 +0200" stop="20261112001500 +0200" channel="sporttv1.delo.si">
@@ -685,7 +685,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261112150000 +0200" stop="20261112170000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Pustertal - Olimpija, ICE Hockey League 2026/2027</title>
+    <title lang="sl">Hokej na ledu (M): Pustertal - Olimpija, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261112170000 +0200" stop="20261112171500 +0200" channel="sporttv1.delo.si">
@@ -749,7 +749,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261113130000 +0200" stop="20261113150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Pustertal - Olimpija, ICE Hockey League 2026/2027</title>
+    <title lang="sl">Hokej na ledu (M): Pustertal - Olimpija, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261113150000 +0200" stop="20261113170000 +0200" channel="sporttv1.delo.si">
@@ -769,7 +769,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261113190000 +0200" stop="20261113214500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Olimpija - Salzburg, ICE Hockey League 2026/2027</title>
+    <title lang="sl">Hokej na ledu (M): Olimpija - Salzburg, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261113214500 +0200" stop="20261113230500 +0200" channel="sporttv1.delo.si">
@@ -789,7 +789,7 @@
     <category lang="sl">Šport • Ostalo</category>
   </programme>
   <programme start="20261114030000 +0200" stop="20261114050000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Jesenice - Merano, Alpska liga 2026/2027</title>
+    <title lang="sl">Hokej na ledu (M): Jesenice - Merano, Alpska liga 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261114050000 +0200" stop="20261114070000 +0200" channel="sporttv1.delo.si">
@@ -809,7 +809,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261114130000 +0200" stop="20261114150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Olimpija - Salzburg, ICE Hockey League 2026/2027</title>
+    <title lang="sl">Hokej na ledu (M): Olimpija - Salzburg, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261114150000 +0200" stop="20261114170000 +0200" channel="sporttv1.delo.si">
@@ -825,7 +825,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261114174500 +0200" stop="20261114203000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Olimpija - Innsbruck, ICE Hockey League 2026/2027</title>
+    <title lang="sl">Hokej na ledu (M): Olimpija - Innsbruck, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261114203000 +0200" stop="20261114213000 +0200" channel="sporttv1.delo.si">
@@ -845,7 +845,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261115010000 +0200" stop="20261115030000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Jesenice - Merano, Alpska liga 2026/2027</title>
+    <title lang="sl">Hokej na ledu (M): Jesenice - Merano, Alpska liga 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261115030000 +0200" stop="20261115050000 +0200" channel="sporttv1.delo.si">
@@ -865,7 +865,7 @@
     <category lang="sl">Šport • Ostalo</category>
   </programme>
   <programme start="20261115110000 +0200" stop="20261115130000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Olimpija - Salzburg, ICE Hockey League 2026/2027</title>
+    <title lang="sl">Hokej na ledu (M): Olimpija - Salzburg, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261115130000 +0200" stop="20261115150000 +0200" channel="sporttv1.delo.si">
@@ -889,7 +889,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261115210000 +0200" stop="20261115230000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Olimpija - Innsbruck, ICE Hockey League 2026/2027</title>
+    <title lang="sl">Hokej na ledu (M): Olimpija - Innsbruck, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261115230000 +0200" stop="20261116010000 +0200" channel="sporttv1.delo.si">
@@ -921,7 +921,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261116110000 +0200" stop="20261116130000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Olimpija - Salzburg, ICE Hockey League 2026/2027</title>
+    <title lang="sl">Hokej na ledu (M): Olimpija - Salzburg, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261116130000 +0200" stop="20261116133000 +0200" channel="sporttv1.delo.si">
@@ -936,7 +936,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261116170000 +0200" stop="20261116190000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej (M): Olimpija - Innsbruck, ICE Hockey League 2026/2027</title>
+    <title lang="sl">Hokej na ledu (M): Olimpija - Innsbruck, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261116190000 +0200" stop="20261116200000 +0200" channel="sporttv1.delo.si">
