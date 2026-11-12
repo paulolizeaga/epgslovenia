@@ -10,7 +10,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/en/1/1b/%C5%A0port_TV_%28Slovenia%29.png?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=original" />
   </channel>
   <programme start="20261112001500 +0200" stop="20261112020000 +0200" channel="sk1.delo.si">
-    <title lang="sl">00:15 Košarka (M): Paris - Fenerbahče, Evroliga 2026/27</title>
+    <title lang="sl">Košarka (M): Paris - Fenerbahče, Evroliga 2026/27</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261112020000 +0200" stop="20261112043000 +0200" channel="sk1.delo.si">
@@ -50,8 +50,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261112153000 +0200" stop="20261112171500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Bucks - Lakers, NBA 2026/27</title>
-    <category lang="sl">Šport • Košarka</category>
+    <title lang="sl">15:30 Košarka (M): Bucks - Lakers, NBA 2026/27</title>
+    <category lang="sl">Šport • Košarka NBA je najpomembnejša liga profesionalne košarke v ZDA in znana kot najmočnejša košarkarska liga na svetu.</category>
   </programme>
   <programme start="20261112171500 +0200" stop="20261112180000 +0200" channel="sk1.delo.si">
     <title lang="sl">TV prodaja</title>
@@ -258,7 +258,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261115091500 +0200" stop="20261115110000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Odbojka: Sportklub Superliga (m): Alpacem Kanal - I-Vent Maribor</title>
+    <title lang="sl">Odbojka (M): Salonit Ahnovo - Maribor, Prva odbojkarska liga 2026/27, 1. DOL</title>
     <category lang="sl">Šport • Odbojka</category>
   </programme>
   <programme start="20261115110000 +0200" stop="20261115130000 +0200" channel="sk1.delo.si">
@@ -514,7 +514,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261112004500 +0200" stop="20261112011500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">00:45 Games of the Future: Games of the Future Dokumentarni program • Reportaža</title>
+    <title lang="sl">Games of the Future: Games of the Future Dokumentarni program • Reportaža</title>
   </programme>
   <programme start="20261112011500 +0200" stop="20261112031500 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Nogomet (M): B Dortmund - Elversberg, Bundesliga 2026/2027</title>
@@ -549,7 +549,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261112150000 +0200" stop="20261112170000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej na ledu (M): Pustertal - Olimpija, ICE Hockey League 2026/2027</title>
+    <title lang="sl">15:00 Hokej na ledu (M): Pustertal - Olimpija, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261112170000 +0200" stop="20261112171500 +0200" channel="sporttv1.delo.si">
