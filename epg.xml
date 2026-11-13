@@ -18,7 +18,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261113053000 +0200" stop="20261113070000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Nymburk - Igokea, FIBA Liga prvakov 2026/27, Skupina G</title>
+    <title lang="sl">05:30 Košarka (M): Nymburk - Igokea, FIBA Liga prvakov 2026/27, Skupina G</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261113070000 +0200" stop="20261113073000 +0200" channel="sk1.delo.si">
@@ -78,7 +78,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261113231500 +0200" stop="20261113234500 +0200" channel="sk1.delo.si">
-    <title lang="sl">23:15 Košarka (M): Olympiacos - Dubai, Evroliga 2026/2027</title>
+    <title lang="sl">Košarka (M): Olympiacos - Dubai, Evroliga 2026/2027</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261113234500 +0200" stop="20261114001500 +0200" channel="sk1.delo.si">
@@ -514,7 +514,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261113000000 +0200" stop="20261113010000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">00:00 Nogomet: Bundesliga: Vrhunci 9. kola</title>
+    <title lang="sl">Nogomet: Bundesliga: Vrhunci 9. kola</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261113010000 +0200" stop="20261113030000 +0200" channel="sporttv1.delo.si">
@@ -526,7 +526,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261113050000 +0200" stop="20261113070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): B Dortmund - Elversberg, Bundesliga 2026/2027</title>
+    <title lang="sl">05:00 Nogomet (M): B Dortmund - Elversberg, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261113070000 +0200" stop="20261113090000 +0200" channel="sporttv1.delo.si">
