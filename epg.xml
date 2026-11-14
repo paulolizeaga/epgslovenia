@@ -22,8 +22,8 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261114053000 +0200" stop="20261114073000 +0200" channel="sk1.delo.si">
-    <title lang="sl">05:30 Nogomet (M): Škotska - S. Makedonija, Liga narodov B 2026/27, UEFA Nations League B Grp. 1</title>
-    <category lang="sl">Šport • Nogomet Nogometni turnir, ki poteka vsaki dve leti, med reprezentancami, ki so članice evropske konfederacije.</category>
+    <title lang="sl">Nogomet (M): Škotska - S. Makedonija, Liga narodov B 2026/27, UEFA Nations League B Grp. 1</title>
+    <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261114073000 +0200" stop="20261114074500 +0200" channel="sk1.delo.si">
     <title lang="sl">TV prodaja</title>
@@ -50,7 +50,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261114131500 +0200" stop="20261114150000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Rokomet (M): Velenje - Loka, 1. NLB liga 2026/27</title>
+    <title lang="sl">13:15 Rokomet (M): Velenje - Loka, 1. NLB liga 2026/27</title>
     <category lang="sl">Šport • Rokomet</category>
   </programme>
   <programme start="20261114150000 +0200" stop="20261114170000 +0200" channel="sk1.delo.si">
@@ -526,7 +526,7 @@
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261114050000 +0200" stop="20261114070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">05:00 Nogomet (M): Leipzig - Augsburg, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): Leipzig - Augsburg, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261114070000 +0200" stop="20261114090000 +0200" channel="sporttv1.delo.si">
@@ -542,7 +542,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261114130000 +0200" stop="20261114150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej na ledu (M): Olimpija - Salzburg, ICE Hockey League 2026/2027</title>
+    <title lang="sl">13:00 Hokej na ledu (M): Olimpija - Salzburg, ICE Hockey League 2026/2027</title>
     <category lang="sl">Šport • Hokej</category>
   </programme>
   <programme start="20261114150000 +0200" stop="20261114170000 +0200" channel="sporttv1.delo.si">
