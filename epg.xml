@@ -9,74 +9,6 @@
     <display-name lang="sl">SPORTTV1</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/1/1b/%C5%A0port_TV_%28Slovenia%29.png?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=original" />
   </channel>
-  <programme start="20261115013000 +0200" stop="20261115040000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Cavaliers - D. Mavericks, NBA 2026/27</title>
-    <category lang="sl">Šport • Košarka</category>
-  </programme>
-  <programme start="20261115040000 +0200" stop="20261115060000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Norveška - Wales, Liga narodov 2026/27, UEFA Nations League A Grp. 4</title>
-    <category lang="sl">Šport • Nogomet</category>
-  </programme>
-  <programme start="20261115060000 +0200" stop="20261115063000 +0200" channel="sk1.delo.si">
-    <title lang="sl">NBA on Fire 2026/2027</title>
-    <category lang="sl">Šport • Informativna oddaja</category>
-  </programme>
-  <programme start="20261115063000 +0200" stop="20261115070000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Peta četrtina 2026/2027</title>
-    <category lang="sl">Šport • Informativna oddaja</category>
-  </programme>
-  <programme start="20261115070000 +0200" stop="20261115084500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Odbojka: Sportklub Superliga (ž): AFM Volley - OTP Banka Branik</title>
-    <category lang="sl">Šport • Odbojka</category>
-  </programme>
-  <programme start="20261115084500 +0200" stop="20261115091500 +0200" channel="sk1.delo.si">
-    <title lang="sl">TV prodaja</title>
-    <category lang="sl">Propagandni program • TV prodaja</category>
-  </programme>
-  <programme start="20261115091500 +0200" stop="20261115110000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Odbojka (M): Salonit Ahnovo - Maribor, Prva odbojkarska liga 2026/27, 1. DOL</title>
-    <category lang="sl">Šport • Odbojka</category>
-  </programme>
-  <programme start="20261115110000 +0200" stop="20261115130000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Erokspor - Bahcesehir, Turška liga 2026/2027</title>
-    <category lang="sl">Šport • Košarka</category>
-  </programme>
-  <programme start="20261115130000 +0200" stop="20261115133000 +0200" channel="sk1.delo.si">
-    <title lang="sl">TV prodaja</title>
-    <category lang="sl">Propagandni program • TV prodaja</category>
-  </programme>
-  <programme start="20261115133000 +0200" stop="20261115153000 +0200" channel="sk1.delo.si">
-    <title lang="sl">13:30 Košarka (M): Denizli Basket - Cayirova, Turška liga 2026/27</title>
-    <category lang="sl">Šport • Košarka Vabljeni k ogledu Turške košarkarske lige, ene izmed najmočnejših v Evropi. Tekmovanje poteka pod okriljem Turške košarkarske zveze.</category>
-  </programme>
-  <programme start="20261115153000 +0200" stop="20261115163000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet: Liga narodov: Pregled sobotnih tekem</title>
-    <category lang="sl">Šport • Informativna oddaja</category>
-  </programme>
-  <programme start="20261115163000 +0200" stop="20261115183000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Aris - Olympiacos, Grška A1 liga 2026/27, Redovna sezona</title>
-    <category lang="sl">Šport • Košarka</category>
-  </programme>
-  <programme start="20261115183000 +0200" stop="20261115190000 +0200" channel="sk1.delo.si">
-    <title lang="sl">TV prodaja</title>
-    <category lang="sl">Propagandni program • TV prodaja</category>
-  </programme>
-  <programme start="20261115190000 +0200" stop="20261115213000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Philadelphia - I. Pacers, NBA 2026/27</title>
-    <category lang="sl">Šport • Košarka</category>
-  </programme>
-  <programme start="20261115213000 +0200" stop="20261115220000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Soccerbot 360 Magazin Pod prečko 2026/2027</title>
-    <category lang="sl">Šport • Informativna oddaja</category>
-  </programme>
-  <programme start="20261115220000 +0200" stop="20261115233000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Košarka (M): Suns - Lakers, NBA 2026/27</title>
-    <category lang="sl">Šport • Košarka</category>
-  </programme>
-  <programme start="20261115233000 +0200" stop="20261116003000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Švedska - BiH, Liga narodov B 2026/27, Skupina 4</title>
-    <category lang="sl">Šport • Nogomet</category>
-  </programme>
   <programme start="20261116003000 +0200" stop="20261116013000 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet: Liga narodov: Pregled 5. igralnega dne</title>
     <category lang="sl">Šport • Informativna oddaja</category>
@@ -513,61 +445,89 @@
     <title lang="sl">Odbojka: Sportklub Superliga (ž): OTP Banka Branik - Calcit Volley</title>
     <category lang="sl">Šport • Odbojka</category>
   </programme>
-  <programme start="20261121233000 +0200" stop="20261122013000 +0200" channel="sk1.delo.si">
+  <programme start="20261121233000 +0200" stop="20261122004500 +0200" channel="sk1.delo.si">
     <title lang="sl">Evropska liga in Konferenčna liga</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
-  <programme start="20261115010000 +0200" stop="20261115030000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej na ledu (M): Jesenice - Merano, Alpska liga 2026/2027</title>
-    <category lang="sl">Šport • Hokej</category>
+  <programme start="20261122004500 +0200" stop="20261122023000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Odbojka: Sportklub Superliga (m): I-Vent Maribor - Črnuče</title>
+    <category lang="sl">Šport • Odbojka</category>
   </programme>
-  <programme start="20261115030000 +0200" stop="20261115050000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka (M): JL Bourg - Budućnost, Eurocup 2026/2027, Skupina C</title>
-    <category lang="sl">Šport • Košarka</category>
-  </programme>
-  <programme start="20261115050000 +0200" stop="20261115070000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Stuttgart - Werder B., Bundesliga 2026/2027</title>
+  <programme start="20261122023000 +0200" stop="20261122043000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Nogomet (M): Sevilla - Real Betis, Španska liga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
-  <programme start="20261115070000 +0200" stop="20261115090000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka (M): Siauliai - Tenerife, Eurocup 2026/2027, Skupina B</title>
+  <programme start="20261122043000 +0200" stop="20261122060000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Košarka: Grška A1 liga: Panathinaikos - Maroussi</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
-  <programme start="20261115090000 +0200" stop="20261115105500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Futsal: Kvalifikacije za FIFA Futsal World Cup 2028: Slovenija - Belgija</title>
-    <category lang="sl">Šport • Ostalo</category>
+  <programme start="20261122060000 +0200" stop="20261122073000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Rokomet: Bundesliga: Lemgo - Gummersbach</title>
+    <category lang="sl">Šport • Rokomet</category>
   </programme>
-  <programme start="20261115105500 +0200" stop="20261115130000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (Ž): Cerklje - Aluminij , 1. SŽNL 2026/2027</title>
-    <category lang="sl">Šport • Nogomet</category>
+  <programme start="20261122073000 +0200" stop="20261122080000 +0200" channel="sk1.delo.si">
+    <title lang="sl">TV prodaja</title>
+    <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
-  <programme start="20261115130000 +0200" stop="20261115150000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">13:00 Košarka (M): Frankfurt - Maxima Roma, Eurocup 2026/2027, Skupina B</title>
-    <category lang="sl">Šport • Košarka</category>
-  </programme>
-  <programme start="20261115150000 +0200" stop="20261115153000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Ekstremni športi: Pure Action</title>
+  <programme start="20261122080000 +0200" stop="20261122083000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Nogomet: Prva liga Telemach: Studio pred tekmo Olimpija - Radomlje</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
-  <programme start="20261115153000 +0200" stop="20261115170000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka (M): Domžale - Rogaška, Liga OTP banka 2026/2027</title>
-    <category lang="sl">Šport • Košarka</category>
-  </programme>
-  <programme start="20261115170000 +0200" stop="20261115190000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Bravo - Maribor, Prva liga Telemach 2026/2027</title>
+  <programme start="20261122083000 +0200" stop="20261122103000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Nogomet: Prva liga Telemach: Olimpija - Radomlje</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
-  <programme start="20261115190000 +0200" stop="20261115210000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Košarka (M): Rostock - Cedevita, Eurocup 2026/2027, Skupina A</title>
+  <programme start="20261122103000 +0200" stop="20261122110000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Nogomet: Prva liga Telemach: Studio po tekmi Olimpija - Radomlje</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
+  </programme>
+  <programme start="20261122110000 +0200" stop="20261122130000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Košarka: Turška liga: Cayirova - Erok</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
-  <programme start="20261115210000 +0200" stop="20261115230000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Hokej na ledu (M): Olimpija - Innsbruck, ICE Hockey League 2026/2027</title>
-    <category lang="sl">Šport • Hokej</category>
+  <programme start="20261122130000 +0200" stop="20261122131500 +0200" channel="sk1.delo.si">
+    <title lang="sl">TV prodaja</title>
+    <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
-  <programme start="20261115230000 +0200" stop="20261116010000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Futsal: Kvalifikacije za FIFA Futsal World Cup 2028: Slovenija - Belgija</title>
-    <category lang="sl">Šport • Ostalo</category>
+  <programme start="20261122131500 +0200" stop="20261122140000 +0200" channel="sk1.delo.si">
+    <title lang="sl">NBA on Fire 2026/2027</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
+  </programme>
+  <programme start="20261122140000 +0200" stop="20261122160000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Nogomet: Španska liga: Barcelona - Villarreal</title>
+    <category lang="sl">Šport • Nogomet</category>
+  </programme>
+  <programme start="20261122160000 +0200" stop="20261122161500 +0200" channel="sk1.delo.si">
+    <title lang="sl">TV prodaja</title>
+    <category lang="sl">Propagandni program • TV prodaja</category>
+  </programme>
+  <programme start="20261122161500 +0200" stop="20261122164500 +0200" channel="sk1.delo.si">
+    <title lang="sl">Evroliga: Pregled 12. kroga</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
+  </programme>
+  <programme start="20261122164500 +0200" stop="20261122171500 +0200" channel="sk1.delo.si">
+    <title lang="sl">Evroliga: Pregled 13. kroga</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
+  </programme>
+  <programme start="20261122171500 +0200" stop="20261122173000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Nogomet: Prva Liga Telemach: Uvod v tekmo: Celje - Brinje</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
+  </programme>
+  <programme start="20261122173000 +0200" stop="20261122193000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Nogomet: Prva liga Telemach: Celje - Brinje</title>
+    <category lang="sl">Šport • Nogomet</category>
+  </programme>
+  <programme start="20261122193000 +0200" stop="20261122210000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Tenis: Nitto ATP Finals: Finale (dvojice)</title>
+    <category lang="sl">Šport • Tenis</category>
+  </programme>
+  <programme start="20261122210000 +0200" stop="20261122230000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Nogomet: Španska liga: Getafe - Atletico Madrid</title>
+    <category lang="sl">Šport • Nogomet</category>
+  </programme>
+  <programme start="20261122230000 +0200" stop="20261123010000 +0200" channel="sk1.delo.si">
+    <title lang="sl">Odbojka: Sportklub Superliga (ž): OTP Banka Branik - Calcit Volley</title>
+    <category lang="sl">Šport • Odbojka</category>
   </programme>
   <programme start="20261116010000 +0200" stop="20261116023000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Košarka (M): Šenčur - Ilirija, Liga OTP banka 2026/2027</title>
@@ -605,7 +565,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261116150000 +0200" stop="20261116170000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (Ž): Cerklje - Aluminij , 1. SŽNL 2026/2027</title>
+    <title lang="sl">Nogomet: Ženska nogometna liga Triglav: Radomlje - Olimpija Ljubljana</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261116170000 +0200" stop="20261116190000 +0200" channel="sporttv1.delo.si">
@@ -965,6 +925,70 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261121230000 +0200" stop="20261122010000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Nogomet (M): E Frankfurt - Hoffenheim, Bundesliga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet</category>
+  </programme>
+  <programme start="20261122010000 +0200" stop="20261122030000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Hokej na ledu (M): Jesenice - Cortina , Alpska liga 2026/2027</title>
+    <category lang="sl">Šport • Hokej</category>
+  </programme>
+  <programme start="20261122030000 +0200" stop="20261122050000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Nogomet (M): Feyenoord - Excelsior, Nizozemska liga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet</category>
+  </programme>
+  <programme start="20261122050000 +0200" stop="20261122070000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Nogomet (M): Schalke 04 - Stuttgart, Bundesliga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet</category>
+  </programme>
+  <programme start="20261122070000 +0200" stop="20261122090000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Nogomet (M): Union Berlin - Leipzig, Bundesliga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet</category>
+  </programme>
+  <programme start="20261122090000 +0200" stop="20261122100000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Kolesarstvo: Saitama Criterium: Vrhunci</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
+  </programme>
+  <programme start="20261122100000 +0200" stop="20261122101500 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Futsal magazin</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
+  </programme>
+  <programme start="20261122101500 +0200" stop="20261122121500 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Nogomet (M): E Frankfurt - Hoffenheim, Bundesliga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet</category>
+  </programme>
+  <programme start="20261122121500 +0200" stop="20261122141500 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Nogomet (M): Borussia M. - B Dortmund, Bundesliga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet</category>
+  </programme>
+  <programme start="20261122141500 +0200" stop="20261122150000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Prva liga Telemach: Studio pred Maribor - Nafta</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
+  </programme>
+  <programme start="20261122150000 +0200" stop="20261122170000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Nogomet (M): Maribor - Nafta , Prva liga Telemach 2026/2027</title>
+    <category lang="sl">Šport • Nogomet</category>
+  </programme>
+  <programme start="20261122170000 +0200" stop="20261122173000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Prva liga Telemach: Studio po Maribor - Nafta</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
+  </programme>
+  <programme start="20261122173000 +0200" stop="20261122174500 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Ženski nogometni magazin</title>
+    <category lang="sl">Šport • Informativna oddaja</category>
+  </programme>
+  <programme start="20261122174500 +0200" stop="20261122203000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Hokej na ledu (M): Olimpija - Pustertal, ICE Hockey League 2026/2027</title>
+    <category lang="sl">Šport • Hokej</category>
+  </programme>
+  <programme start="20261122203000 +0200" stop="20261122223000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Nogomet (M): Werder B. - HSV, Bundesliga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet</category>
+  </programme>
+  <programme start="20261122223000 +0200" stop="20261122230000 +0200" channel="sporttv1.delo.si">
+    <title lang="sl">Nogomet (M): Augsburg - Mainz, Bundesliga 2026/2027</title>
+    <category lang="sl">Šport • Nogomet</category>
+  </programme>
+  <programme start="20261122230000 +0200" stop="20261123010000 +0200" channel="sporttv1.delo.si">
     <title lang="sl">Nogomet (M): E Frankfurt - Hoffenheim, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
