@@ -22,7 +22,7 @@
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261121060000 +0200" stop="20261121080000 +0200" channel="sk1.delo.si">
-    <title lang="sl">06:00 Nogomet (M): Triglav - NK Vrhnika, 2. SNL 2026/27</title>
+    <title lang="sl">Nogomet (M): Triglav - NK Vrhnika, 2. SNL 2026/27</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261121080000 +0200" stop="20261121083000 +0200" channel="sk1.delo.si">
@@ -70,7 +70,7 @@
     <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261121194500 +0200" stop="20261121201500 +0200" channel="sk1.delo.si">
-    <title lang="sl">Evroliga: Pregled 12. kroga</title>
+    <title lang="sl">19:45 Evroliga: Pregled 12. kroga</title>
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261121201500 +0200" stop="20261121210000 +0200" channel="sk1.delo.si">
@@ -558,7 +558,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261121070000 +0200" stop="20261121090000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">07:00 Košarka (M): Cedevita - Burgos, Eurocup 2026/2027, Skupina A</title>
+    <title lang="sl">Košarka (M): Cedevita - Burgos, Eurocup 2026/2027, Skupina A</title>
     <category lang="sl">Šport • Košarka</category>
   </programme>
   <programme start="20261121090000 +0200" stop="20261121110000 +0200" channel="sporttv1.delo.si">
@@ -586,7 +586,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261121182500 +0200" stop="20261121203000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Schalke 04 - Stuttgart, Bundesliga 2026/2027</title>
+    <title lang="sl">18:25 Nogomet (M): Schalke 04 - Stuttgart, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261121203000 +0200" stop="20261121205500 +0200" channel="sporttv1.delo.si">
