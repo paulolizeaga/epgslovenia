@@ -30,8 +30,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261125080000 +0200" stop="20261125084500 +0200" channel="sk1.delo.si">
-    <title lang="sl">TV prodaja</title>
-    <category lang="sl">Propagandni program • TV prodaja</category>
+    <title lang="sl">08:00 TV prodaja</title>
+    <category lang="sl">Propagandni program • TV prodaja Vabljeni k nakupu kar iz naslonjača, s pomočjo televizijske prodaje na našem programu.</category>
   </programme>
   <programme start="20261125084500 +0200" stop="20261125104500 +0200" channel="sk1.delo.si">
     <title lang="sl">Nogomet (M): Melbourne Victory - Viettel FC, Azijska druga liga prvakov 2026/27, Skupina E</title>
@@ -558,7 +558,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261125070000 +0200" stop="20261125090000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): E Frankfurt - Hoffenheim, Bundesliga 2026/2027</title>
+    <title lang="sl">07:00 Nogomet (M): E Frankfurt - Hoffenheim, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261125090000 +0200" stop="20261125110000 +0200" channel="sporttv1.delo.si">
