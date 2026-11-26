@@ -22,8 +22,8 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261126080000 +0200" stop="20261126083000 +0200" channel="sk1.delo.si">
-    <title lang="sl">08:00 TV prodaja</title>
-    <category lang="sl">Propagandni program • TV prodaja Vabljeni k nakupu kar iz naslonjača, s pomočjo televizijske prodaje na našem programu.</category>
+    <title lang="sl">TV prodaja</title>
+    <category lang="sl">Propagandni program • TV prodaja</category>
   </programme>
   <programme start="20261126083000 +0200" stop="20261126090000 +0200" channel="sk1.delo.si">
     <title lang="sl">Španska liga: Pregled kroga</title>
@@ -70,8 +70,8 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261126210000 +0200" stop="20261126230000 +0200" channel="sk1.delo.si">
-    <title lang="sl">Nogomet (M): Gent - Crvena z., Konferenčna liga 2026/27</title>
-    <category lang="sl">Šport • Nogomet</category>
+    <title lang="sl">21:00 Nogomet (M): Gent - Crvena z., Konferenčna liga 2026/27</title>
+    <category lang="sl">Šport • Nogomet Od leta 2021 nogometni navdušenci uživajo v Konferenčni ligi, katero organizira UEFA. Zmagovalec lige se v naslednji sezoni uvrsti v Evropsko ligo.</category>
   </programme>
   <programme start="20261126230000 +0200" stop="20261126233000 +0200" channel="sk1.delo.si">
     <title lang="sl">Košarka (M): Philadelphia - Heat, NBA 2026/27</title>
@@ -562,7 +562,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261126070000 +0200" stop="20261126090000 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">07:00 Nogomet (M): E Frankfurt - Hoffenheim, Bundesliga 2026/2027</title>
+    <title lang="sl">Nogomet (M): E Frankfurt - Hoffenheim, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261126090000 +0200" stop="20261126100000 +0200" channel="sporttv1.delo.si">
@@ -606,7 +606,7 @@
     <category lang="sl">Šport • Informativna oddaja</category>
   </programme>
   <programme start="20261126210000 +0200" stop="20261126221500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet (M): Ferencvaros - Celje, UEFA Evropska liga 2026/2027</title>
+    <title lang="sl">21:00 Nogomet (M): Ferencvaros - Celje, UEFA Evropska liga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261126221500 +0200" stop="20261126230000 +0200" channel="sporttv1.delo.si">
@@ -926,7 +926,7 @@
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261201190000 +0200" stop="20261201204500 +0200" channel="sporttv1.delo.si">
-    <title lang="sl">Nogomet: Bundesliga: Borussia Dortmund - Bayer Leverkusen</title>
+    <title lang="sl">Nogomet (M): B Dortmund - B. Leverkusen, Bundesliga 2026/2027</title>
     <category lang="sl">Šport • Nogomet</category>
   </programme>
   <programme start="20261201204500 +0200" stop="20261201210000 +0200" channel="sporttv1.delo.si">
